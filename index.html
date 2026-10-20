@@ -1,0 +1,650 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Morelia NExT 2041 | Mapa Interactivo del Diamante de México</title>
+  <meta name="description"
+    content="Morelia NExT 2041 - Mapa Interactivo del Diamante de México. Evaluación y análisis comparativo de las ciudades a partir de los indicadores del Índice de Competitividad Urbana (ICU).">
+
+  <!-- Favicon / Logo de la pestaña del navegador -->
+  <link rel="icon" type="image/png" href="img/logo_emblem.png">
+  <link rel="apple-touch-icon" href="img/logo_emblem.png">
+
+  <!-- Leaflet CSS -->
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
+    integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="" />
+
+  <!-- Chart.js -->
+  <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.1/dist/chart.umd.min.js"></script>
+
+  <!-- Modular CSS -->
+  <link rel="stylesheet" href="css/base.css?v=28">
+  <link rel="stylesheet" href="css/layout.css?v=28">
+  <link rel="stylesheet" href="css/map.css?v=28">
+  <link rel="stylesheet" href="css/components.css?v=28">
+  <link rel="stylesheet" href="css/responsive.css?v=28">
+</head>
+
+<body>
+
+  <div class="app-container">
+
+    <!-- ==========================================
+         HEADER / MASTHEAD MORELIA NExT
+         ========================================== -->
+    <header class="header">
+      <div class="brand-section">
+        <div class="brand-emblem" title="Morelia NExT 2041">
+          <img src="img/logo_emblem.png" alt="Morelia NExT 2041" class="brand-emblem-img">
+        </div>
+        <div class="brand-titles">
+          <div class="brand-title-wrap">
+            <h1 class="brand-title">Morelia <span class="brand-next">NExT</span> <span class="brand-year">2041</span>
+            </h1>
+            <span class="brand-badge">Mapa Interactivo del Diamante de México</span>
+          </div>
+          <span class="brand-subtitle"
+            title="Indicadores del Índice de Competitividad Urbana (ICU) para la evaluación y comparativa estratégica de las ciudades del Diamante de México">
+            Evaluación y análisis comparativo de las ciudades a partir del Índice de Competitividad Urbana (ICU)
+          </span>
+          <div class="brand-credits">
+            <span>Elaboró: M.C. Edgar Mora D.</span>
+            <span class="brand-credits-sep">•</span>
+            <a href="mailto:edgar.mora.d@gmail.com" class="brand-credit-link"
+              title="Enviar correo">edgar.mora.d@gmail.com</a>
+            <span class="brand-credits-sep">•</span>
+            <a href="https://instagram.com/edgar_rllr" target="_blank" rel="noopener noreferrer"
+              class="brand-credit-link" title="Instagram @edgar_rllr">@edgar_rllr</a>
+          </div>
+        </div>
+      </div>
+
+      <!-- Controles Globales de Encabezado -->
+      <div class="header-controls">
+        <!-- Switch de Año: 2026 y 2024 -->
+        <div class="year-switch-group">
+          <button class="year-btn active" data-year="2026" title="Ver datos del Índice 2026">
+            <span>ICU 2026</span>
+          </button>
+          <button class="year-btn" data-year="2024" title="Ver datos del Índice 2024">
+            <span>ICU 2024</span>
+          </button>
+        </div>
+
+        <!-- Botones de Acción Rápida -->
+        <button id="btn-toggle-basemap" class="header-action-btn" title="Cambiar a Mapa Oscuro">
+          Mapa Oscuro
+        </button>
+        <button id="btn-toggle-labels" class="header-action-btn" title="Mostrar u ocultar etiquetas de ciudades">
+          Etiquetas
+        </button>
+        <button id="btn-toggle-network" class="header-action-btn active"
+          title="Alternar Red de Constelación Candelaria">
+          Red NExT 2041
+        </button>
+        <button id="btn-toggle-poly" class="header-action-btn active" title="Alternar Polígono Diamante">
+          Diamante NExT 2041
+        </button>
+        <button id="btn-header-maximize" class="header-action-btn" title="Mostrar herramientas y paneles laterales">
+          Mostrar herramientas
+        </button>
+        <button id="btn-open-info" class="header-action-btn info-btn"
+          title="¿Qué es Morelia NExT 2041 y el Índice de Competitividad Urbana?">
+          <span class="info-icon-badge">?</span>
+          <span>Acerca de</span>
+        </button>
+      </div>
+    </header>
+
+    <!-- ==========================================
+         MAIN WORKSPACE GRID
+         ========================================== -->
+    <main class="workspace-grid map-maximized">
+
+      <!-- ==========================================
+           COLUMNA IZQUIERDA: FILTROS Y SUBÍNDICES
+           ========================================== -->
+      <aside class="sidebar-left">
+
+        <!-- Estrato de Tamaño de Ciudad -->
+        <section class="sidebar-section">
+          <div class="section-label">
+            <span>Estrato Poblacional</span>
+            <span class="section-badge">15 Ciudades</span>
+          </div>
+          <div class="size-chips-wrap">
+            <button class="size-chip active" data-size="all">Todas (15)</button>
+            <button class="size-chip" data-size="Más de un millón de habitantes">&gt; 1M hab. (8)</button>
+            <button class="size-chip" data-size="De 500 mil a un millón de habitantes">500k - 1M (2)</button>
+            <button class="size-chip" data-size="De 250 a 500 mil habitantes">250k - 500k (2)</button>
+            <button class="size-chip" data-size="Menos de 250 mil habitantes">&lt; 250k (3)</button>
+          </div>
+        </section>
+
+        <!-- Subíndices Temáticos IMCO -->
+        <section class="sidebar-section">
+          <div class="section-label">
+            <span>Subíndices Temáticos</span>
+            <span class="section-badge">6 Ejes</span>
+          </div>
+          <div class="subindex-grid">
+            <button class="subindex-btn active" data-subindex="general"
+              style="--theme-color: #00f0ff; --theme-rgb: 0, 240, 255;">
+              <div class="subindex-btn-left">
+                <div class="subindex-icon">🌐</div>
+                <div class="subindex-name">Índice Global</div>
+              </div>
+              <span class="subindex-count">35 Ind.</span>
+            </button>
+
+            <button class="subindex-btn" data-subindex="innovacion_economia"
+              style="--theme-color: var(--sub-ie); --theme-rgb: 56, 189, 248;">
+              <div class="subindex-btn-left">
+                <div class="subindex-icon">💡</div>
+                <div class="subindex-name">Innovación y Economía</div>
+              </div>
+              <span class="subindex-count">7 Ind.</span>
+            </button>
+
+            <button class="subindex-btn" data-subindex="infraestructura"
+              style="--theme-color: var(--sub-inf); --theme-rgb: 6, 182, 212;">
+              <div class="subindex-btn-left">
+                <div class="subindex-icon">🏗️</div>
+                <div class="subindex-name">Infraestructura</div>
+              </div>
+              <span class="subindex-count">7 Ind.</span>
+            </button>
+
+            <button class="subindex-btn" data-subindex="mercado_trabajo"
+              style="--theme-color: var(--sub-mt); --theme-rgb: 245, 158, 11;">
+              <div class="subindex-btn-left">
+                <div class="subindex-icon">💼</div>
+                <div class="subindex-name">Mercado de Trabajo</div>
+              </div>
+              <span class="subindex-count">6 Ind.</span>
+            </button>
+
+            <button class="subindex-btn" data-subindex="sociedad_medio_ambiente"
+              style="--theme-color: var(--sub-sma); --theme-rgb: 168, 85, 247;">
+              <div class="subindex-btn-left">
+                <div class="subindex-icon">🌱</div>
+                <div class="subindex-name">Sociedad y Medio Ambiente</div>
+              </div>
+              <span class="subindex-count">6 Ind.</span>
+            </button>
+
+            <button class="subindex-btn" data-subindex="derecho"
+              style="--theme-color: var(--sub-der); --theme-rgb: 239, 68, 68;">
+              <div class="subindex-btn-left">
+                <div class="subindex-icon">⚖️</div>
+                <div class="subindex-name">Derecho y Seguridad</div>
+              </div>
+              <span class="subindex-count">4 Ind.</span>
+            </button>
+
+            <button class="subindex-btn" data-subindex="sistema_politico_gobierno"
+              style="--theme-color: var(--sub-spg); --theme-rgb: 249, 115, 22;">
+              <div class="subindex-btn-left">
+                <div class="subindex-icon">🏛️</div>
+                <div class="subindex-name">Sistema Político y Gobierno</div>
+              </div>
+              <span class="subindex-count">5 Ind.</span>
+            </button>
+          </div>
+        </section>
+
+        <!-- Selector y Buscador de Indicadores -->
+        <section class="sidebar-section">
+          <div class="section-label">
+            <span>Explorador de Indicadores</span>
+            <span class="section-badge" id="indicator-badge-count">35 Ind.</span>
+          </div>
+          <div class="indicator-selector-box">
+            <!-- Buscador con icono y botón para borrar -->
+            <div class="indicator-search-wrap">
+              <span class="indicator-search-icon">🔍</span>
+              <input type="text" id="indicator-search" class="indicator-search-input"
+                placeholder="Buscar indicador o temática..." autocomplete="off">
+              <button type="button" id="indicator-search-clear" class="indicator-search-clear"
+                title="Borrar búsqueda y deseleccionar" style="display: none;">✕</button>
+            </div>
+
+            <!-- Lista interactiva de indicadores coincidentes (aparece abajo al buscar) -->
+            <div id="indicator-search-results" class="indicator-search-results" style="display: none;"></div>
+
+            <!-- Dropdown tradicional por subíndice -->
+            <select id="indicator-select" class="indicator-dropdown-select">
+              <option value="none">Todos los indicadores (35)</option>
+            </select>
+
+            <!-- Ficha descriptiva del indicador seleccionado -->
+            <div id="indicator-meta-card" class="indicator-meta-card" style="display: none;">
+              <div class="indicator-meta-header">
+                <div id="indicator-meta-title" class="meta-label">-</div>
+                <button type="button" id="btn-clear-indicator" class="btn-clear-meta-ind"
+                  title="Quitar indicador (volver a vista general)">✕ Deseleccionar</button>
+              </div>
+              <div id="indicator-meta-unit" class="meta-unit">-</div>
+            </div>
+          </div>
+        </section>
+
+        <!-- Semáforo de Desempeño IMCO (Filtros Interactivos) -->
+        <section class="sidebar-section">
+          <div class="section-label">
+            <span>Distribución de Desempeño</span>
+            <button id="btn-clear-perf-filter" class="btn-clear-perf" style="display: none;"
+              title="Mostrar todas las ciudades">✕ Todos</button>
+            <span class="section-badge" id="perf-filter-badge">IMCO</span>
+          </div>
+          <div class="performance-counts-grid">
+            <div class="perf-counter-card" data-tier="Muy alta">
+              <div class="perf-dot" style="background: var(--imco-muy-alta); box-shadow: 0 0 8px var(--imco-muy-alta);">
+              </div>
+              <div class="perf-info">
+                <span class="perf-name">Muy Alta</span>
+                <span class="perf-val">0</span>
+              </div>
+            </div>
+            <div class="perf-counter-card" data-tier="Alta">
+              <div class="perf-dot" style="background: var(--imco-alta); box-shadow: 0 0 8px var(--imco-alta);"></div>
+              <div class="perf-info">
+                <span class="perf-name">Alta</span>
+                <span class="perf-val">0</span>
+              </div>
+            </div>
+            <div class="perf-counter-card" data-tier="Media alta">
+              <div class="perf-dot"
+                style="background: var(--imco-media-alta); box-shadow: 0 0 8px var(--imco-media-alta);"></div>
+              <div class="perf-info">
+                <span class="perf-name">Media Alta</span>
+                <span class="perf-val">0</span>
+              </div>
+            </div>
+            <div class="perf-counter-card" data-tier="Media baja">
+              <div class="perf-dot"
+                style="background: var(--imco-media-baja); box-shadow: 0 0 8px var(--imco-media-baja);"></div>
+              <div class="perf-info">
+                <span class="perf-name">Media Baja</span>
+                <span class="perf-val">0</span>
+              </div>
+            </div>
+            <div class="perf-counter-card" data-tier="Baja">
+              <div class="perf-dot" style="background: var(--imco-baja); box-shadow: 0 0 8px var(--imco-baja);"></div>
+              <div class="perf-info">
+                <span class="perf-name">Baja</span>
+                <span class="perf-val">0</span>
+              </div>
+            </div>
+            <div class="perf-counter-card" data-tier="Muy baja">
+              <div class="perf-dot" style="background: var(--imco-muy-baja); box-shadow: 0 0 8px var(--imco-muy-baja);">
+              </div>
+              <div class="perf-info">
+                <span class="perf-name">Muy Baja</span>
+                <span class="perf-val">0</span>
+              </div>
+            </div>
+          </div>
+        </section>
+
+      </aside>
+
+      <!-- ==========================================
+           CANVAS CENTRAL: MAPA ESPACIAL INTERACTIVO
+           ========================================== -->
+      <section class="map-viewport">
+
+        <!-- Contenedor del Mapa Leaflet (capa base) -->
+        <div id="map-canvas"></div>
+
+        <!-- Leyenda Flotante Inferior -->
+        <div class="map-floating-overlay-bottom">
+          <div class="map-legend-card">
+            <div class="legend-title">ÍNDICE DE COMPETIIVIDAD URBANA (ICU)</div>
+            <div class="legend-scale-bar">
+              <div class="legend-seg" style="background: var(--imco-muy-baja);" title="Muy baja"></div>
+              <div class="legend-seg" style="background: var(--imco-baja);" title="Baja"></div>
+              <div class="legend-seg" style="background: var(--imco-media-baja);" title="Media baja"></div>
+              <div class="legend-seg" style="background: var(--imco-media-alta);" title="Media alta"></div>
+              <div class="legend-seg" style="background: var(--imco-alta);" title="Alta"></div>
+              <div class="legend-seg" style="background: var(--imco-muy-alta);" title="Muy alta"></div>
+            </div>
+            <div class="legend-labels">
+              <span>Muy baja</span>
+              <span>Media</span>
+              <span>Muy alta</span>
+            </div>
+          </div>
+        </div>
+
+      </section>
+
+      <!-- ==========================================
+           COLUMNA DERECHA: ANALÍTICA Y BENCHMARK
+           ========================================== -->
+      <aside class="sidebar-right">
+
+        <!-- Escalafón de Competitividad con Selector de Ordenamiento -->
+        <section class="sidebar-section ranking-container">
+          <div class="section-label">
+            <span id="rank-section-title">Escalafón de Competitividad</span>
+            <span class="section-badge" id="rank-section-badge">Agrupado IMCO</span>
+          </div>
+
+          <!-- Selector de Modo de Ordenamiento -->
+          <div class="rank-order-selector-wrap">
+            <label for="rank-order-select" class="rank-order-label">Ordenar ciudades por:</label>
+            <select id="rank-order-select" class="rank-order-select"
+              title="Seleccionar criterio para ordenar y agrupar las ciudades">
+              <option value="estrato" selected>Por tamaño de ciudad (4 grupos)</option>
+              <option value="diamante">Por posición en el Diamante (1º al 15º)</option>
+              <option value="nacional">Por lugar a nivel nacional (de 72 ciudades)</option>
+            </select>
+          </div>
+
+          <!-- Contenedor dinámico de estratos y tarjetas de podio normalizadas -->
+          <div id="rank-ladder-container" class="ranking-container">
+            <!-- Rellenado dinámicamente -->
+          </div>
+        </section>
+
+      </aside>
+
+    </main>
+
+    <!-- ==========================================
+         EXPEDIENTE / DOSSIER DE CIUDAD (DRAWER)
+         ========================================== -->
+    <div id="city-drawer" class="city-drawer">
+      <div class="drawer-header">
+        <div class="drawer-header-info">
+          <div class="drawer-title-row">
+            <h2 id="drawer-city-title" class="drawer-city-title">Morelia</h2>
+            <!-- Badges al lado del nombre: Lugar, Variación, Nivel y Puntaje de la tabla Posiciones Generales -->
+            <div id="drawer-city-icu-metrics" class="drawer-pos-metrics-wrap"
+              title="Indicadores de la tabla Posiciones Generales del ICU (IMCO)">
+              <div class="pos-metric-badge badge-lugar"
+                title="Lugar en el ranking general nacional del ICU (de 72 ciudades)">
+                <b class="pos-v">Lugar #34 Nacional</b>
+              </div>
+              <div class="pos-metric-badge var-up" title="Variación de posiciones respecto a la edición previa del ICU">
+                <span class="pos-k">Variación</span>
+                <b class="pos-v">▲ +6</b>
+              </div>
+              <div class="pos-metric-badge badge-nivel"
+                style="background:rgba(253, 155, 30, 0.20); border-color:#fd9b1e; color:#fed7aa;"
+                title="Nivel general de competitividad urbana">
+                <span class="pos-k" style="color:#fed7aa; opacity:0.85;">Nivel</span>
+                <b class="pos-v" style="color:#fed7aa;">Media baja</b>
+              </div>
+              <div class="pos-metric-badge badge-puntaje" title="Puntaje global obtenido en el ICU">
+                <span class="pos-k">Puntaje</span>
+                <b class="pos-v">52.15</b>
+              </div>
+            </div>
+          </div>
+          <div class="drawer-subtitle-row">
+            <span id="drawer-city-badge" class="brand-badge"
+              title="Posición de acuerdo a la clasificación de tamaño de ciudades">Posición #15 de 21</span>
+            <span id="drawer-city-group" class="drawer-city-group-text">Más de un millón de habitantes (21
+              ciudades)</span>
+          </div>
+        </div>
+        <button id="drawer-close-btn" class="drawer-close-btn" title="Cerrar expediente">✕</button>
+      </div>
+
+      <div class="drawer-body">
+
+        <!-- Comparador Directo -->
+        <div
+          style="background: rgba(0,0,0,0.35); padding:10px; border-radius:8px; border:1px solid var(--border-subtle); display:flex; align-items:center; justify-content:space-between; gap:10px;">
+          <span style="font-size:0.75rem; font-weight:700; color:var(--accent-cyan);">Comparar con:</span>
+          <select id="drawer-compare-select" class="indicator-dropdown-select" style="flex:1;">
+            <option value="none">-- Sin Comparación --</option>
+            <option value="hist_2024">Comparar con el 2024</option>
+          </select>
+        </div>
+
+        <!-- Gráfico de Radar de Desempeño en los 6 Subíndices -->
+        <div class="sidebar-section">
+          <div class="section-label">
+            <span>Perfil Multidimensional (Desempeño en 6 Subíndices)</span>
+            <span class="section-badge">Nivel de Desempeño</span>
+          </div>
+          <div class="drawer-radar-wrap">
+            <canvas id="drawer-radar-canvas"></canvas>
+          </div>
+        </div>
+
+        <!-- Tabla Completa de los 35 Indicadores -->
+        <div class="sidebar-section">
+          <div class="section-label">
+            <span>Ficha Estadística Completa (35 Indicadores)</span>
+            <span class="section-badge">IMCO</span>
+          </div>
+          <div class="table-responsive">
+            <table class="indicators-data-table">
+              <thead>
+                <tr>
+                  <th style="width: 44%;">Indicador</th>
+                  <th style="width: 13%; text-align: right;">2026</th>
+                  <th style="width: 13%; text-align: right;">2024</th>
+                  <th style="width: 10%; text-align: center;">Δ</th>
+                  <th style="width: 8%; text-align: center;">Pos.</th>
+                  <th style="width: 12%; text-align: center;">Desempeño</th>
+                </tr>
+              </thead>
+              <tbody id="drawer-indicators-tbody">
+                <!-- Filas rellenadas dinámicamente -->
+              </tbody>
+            </table>
+          </div>
+        </div>
+
+      </div>
+    </div>
+
+  </div>
+
+  <!-- ==========================================
+       MODAL INFORMATIVO Y METODOLÓGICO:
+       Morelia NExT 2041 e Índice de Competitividad Urbana (IMCO)
+       ========================================== -->
+  <div id="info-modal" class="info-modal-backdrop" style="display: none;" role="dialog" aria-modal="true"
+    aria-labelledby="info-modal-title">
+    <div class="info-modal-card">
+
+      <!-- Header del Modal -->
+      <div class="info-modal-header">
+        <div class="info-header-left">
+          <div class="info-emblem-badge" title="Morelia NExT 2041">
+            <img src="img/logo_emblem.png" alt="Morelia NExT 2041" class="info-emblem-img">
+          </div>
+          <div>
+            <h2 id="info-modal-title" class="info-title">Marco Metodológico y Estratégico</h2>
+            <div class="info-subtitle">Morelia NExT 2041 · Índice de Competitividad Urbana (ICU - IMCO)</div>
+          </div>
+        </div>
+        <button id="info-modal-close" class="info-close-btn" title="Cerrar ventana">✕</button>
+      </div>
+
+      <!-- Cuerpo del Modal -->
+      <div class="info-modal-body">
+
+        <!-- Ficha de Autoría / Elaboración -->
+        <div class="info-author-card">
+          <div class="info-author-avatar">
+            <span>EM</span>
+          </div>
+          <div class="info-author-info">
+            <div class="info-author-badge">Plataforma y Análisis Elaborado por</div>
+            <div class="info-author-name">M.C. Edgar Mora Damian</div>
+            <p class="info-author-text">
+              Para consultas técnicas, retroalimentación metodológica, vinculación académica o institucional sobre esta
+              plataforma de inteligencia territorial, puedes establecer contacto directo:
+            </p>
+            <div class="info-author-links">
+              <a href="https://instagram.com/edgar_rllr" target="_blank" rel="noopener noreferrer"
+                class="info-author-tag tag-instagram" title="Instagram de Edgar Mora">
+                <svg class="info-author-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+                  stroke-linecap="round" stroke-linejoin="round">
+                  <rect x="2" y="2" width="20" height="20" rx="5" ry="5"></rect>
+                  <path d="M16 11.37A4 4 0 1 1 12.63 8 4 4 0 0 1 16 11.37z"></path>
+                  <line x1="17.5" y1="6.5" x2="17.51" y2="6.5"></line>
+                </svg>
+                <span>@edgar_rllr</span>
+              </a>
+              <a href="mailto:edgar.mora.d@gmail.com" class="info-author-tag tag-email"
+                title="Enviar correo a Edgar Mora">
+                <svg class="info-author-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+                  stroke-linecap="round" stroke-linejoin="round">
+                  <path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z"></path>
+                  <polyline points="22,6 12,13 2,6"></polyline>
+                </svg>
+                <span>edgar.mora.d@gmail.com</span>
+              </a>
+            </div>
+          </div>
+        </div>
+
+        <!-- Sección 1: Morelia NExT 2041 -->
+        <div class="info-block">
+          <div class="info-block-header">
+            <span class="info-block-num">01</span>
+            <h3 class="info-block-title">¿Qué es Morelia NExT 2041?</h3>
+          </div>
+          <p class="info-block-text">
+            El <strong>Plan de Gran Visión Morelia NExT 2041</strong> es el instrumento rector de planeación
+            estratégica, ordenamiento territorial y desarrollo integral de largo plazo diseñado por el <strong>Instituto
+              Municipal de Planeación de Morelia (IMPLAN)</strong>. Proyecta la evolución metropolitana del municipio
+            con miras al año 2041 —en conmemoración del quinto centenario de la fundación de la ciudad—, con el
+            propósito de consolidar una metrópoli sostenible, competitiva, conectada, innovadora y con equidad social.
+          </p>
+          <p class="info-block-text">
+            Dentro de este modelo territorial, Morelia se concibe como el <strong>Corazón del Diamante de
+              México</strong>: un polo articulador geográfico, logístico y cultural situado en el centro neurálgico de
+            la megalópolis más dinámica y productiva del país (integrada por grandes zonas metropolitanas como Ciudad de
+            México, Guadalajara, Querétaro, León, San Luis Potosí, Aguascalientes, Toluca, Puebla-Tlaxcala y
+            Cuernavaca).
+          </p>
+        </div>
+
+        <!-- Sección 2: Índice de Competitividad Urbana (ICU) -->
+        <div class="info-block">
+          <div class="info-block-header">
+            <span class="info-block-num">02</span>
+            <h3 class="info-block-title">¿Qué es el Índice de Competitividad Urbana y quién lo calcula?</h3>
+          </div>
+          <p class="info-block-text">
+            El <strong>Índice de Competitividad Urbana (ICU)</strong> es un riguroso estudio desarrollado de manera
+            bienal e independiente por el <strong>Instituto Mexicano para la Competitividad (IMCO)</strong>, uno de los
+            centros de investigación aplicada de mayor prestigio en México en materia de economía y políticas públicas.
+          </p>
+          <p class="info-block-text">
+            El ICU evalúa sistemáticamente la capacidad de las ciudades mexicanas para <strong>generar, atraer y retener
+              talento e inversión</strong>. Mide el desempeño de las metrópolis a través de indicadores distribuidos en
+            6 subíndices temáticos fundamentales:
+          </p>
+          <ul class="info-subindices-list">
+            <li><strong>💡 Innovación y Economía:</strong> Dinamismo del PIB, registro de patentes, diversificación
+              económica y centros de investigación.</li>
+            <li><strong>🏗️ Infraestructura:</strong> Telecomunicaciones e internet, servicios financieros, vivienda
+              intraurbana y seguridad vial.</li>
+            <li><strong>💼 Mercado de Trabajo:</strong> Salario mensual, formalidad laboral, equidad salarial de género
+              y jornadas laborales dignas.</li>
+            <li><strong>🌱 Sociedad y Medio Ambiente:</strong> Cobertura educativa, grado de escolaridad, personal de
+              salud, gestión hídrica y residuos sólidos.</li>
+            <li><strong>⚖️ Derecho y Seguridad:</strong> Seguridad ciudadana, tasas de homicidio, robo de vehículos y
+              certeza jurídica.</li>
+            <li><strong>🏛️ Sistema Político y Gobierno:</strong> Eficacia gubernamental, autonomía financiera local,
+              transparencia y combate a la corrupción.</li>
+          </ul>
+        </div>
+
+        <!-- Sección 3: Conclusión y Articulación Estratégica -->
+        <div class="info-block highlight-block">
+          <div class="info-block-header">
+            <span class="info-block-num">03</span>
+            <h3 class="info-block-title">¿Cómo se relacionan estos indicadores con el Morelia NExT?</h3>
+          </div>
+          <p class="info-block-text">
+            Esta plataforma interactiva vincula los datos oficiales del <strong>ICU (ediciones 2024 y 2026)</strong> con
+            el <strong>Plan Morelia NExT 2041</strong> para funcionar como un <strong>sistema de inteligencia
+              territorial y benchmarking competitivo en tiempo real</strong>.
+          </p>
+          <p class="info-block-text">
+            La correlación de estos 35 indicadores permite medir de forma transparente y objetiva la posición de Morelia
+            frente a las 14 metrópolis pares del Diamante de México bajo la estratificación poblacional oficial del
+            IMCO. De esta forma, el índice ofrece la evidencia empírica para fundamentar la toma de decisiones, evaluar
+            avances históricos, identificar fortalezas y focalizar los proyectos y políticas públicas estratégicas hacia
+            el horizonte 2041.
+          </p>
+        </div>
+
+        <!-- Sección 4: Fuentes Oficiales y Referencias -->
+        <div class="info-block">
+          <div class="info-block-header">
+            <span class="info-block-num">04</span>
+            <h3 class="info-block-title">Fuentes y Documentos Oficiales de Consulta</h3>
+          </div>
+          <p class="info-block-text" style="margin-bottom: 12px;">
+            Puedes consultar de manera directa las fuentes metodológicas y los documentos rectores en sus respectivos
+            portales oficiales:
+          </p>
+          <div class="info-links-grid">
+            <a href="https://implanmorelia.org/site/wp-content/uploads/2023/12/MORELIA-NExT-_2023_BR.pdf"
+              target="_blank" rel="noopener noreferrer" class="info-reference-card">
+              <div class="info-ref-icon">📘</div>
+              <div class="info-ref-content">
+                <div class="info-ref-title">Plan de Gran Visión Morelia NExT 2041</div>
+                <div class="info-ref-desc">Documento oficial completo en PDF publicado por el IMPLAN Morelia.</div>
+                <span class="info-ref-link">Abrir documento oficial (PDF) ↗</span>
+              </div>
+            </a>
+
+            <a href="https://imco.org.mx/indice-de-competitividad-urbana-2026-2/" target="_blank"
+              rel="noopener noreferrer" class="info-reference-card">
+              <div class="info-ref-icon">📊</div>
+              <div class="info-ref-content">
+                <div class="info-ref-title">Índice de Competitividad Urbana (ICU)</div>
+                <div class="info-ref-desc">Portal oficial y base de datos del Instituto Mexicano para la Competitividad
+                  (IMCO).</div>
+                <span class="info-ref-link">Consultar metodología y datos IMCO ↗</span>
+              </div>
+            </a>
+          </div>
+        </div>
+
+      </div>
+
+      <!-- Footer del Modal -->
+      <div class="info-modal-footer">
+        <div class="info-footer-credits">
+          <span>Elaborado por: <strong>M.C. Edgar Mora Damian</strong></span>
+          <span class="dot-separator">•</span>
+          <span>Morelia NExT 2041 · IMPLAN Morelia</span>
+        </div>
+        <button id="info-modal-btn-close" class="btn-info-primary">Entendido</button>
+      </div>
+
+    </div>
+  </div>
+
+  <!-- Leaflet JS -->
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
+    integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+
+  <!-- Modular Scripts -->
+  <script src="js/data-bundle.js?v=31"></script>
+  <script src="js/posiciones-data.js?v=31"></script>
+  <script src="js/state.js?v=31"></script>
+  <script src="js/charts.js?v=31"></script>
+  <script src="js/map.js?v=31"></script>
+  <script src="js/ui.js?v=31"></script>
+  <script src="js/app.js?v=31"></script>
+
+</body>
+
+</html>

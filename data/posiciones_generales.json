@@ -1,0 +1,578 @@
+[
+  {
+    "Lugar": "1",
+    "Ciudad": "Querétaro",
+    "Grupo": "Más de 1 millón",
+    "Puntaje": "63.93",
+    "Nivel": "Alta",
+    "Variación": "sube+3"
+  },
+  {
+    "Lugar": "2",
+    "Ciudad": "Guadalajara",
+    "Grupo": "Más de 1 millón",
+    "Puntaje": "63.84",
+    "Nivel": "Alta",
+    "Variación": "baja-1"
+  },
+  {
+    "Lugar": "3",
+    "Ciudad": "Hermosillo",
+    "Grupo": "Más de 1 millón",
+    "Puntaje": "63.05",
+    "Nivel": "Alta",
+    "Variación": "="
+  },
+  {
+    "Lugar": "4",
+    "Ciudad": "Saltillo",
+    "Grupo": "Más de 1 millón",
+    "Puntaje": "62.37",
+    "Nivel": "Alta",
+    "Variación": "sube+1"
+  },
+  {
+    "Lugar": "5",
+    "Ciudad": "Monterrey",
+    "Grupo": "Más de 1 millón",
+    "Puntaje": "61.31",
+    "Nivel": "Media alta",
+    "Variación": "baja-3"
+  },
+  {
+    "Lugar": "6",
+    "Ciudad": "Mérida",
+    "Grupo": "Más de 1 millón",
+    "Puntaje": "60.98",
+    "Nivel": "Media alta",
+    "Variación": "sube+10"
+  },
+  {
+    "Lugar": "7",
+    "Ciudad": "Chihuahua",
+    "Grupo": "Más de 1 millón",
+    "Puntaje": "60.1",
+    "Nivel": "Media alta",
+    "Variación": "="
+  },
+  {
+    "Lugar": "8",
+    "Ciudad": "Puerto Vallarta",
+    "Grupo": "500 mil a 1 millón",
+    "Puntaje": "59.4",
+    "Nivel": "Alta",
+    "Variación": "sube+2"
+  },
+  {
+    "Lugar": "9",
+    "Ciudad": "Aguascalientes",
+    "Grupo": "Más de 1 millón",
+    "Puntaje": "59.1",
+    "Nivel": "Media alta",
+    "Variación": "="
+  },
+  {
+    "Lugar": "10",
+    "Ciudad": "Tepic",
+    "Grupo": "500 mil a 1 millón",
+    "Puntaje": "58.78",
+    "Nivel": "Alta",
+    "Variación": "sube+4"
+  },
+  {
+    "Lugar": "11",
+    "Ciudad": "Delicias",
+    "Grupo": "Menos de 250 mil",
+    "Puntaje": "57.95",
+    "Nivel": "Alta",
+    "Variación": "sube+6"
+  },
+  {
+    "Lugar": "12",
+    "Ciudad": "San Luis Potosí",
+    "Grupo": "Más de 1 millón",
+    "Puntaje": "57.6",
+    "Nivel": "Media alta",
+    "Variación": "baja-1"
+  },
+  {
+    "Lugar": "13",
+    "Ciudad": "Veracruz",
+    "Grupo": "500 mil a 1 millón",
+    "Puntaje": "57.17",
+    "Nivel": "Media alta",
+    "Variación": "sube+10"
+  },
+  {
+    "Lugar": "14",
+    "Ciudad": "Ciudad de México",
+    "Grupo": "Más de 1 millón",
+    "Puntaje": "56.79",
+    "Nivel": "Media alta",
+    "Variación": "baja-6"
+  },
+  {
+    "Lugar": "15",
+    "Ciudad": "La Laguna",
+    "Grupo": "Más de 1 millón",
+    "Puntaje": "56.5",
+    "Nivel": "Media alta",
+    "Variación": "="
+  },
+  {
+    "Lugar": "16",
+    "Ciudad": "Durango",
+    "Grupo": "500 mil a 1 millón",
+    "Puntaje": "56.47",
+    "Nivel": "Media alta",
+    "Variación": "baja-4"
+  },
+  {
+    "Lugar": "17",
+    "Ciudad": "La Paz",
+    "Grupo": "250 mil a 500 mil",
+    "Puntaje": "56.25",
+    "Nivel": "Media alta",
+    "Variación": "baja-4"
+  },
+  {
+    "Lugar": "18",
+    "Ciudad": "Pachuca",
+    "Grupo": "500 mil a 1 millón",
+    "Puntaje": "55.99",
+    "Nivel": "Media alta",
+    "Variación": "sube+1"
+  },
+  {
+    "Lugar": "19",
+    "Ciudad": "Monclova-Frontera",
+    "Grupo": "250 mil a 500 mil",
+    "Puntaje": "55.92",
+    "Nivel": "Media alta",
+    "Variación": "sube+7"
+  },
+  {
+    "Lugar": "20",
+    "Ciudad": "Nuevo Laredo",
+    "Grupo": "250 mil a 500 mil",
+    "Puntaje": "55.88",
+    "Nivel": "Alta",
+    "Variación": "baja-2"
+  },
+  {
+    "Lugar": "21",
+    "Ciudad": "Tampico",
+    "Grupo": "500 mil a 1 millón",
+    "Puntaje": "55.44",
+    "Nivel": "Media alta",
+    "Variación": "baja-1"
+  },
+  {
+    "Lugar": "22",
+    "Ciudad": "Los Cabos",
+    "Grupo": "250 mil a 500 mil",
+    "Puntaje": "55.38",
+    "Nivel": "Alta",
+    "Variación": "baja-16"
+  },
+  {
+    "Lugar": "23",
+    "Ciudad": "Playa del Carmen",
+    "Grupo": "250 mil a 500 mil",
+    "Puntaje": "54.98",
+    "Nivel": "Alta",
+    "Variación": "sube+1"
+  },
+  {
+    "Lugar": "24",
+    "Ciudad": "Ciudad Victoria",
+    "Grupo": "250 mil a 500 mil",
+    "Puntaje": "54.76",
+    "Nivel": "Media alta",
+    "Variación": "sube+8"
+  },
+  {
+    "Lugar": "25",
+    "Ciudad": "Juárez",
+    "Grupo": "Más de 1 millón",
+    "Puntaje": "54.67",
+    "Nivel": "Media baja",
+    "Variación": "="
+  },
+  {
+    "Lugar": "26",
+    "Ciudad": "Mexicali",
+    "Grupo": "Más de 1 millón",
+    "Puntaje": "54.56",
+    "Nivel": "Media baja",
+    "Variación": "sube+5"
+  },
+  {
+    "Lugar": "27",
+    "Ciudad": "Piedras Negras",
+    "Grupo": "Menos de 250 mil",
+    "Puntaje": "54.32",
+    "Nivel": "Alta",
+    "Variación": "sube+3"
+  },
+  {
+    "Lugar": "28",
+    "Ciudad": "Mazatlán",
+    "Grupo": "500 mil a 1 millón",
+    "Puntaje": "53.43",
+    "Nivel": "Media alta",
+    "Variación": "="
+  },
+  {
+    "Lugar": "29",
+    "Ciudad": "Zacatecas-Guadalupe",
+    "Grupo": "250 mil a 500 mil",
+    "Puntaje": "53.04",
+    "Nivel": "Media alta",
+    "Variación": "sube+5"
+  },
+  {
+    "Lugar": "30",
+    "Ciudad": "Los Mochis",
+    "Grupo": "250 mil a 500 mil",
+    "Puntaje": "52.59",
+    "Nivel": "Media alta",
+    "Variación": "sube+7"
+  },
+  {
+    "Lugar": "31",
+    "Ciudad": "Irapuato",
+    "Grupo": "500 mil a 1 millón",
+    "Puntaje": "52.57",
+    "Nivel": "Media alta",
+    "Variación": "baja-4"
+  },
+  {
+    "Lugar": "32",
+    "Ciudad": "León",
+    "Grupo": "Más de 1 millón",
+    "Puntaje": "52.33",
+    "Nivel": "Media baja",
+    "Variación": "sube+4"
+  },
+  {
+    "Lugar": "33",
+    "Ciudad": "Silao",
+    "Grupo": "250 mil a 500 mil",
+    "Puntaje": "52.26",
+    "Nivel": "Alta",
+    "Variación": "baja-4"
+  },
+  {
+    "Lugar": "34",
+    "Ciudad": "Morelia",
+    "Grupo": "Más de 1 millón",
+    "Puntaje": "52.15",
+    "Nivel": "Media baja",
+    "Variación": "sube+6"
+  },
+  {
+    "Lugar": "35",
+    "Ciudad": "Villahermosa",
+    "Grupo": "500 mil a 1 millón",
+    "Puntaje": "52.14",
+    "Nivel": "Media alta",
+    "Variación": "sube+4"
+  },
+  {
+    "Lugar": "36",
+    "Ciudad": "Nogales",
+    "Grupo": "250 mil a 500 mil",
+    "Puntaje": "51.35",
+    "Nivel": "Media alta",
+    "Variación": "baja-1"
+  },
+  {
+    "Lugar": "37",
+    "Ciudad": "Xalapa",
+    "Grupo": "500 mil a 1 millón",
+    "Puntaje": "50.97",
+    "Nivel": "Media alta",
+    "Variación": "baja-15"
+  },
+  {
+    "Lugar": "38",
+    "Ciudad": "Ciudad Obregón",
+    "Grupo": "250 mil a 500 mil",
+    "Puntaje": "50.67",
+    "Nivel": "Media alta",
+    "Variación": "sube+6"
+  },
+  {
+    "Lugar": "39",
+    "Ciudad": "Campeche",
+    "Grupo": "250 mil a 500 mil",
+    "Puntaje": "50.59",
+    "Nivel": "Media alta",
+    "Variación": "sube+14"
+  },
+  {
+    "Lugar": "40",
+    "Ciudad": "Toluca",
+    "Grupo": "Más de 1 millón",
+    "Puntaje": "50.5",
+    "Nivel": "Media baja",
+    "Variación": "sube+7"
+  },
+  {
+    "Lugar": "41",
+    "Ciudad": "Ensenada",
+    "Grupo": "250 mil a 500 mil",
+    "Puntaje": "50.12",
+    "Nivel": "Media baja",
+    "Variación": "sube+8"
+  },
+  {
+    "Lugar": "42",
+    "Ciudad": "Puebla-Tlaxcala",
+    "Grupo": "Más de 1 millón",
+    "Puntaje": "49.38",
+    "Nivel": "Media baja",
+    "Variación": "sube+8"
+  },
+  {
+    "Lugar": "43",
+    "Ciudad": "Ocotlán",
+    "Grupo": "Menos de 250 mil",
+    "Puntaje": "49.25",
+    "Nivel": "Alta",
+    "Variación": "baja-22"
+  },
+  {
+    "Lugar": "44",
+    "Ciudad": "Cancún",
+    "Grupo": "Más de 1 millón",
+    "Puntaje": "49",
+    "Nivel": "Media baja",
+    "Variación": "sube+2"
+  },
+  {
+    "Lugar": "45",
+    "Ciudad": "Oaxaca",
+    "Grupo": "500 mil a 1 millón",
+    "Puntaje": "48.98",
+    "Nivel": "Media baja",
+    "Variación": "="
+  },
+  {
+    "Lugar": "46",
+    "Ciudad": "Guaymas",
+    "Grupo": "Menos de 250 mil",
+    "Puntaje": "48.85",
+    "Nivel": "Media alta",
+    "Variación": "sube+6"
+  },
+  {
+    "Lugar": "47",
+    "Ciudad": "Colima-Villa de Álvarez",
+    "Grupo": "250 mil a 500 mil",
+    "Puntaje": "48.03",
+    "Nivel": "Media baja",
+    "Variación": "sube+4"
+  },
+  {
+    "Lugar": "48",
+    "Ciudad": "Culiacán",
+    "Grupo": "Más de 1 millón",
+    "Puntaje": "47.93",
+    "Nivel": "Baja",
+    "Variación": "baja-6"
+  },
+  {
+    "Lugar": "49",
+    "Ciudad": "Sabinas",
+    "Grupo": "Menos de 250 mil",
+    "Puntaje": "47.76",
+    "Nivel": "Media alta",
+    "Variación": "baja-16"
+  },
+  {
+    "Lugar": "50",
+    "Ciudad": "Chetumal",
+    "Grupo": "250 mil a 500 mil",
+    "Puntaje": "47.04",
+    "Nivel": "Media baja",
+    "Variación": "sube+6"
+  },
+  {
+    "Lugar": "51",
+    "Ciudad": "La Piedad-Pénjamo",
+    "Grupo": "250 mil a 500 mil",
+    "Puntaje": "46.59",
+    "Nivel": "Media alta",
+    "Variación": "baja-13"
+  },
+  {
+    "Lugar": "52",
+    "Ciudad": "Orizaba",
+    "Grupo": "250 mil a 500 mil",
+    "Puntaje": "46.59",
+    "Nivel": "Media baja",
+    "Variación": "baja-4"
+  },
+  {
+    "Lugar": "53",
+    "Ciudad": "Reynosa",
+    "Grupo": "500 mil a 1 millón",
+    "Puntaje": "46.13",
+    "Nivel": "Media baja",
+    "Variación": "sube+1"
+  },
+  {
+    "Lugar": "54",
+    "Ciudad": "Matamoros",
+    "Grupo": "500 mil a 1 millón",
+    "Puntaje": "46.12",
+    "Nivel": "Media baja",
+    "Variación": "sube+1"
+  },
+  {
+    "Lugar": "55",
+    "Ciudad": "Tuxtla Gutiérrez",
+    "Grupo": "500 mil a 1 millón",
+    "Puntaje": "46.06",
+    "Nivel": "Media baja",
+    "Variación": "sube+6"
+  },
+  {
+    "Lugar": "56",
+    "Ciudad": "Tapachula",
+    "Grupo": "250 mil a 500 mil",
+    "Puntaje": "45.77",
+    "Nivel": "Media baja",
+    "Variación": "sube+1"
+  },
+  {
+    "Lugar": "57",
+    "Ciudad": "Tijuana",
+    "Grupo": "Más de 1 millón",
+    "Puntaje": "45.48",
+    "Nivel": "Baja",
+    "Variación": "sube+2"
+  },
+  {
+    "Lugar": "58",
+    "Ciudad": "Guanajuato",
+    "Grupo": "Menos de 250 mil",
+    "Puntaje": "44.18",
+    "Nivel": "Media baja",
+    "Variación": "baja-17"
+  },
+  {
+    "Lugar": "59",
+    "Ciudad": "Tlaxcala-Apizaco",
+    "Grupo": "500 mil a 1 millón",
+    "Puntaje": "44.05",
+    "Nivel": "Baja",
+    "Variación": "baja-1"
+  },
+  {
+    "Lugar": "60",
+    "Ciudad": "Coatzacoalcos",
+    "Grupo": "250 mil a 500 mil",
+    "Puntaje": "43.97",
+    "Nivel": "Media baja",
+    "Variación": "sube+2"
+  },
+  {
+    "Lugar": "61",
+    "Ciudad": "Cuernavaca",
+    "Grupo": "Más de 1 millón",
+    "Puntaje": "43.66",
+    "Nivel": "Baja",
+    "Variación": "sube+3"
+  },
+  {
+    "Lugar": "62",
+    "Ciudad": "Rioverde",
+    "Grupo": "Menos de 250 mil",
+    "Puntaje": "43.6",
+    "Nivel": "Media alta",
+    "Variación": "baja-19"
+  },
+  {
+    "Lugar": "63",
+    "Ciudad": "Minatitlán",
+    "Grupo": "250 mil a 500 mil",
+    "Puntaje": "42.15",
+    "Nivel": "Baja",
+    "Variación": "sube+5"
+  },
+  {
+    "Lugar": "64",
+    "Ciudad": "Celaya",
+    "Grupo": "500 mil a 1 millón",
+    "Puntaje": "40.78",
+    "Nivel": "Baja",
+    "Variación": "sube+1"
+  },
+  {
+    "Lugar": "65",
+    "Ciudad": "Chilpancingo",
+    "Grupo": "250 mil a 500 mil",
+    "Puntaje": "39.86",
+    "Nivel": "Baja",
+    "Variación": "sube+6"
+  },
+  {
+    "Lugar": "66",
+    "Ciudad": "Tecomán",
+    "Grupo": "Menos de 250 mil",
+    "Puntaje": "39.76",
+    "Nivel": "Media baja",
+    "Variación": "baja-3"
+  },
+  {
+    "Lugar": "67",
+    "Ciudad": "Cuautla",
+    "Grupo": "250 mil a 500 mil",
+    "Puntaje": "39.15",
+    "Nivel": "Baja",
+    "Variación": "sube+2"
+  },
+  {
+    "Lugar": "68",
+    "Ciudad": "Tulancingo",
+    "Grupo": "250 mil a 500 mil",
+    "Puntaje": "38.96",
+    "Nivel": "Baja",
+    "Variación": "—"
+  },
+  {
+    "Lugar": "69",
+    "Ciudad": "Acapulco",
+    "Grupo": "500 mil a 1 millón",
+    "Puntaje": "38.1",
+    "Nivel": "Baja",
+    "Variación": "baja-9"
+  },
+  {
+    "Lugar": "70",
+    "Ciudad": "Tianguistenco",
+    "Grupo": "Menos de 250 mil",
+    "Puntaje": "37.67",
+    "Nivel": "Media baja",
+    "Variación": "baja-4"
+  },
+  {
+    "Lugar": "71",
+    "Ciudad": "Moroleón-Uriangato",
+    "Grupo": "Menos de 250 mil",
+    "Puntaje": "36.82",
+    "Nivel": "Baja",
+    "Variación": "baja-4"
+  },
+  {
+    "Lugar": "72",
+    "Ciudad": "Ozumba",
+    "Grupo": "Menos de 250 mil",
+    "Puntaje": "33.67",
+    "Nivel": "Baja",
+    "Variación": "baja-2"
+  }
+]

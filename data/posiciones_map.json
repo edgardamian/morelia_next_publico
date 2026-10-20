@@ -1,0 +1,578 @@
+{
+  "Querétaro": {
+    "Lugar": 1,
+    "Ciudad": "Querétaro",
+    "Grupo": "Más de 1 millón",
+    "Puntaje": 63.93,
+    "Nivel": "Alta",
+    "Variacion": "—"
+  },
+  "Guadalajara": {
+    "Lugar": 2,
+    "Ciudad": "Guadalajara",
+    "Grupo": "Más de 1 millón",
+    "Puntaje": 63.84,
+    "Nivel": "Alta",
+    "Variacion": "—"
+  },
+  "Hermosillo": {
+    "Lugar": 3,
+    "Ciudad": "Hermosillo",
+    "Grupo": "Más de 1 millón",
+    "Puntaje": 63.05,
+    "Nivel": "Alta",
+    "Variacion": "—"
+  },
+  "Saltillo": {
+    "Lugar": 4,
+    "Ciudad": "Saltillo",
+    "Grupo": "Más de 1 millón",
+    "Puntaje": 62.37,
+    "Nivel": "Alta",
+    "Variacion": "—"
+  },
+  "Monterrey": {
+    "Lugar": 5,
+    "Ciudad": "Monterrey",
+    "Grupo": "Más de 1 millón",
+    "Puntaje": 61.31,
+    "Nivel": "Media alta",
+    "Variacion": "—"
+  },
+  "Mérida": {
+    "Lugar": 6,
+    "Ciudad": "Mérida",
+    "Grupo": "Más de 1 millón",
+    "Puntaje": 60.98,
+    "Nivel": "Media alta",
+    "Variacion": "—"
+  },
+  "Chihuahua": {
+    "Lugar": 7,
+    "Ciudad": "Chihuahua",
+    "Grupo": "Más de 1 millón",
+    "Puntaje": 60.1,
+    "Nivel": "Media alta",
+    "Variacion": "—"
+  },
+  "Puerto Vallarta": {
+    "Lugar": 8,
+    "Ciudad": "Puerto Vallarta",
+    "Grupo": "500 mil a 1 millón",
+    "Puntaje": 59.4,
+    "Nivel": "Alta",
+    "Variacion": "—"
+  },
+  "Aguascalientes": {
+    "Lugar": 9,
+    "Ciudad": "Aguascalientes",
+    "Grupo": "Más de 1 millón",
+    "Puntaje": 59.1,
+    "Nivel": "Media alta",
+    "Variacion": "—"
+  },
+  "Tepic": {
+    "Lugar": 10,
+    "Ciudad": "Tepic",
+    "Grupo": "500 mil a 1 millón",
+    "Puntaje": 58.78,
+    "Nivel": "Alta",
+    "Variacion": "—"
+  },
+  "Delicias": {
+    "Lugar": 11,
+    "Ciudad": "Delicias",
+    "Grupo": "Menos de 250 mil",
+    "Puntaje": 57.95,
+    "Nivel": "Alta",
+    "Variacion": "—"
+  },
+  "San Luis Potosí": {
+    "Lugar": 12,
+    "Ciudad": "San Luis Potosí",
+    "Grupo": "Más de 1 millón",
+    "Puntaje": 57.6,
+    "Nivel": "Media alta",
+    "Variacion": "—"
+  },
+  "Veracruz": {
+    "Lugar": 13,
+    "Ciudad": "Veracruz",
+    "Grupo": "500 mil a 1 millón",
+    "Puntaje": 57.17,
+    "Nivel": "Media alta",
+    "Variacion": "—"
+  },
+  "Ciudad de México": {
+    "Lugar": 14,
+    "Ciudad": "Ciudad de México",
+    "Grupo": "Más de 1 millón",
+    "Puntaje": 56.79,
+    "Nivel": "Media alta",
+    "Variacion": "—"
+  },
+  "La Laguna": {
+    "Lugar": 15,
+    "Ciudad": "La Laguna",
+    "Grupo": "Más de 1 millón",
+    "Puntaje": 56.5,
+    "Nivel": "Media alta",
+    "Variacion": "—"
+  },
+  "Durango": {
+    "Lugar": 16,
+    "Ciudad": "Durango",
+    "Grupo": "500 mil a 1 millón",
+    "Puntaje": 56.47,
+    "Nivel": "Media alta",
+    "Variacion": "—"
+  },
+  "La Paz": {
+    "Lugar": 17,
+    "Ciudad": "La Paz",
+    "Grupo": "250 mil a 500 mil",
+    "Puntaje": 56.25,
+    "Nivel": "Media alta",
+    "Variacion": "—"
+  },
+  "Pachuca": {
+    "Lugar": 18,
+    "Ciudad": "Pachuca",
+    "Grupo": "500 mil a 1 millón",
+    "Puntaje": 55.99,
+    "Nivel": "Media alta",
+    "Variacion": "—"
+  },
+  "Monclova-Frontera": {
+    "Lugar": 19,
+    "Ciudad": "Monclova-Frontera",
+    "Grupo": "250 mil a 500 mil",
+    "Puntaje": 55.92,
+    "Nivel": "Media alta",
+    "Variacion": "—"
+  },
+  "Nuevo Laredo": {
+    "Lugar": 20,
+    "Ciudad": "Nuevo Laredo",
+    "Grupo": "250 mil a 500 mil",
+    "Puntaje": 55.88,
+    "Nivel": "Alta",
+    "Variacion": "—"
+  },
+  "Tampico": {
+    "Lugar": 21,
+    "Ciudad": "Tampico",
+    "Grupo": "500 mil a 1 millón",
+    "Puntaje": 55.44,
+    "Nivel": "Media alta",
+    "Variacion": "—"
+  },
+  "Los Cabos": {
+    "Lugar": 22,
+    "Ciudad": "Los Cabos",
+    "Grupo": "250 mil a 500 mil",
+    "Puntaje": 55.38,
+    "Nivel": "Alta",
+    "Variacion": "—"
+  },
+  "Playa del Carmen": {
+    "Lugar": 23,
+    "Ciudad": "Playa del Carmen",
+    "Grupo": "250 mil a 500 mil",
+    "Puntaje": 54.98,
+    "Nivel": "Alta",
+    "Variacion": "—"
+  },
+  "Ciudad Victoria": {
+    "Lugar": 24,
+    "Ciudad": "Ciudad Victoria",
+    "Grupo": "250 mil a 500 mil",
+    "Puntaje": 54.76,
+    "Nivel": "Media alta",
+    "Variacion": "—"
+  },
+  "Juárez": {
+    "Lugar": 25,
+    "Ciudad": "Juárez",
+    "Grupo": "Más de 1 millón",
+    "Puntaje": 54.67,
+    "Nivel": "Media baja",
+    "Variacion": "—"
+  },
+  "Mexicali": {
+    "Lugar": 26,
+    "Ciudad": "Mexicali",
+    "Grupo": "Más de 1 millón",
+    "Puntaje": 54.56,
+    "Nivel": "Media baja",
+    "Variacion": "—"
+  },
+  "Piedras Negras": {
+    "Lugar": 27,
+    "Ciudad": "Piedras Negras",
+    "Grupo": "Menos de 250 mil",
+    "Puntaje": 54.32,
+    "Nivel": "Alta",
+    "Variacion": "—"
+  },
+  "Mazatlán": {
+    "Lugar": 28,
+    "Ciudad": "Mazatlán",
+    "Grupo": "500 mil a 1 millón",
+    "Puntaje": 53.43,
+    "Nivel": "Media alta",
+    "Variacion": "—"
+  },
+  "Zacatecas-Guadalupe": {
+    "Lugar": 29,
+    "Ciudad": "Zacatecas-Guadalupe",
+    "Grupo": "250 mil a 500 mil",
+    "Puntaje": 53.04,
+    "Nivel": "Media alta",
+    "Variacion": "—"
+  },
+  "Los Mochis": {
+    "Lugar": 30,
+    "Ciudad": "Los Mochis",
+    "Grupo": "250 mil a 500 mil",
+    "Puntaje": 52.59,
+    "Nivel": "Media alta",
+    "Variacion": "—"
+  },
+  "Irapuato": {
+    "Lugar": 31,
+    "Ciudad": "Irapuato",
+    "Grupo": "500 mil a 1 millón",
+    "Puntaje": 52.57,
+    "Nivel": "Media alta",
+    "Variacion": "—"
+  },
+  "León": {
+    "Lugar": 32,
+    "Ciudad": "León",
+    "Grupo": "Más de 1 millón",
+    "Puntaje": 52.33,
+    "Nivel": "Media baja",
+    "Variacion": "—"
+  },
+  "Silao": {
+    "Lugar": 33,
+    "Ciudad": "Silao",
+    "Grupo": "250 mil a 500 mil",
+    "Puntaje": 52.26,
+    "Nivel": "Alta",
+    "Variacion": "—"
+  },
+  "Morelia": {
+    "Lugar": 34,
+    "Ciudad": "Morelia",
+    "Grupo": "Más de 1 millón",
+    "Puntaje": 52.15,
+    "Nivel": "Media baja",
+    "Variacion": "—"
+  },
+  "Villahermosa": {
+    "Lugar": 35,
+    "Ciudad": "Villahermosa",
+    "Grupo": "500 mil a 1 millón",
+    "Puntaje": 52.14,
+    "Nivel": "Media alta",
+    "Variacion": "—"
+  },
+  "Nogales": {
+    "Lugar": 36,
+    "Ciudad": "Nogales",
+    "Grupo": "250 mil a 500 mil",
+    "Puntaje": 51.35,
+    "Nivel": "Media alta",
+    "Variacion": "—"
+  },
+  "Xalapa": {
+    "Lugar": 37,
+    "Ciudad": "Xalapa",
+    "Grupo": "500 mil a 1 millón",
+    "Puntaje": 50.97,
+    "Nivel": "Media alta",
+    "Variacion": "—"
+  },
+  "Ciudad Obregón": {
+    "Lugar": 38,
+    "Ciudad": "Ciudad Obregón",
+    "Grupo": "250 mil a 500 mil",
+    "Puntaje": 50.67,
+    "Nivel": "Media alta",
+    "Variacion": "—"
+  },
+  "Campeche": {
+    "Lugar": 39,
+    "Ciudad": "Campeche",
+    "Grupo": "250 mil a 500 mil",
+    "Puntaje": 50.59,
+    "Nivel": "Media alta",
+    "Variacion": "—"
+  },
+  "Toluca": {
+    "Lugar": 40,
+    "Ciudad": "Toluca",
+    "Grupo": "Más de 1 millón",
+    "Puntaje": 50.5,
+    "Nivel": "Media baja",
+    "Variacion": "—"
+  },
+  "Ensenada": {
+    "Lugar": 41,
+    "Ciudad": "Ensenada",
+    "Grupo": "250 mil a 500 mil",
+    "Puntaje": 50.12,
+    "Nivel": "Media baja",
+    "Variacion": "—"
+  },
+  "Puebla-Tlaxcala": {
+    "Lugar": 42,
+    "Ciudad": "Puebla-Tlaxcala",
+    "Grupo": "Más de 1 millón",
+    "Puntaje": 49.38,
+    "Nivel": "Media baja",
+    "Variacion": "—"
+  },
+  "Ocotlán": {
+    "Lugar": 43,
+    "Ciudad": "Ocotlán",
+    "Grupo": "Menos de 250 mil",
+    "Puntaje": 49.25,
+    "Nivel": "Alta",
+    "Variacion": "—"
+  },
+  "Cancún": {
+    "Lugar": 44,
+    "Ciudad": "Cancún",
+    "Grupo": "Más de 1 millón",
+    "Puntaje": 49.0,
+    "Nivel": "Media baja",
+    "Variacion": "—"
+  },
+  "Oaxaca": {
+    "Lugar": 45,
+    "Ciudad": "Oaxaca",
+    "Grupo": "500 mil a 1 millón",
+    "Puntaje": 48.98,
+    "Nivel": "Media baja",
+    "Variacion": "—"
+  },
+  "Guaymas": {
+    "Lugar": 46,
+    "Ciudad": "Guaymas",
+    "Grupo": "Menos de 250 mil",
+    "Puntaje": 48.85,
+    "Nivel": "Media alta",
+    "Variacion": "—"
+  },
+  "Colima-Villa de Álvarez": {
+    "Lugar": 47,
+    "Ciudad": "Colima-Villa de Álvarez",
+    "Grupo": "250 mil a 500 mil",
+    "Puntaje": 48.03,
+    "Nivel": "Media baja",
+    "Variacion": "—"
+  },
+  "Culiacán": {
+    "Lugar": 48,
+    "Ciudad": "Culiacán",
+    "Grupo": "Más de 1 millón",
+    "Puntaje": 47.93,
+    "Nivel": "Baja",
+    "Variacion": "—"
+  },
+  "Sabinas": {
+    "Lugar": 49,
+    "Ciudad": "Sabinas",
+    "Grupo": "Menos de 250 mil",
+    "Puntaje": 47.76,
+    "Nivel": "Media alta",
+    "Variacion": "—"
+  },
+  "Chetumal": {
+    "Lugar": 50,
+    "Ciudad": "Chetumal",
+    "Grupo": "250 mil a 500 mil",
+    "Puntaje": 47.04,
+    "Nivel": "Media baja",
+    "Variacion": "—"
+  },
+  "La Piedad-Pénjamo": {
+    "Lugar": 51,
+    "Ciudad": "La Piedad-Pénjamo",
+    "Grupo": "250 mil a 500 mil",
+    "Puntaje": 46.59,
+    "Nivel": "Media alta",
+    "Variacion": "—"
+  },
+  "Orizaba": {
+    "Lugar": 52,
+    "Ciudad": "Orizaba",
+    "Grupo": "250 mil a 500 mil",
+    "Puntaje": 46.59,
+    "Nivel": "Media baja",
+    "Variacion": "—"
+  },
+  "Reynosa": {
+    "Lugar": 53,
+    "Ciudad": "Reynosa",
+    "Grupo": "500 mil a 1 millón",
+    "Puntaje": 46.13,
+    "Nivel": "Media baja",
+    "Variacion": "—"
+  },
+  "Matamoros": {
+    "Lugar": 54,
+    "Ciudad": "Matamoros",
+    "Grupo": "500 mil a 1 millón",
+    "Puntaje": 46.12,
+    "Nivel": "Media baja",
+    "Variacion": "—"
+  },
+  "Tuxtla Gutiérrez": {
+    "Lugar": 55,
+    "Ciudad": "Tuxtla Gutiérrez",
+    "Grupo": "500 mil a 1 millón",
+    "Puntaje": 46.06,
+    "Nivel": "Media baja",
+    "Variacion": "—"
+  },
+  "Tapachula": {
+    "Lugar": 56,
+    "Ciudad": "Tapachula",
+    "Grupo": "250 mil a 500 mil",
+    "Puntaje": 45.77,
+    "Nivel": "Media baja",
+    "Variacion": "—"
+  },
+  "Tijuana": {
+    "Lugar": 57,
+    "Ciudad": "Tijuana",
+    "Grupo": "Más de 1 millón",
+    "Puntaje": 45.48,
+    "Nivel": "Baja",
+    "Variacion": "—"
+  },
+  "Guanajuato": {
+    "Lugar": 58,
+    "Ciudad": "Guanajuato",
+    "Grupo": "Menos de 250 mil",
+    "Puntaje": 44.18,
+    "Nivel": "Media baja",
+    "Variacion": "—"
+  },
+  "Tlaxcala-Apizaco": {
+    "Lugar": 59,
+    "Ciudad": "Tlaxcala-Apizaco",
+    "Grupo": "500 mil a 1 millón",
+    "Puntaje": 44.05,
+    "Nivel": "Baja",
+    "Variacion": "—"
+  },
+  "Coatzacoalcos": {
+    "Lugar": 60,
+    "Ciudad": "Coatzacoalcos",
+    "Grupo": "250 mil a 500 mil",
+    "Puntaje": 43.97,
+    "Nivel": "Media baja",
+    "Variacion": "—"
+  },
+  "Cuernavaca": {
+    "Lugar": 61,
+    "Ciudad": "Cuernavaca",
+    "Grupo": "Más de 1 millón",
+    "Puntaje": 43.66,
+    "Nivel": "Baja",
+    "Variacion": "—"
+  },
+  "Rioverde": {
+    "Lugar": 62,
+    "Ciudad": "Rioverde",
+    "Grupo": "Menos de 250 mil",
+    "Puntaje": 43.6,
+    "Nivel": "Media alta",
+    "Variacion": "—"
+  },
+  "Minatitlán": {
+    "Lugar": 63,
+    "Ciudad": "Minatitlán",
+    "Grupo": "250 mil a 500 mil",
+    "Puntaje": 42.15,
+    "Nivel": "Baja",
+    "Variacion": "—"
+  },
+  "Celaya": {
+    "Lugar": 64,
+    "Ciudad": "Celaya",
+    "Grupo": "500 mil a 1 millón",
+    "Puntaje": 40.78,
+    "Nivel": "Baja",
+    "Variacion": "—"
+  },
+  "Chilpancingo": {
+    "Lugar": 65,
+    "Ciudad": "Chilpancingo",
+    "Grupo": "250 mil a 500 mil",
+    "Puntaje": 39.86,
+    "Nivel": "Baja",
+    "Variacion": "—"
+  },
+  "Tecomán": {
+    "Lugar": 66,
+    "Ciudad": "Tecomán",
+    "Grupo": "Menos de 250 mil",
+    "Puntaje": 39.76,
+    "Nivel": "Media baja",
+    "Variacion": "—"
+  },
+  "Cuautla": {
+    "Lugar": 67,
+    "Ciudad": "Cuautla",
+    "Grupo": "250 mil a 500 mil",
+    "Puntaje": 39.15,
+    "Nivel": "Baja",
+    "Variacion": "—"
+  },
+  "Tulancingo": {
+    "Lugar": 68,
+    "Ciudad": "Tulancingo",
+    "Grupo": "250 mil a 500 mil",
+    "Puntaje": 38.96,
+    "Nivel": "Baja",
+    "Variacion": "—"
+  },
+  "Acapulco": {
+    "Lugar": 69,
+    "Ciudad": "Acapulco",
+    "Grupo": "500 mil a 1 millón",
+    "Puntaje": 38.1,
+    "Nivel": "Baja",
+    "Variacion": "—"
+  },
+  "Tianguistenco": {
+    "Lugar": 70,
+    "Ciudad": "Tianguistenco",
+    "Grupo": "Menos de 250 mil",
+    "Puntaje": 37.67,
+    "Nivel": "Media baja",
+    "Variacion": "—"
+  },
+  "Moroleón-Uriangato": {
+    "Lugar": 71,
+    "Ciudad": "Moroleón-Uriangato",
+    "Grupo": "Menos de 250 mil",
+    "Puntaje": 36.82,
+    "Nivel": "Baja",
+    "Variacion": "—"
+  },
+  "Ozumba": {
+    "Lugar": 72,
+    "Ciudad": "Ozumba",
+    "Grupo": "Menos de 250 mil",
+    "Puntaje": 33.67,
+    "Nivel": "Baja",
+    "Variacion": "—"
+  }
+}
