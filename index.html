@@ -76,13 +76,11 @@
 
         <!-- Switch de Vista: Mapa vs Listado de Ciudades -->
         <div class="view-mode-switch-group" title="Alternar entre Cartografía Espacial y Listado Comparativo de Ciudades">
-          <button id="btn-view-map" class="view-mode-btn active" title="Ver Cartografía Espacial Interactiva">
-            <span class="view-icon">🗺️</span>
+          <button id="btn-view-map" class="view-mode-btn active" onclick="if(window.dashboardUI) window.dashboardUI.switchViewMode('map')" title="Ver Cartografía Espacial">
             <span>Mapa</span>
           </button>
-          <button id="btn-view-list" class="view-mode-btn" title="Ver Listado Comparativo de Ciudades (3 Columnas Simultáneas)">
-            <span class="view-icon">📋</span>
-            <span>Listado de Ciudades</span>
+          <button id="btn-view-list" class="view-mode-btn" onclick="if(window.dashboardUI) window.dashboardUI.switchViewMode('list')" title="Ver Listado Comparativo de Ciudades">
+            <span>Listado de ciudades</span>
           </button>
         </div>
 
@@ -342,13 +340,12 @@
         <!-- ==========================================
              VISTA ALTERNA: LISTADO COMPARATIVO DE CIUDADES (3 COLUMNAS SIMULTÁNEAS)
              ========================================== -->
-        <div id="cities-list-view" class="cities-list-view" style="display: none;">
+        <div id="cities-list-view" class="cities-list-view">
 
           <!-- Barra Superior de la Vista Listado -->
           <div class="list-view-header-bar">
             <div class="list-view-headline">
               <div class="list-view-title-main">
-                <span class="list-view-icon-badge">📋</span>
                 <div>
                   <h2 class="list-view-h2">Listado Comparativo de Ciudades — Diamante de México</h2>
                   <p class="list-view-p">
@@ -358,8 +355,8 @@
               </div>
               <div class="list-view-badge-wrap">
                 <span id="list-view-active-metric-tag" class="list-view-metric-tag">Índice General ICU</span>
-                <button id="list-view-return-map-btn" class="btn-return-map" title="Regresar al Mapa Cartográfico">
-                  <span>🗺️ Volver al Mapa</span>
+                <button id="list-view-return-map-btn" class="btn-return-map" onclick="if(window.dashboardUI) window.dashboardUI.switchViewMode('map')" title="Regresar al Mapa">
+                  <span>← Volver al mapa</span>
                 </button>
               </div>
             </div>
@@ -749,13 +746,13 @@
     integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
 
   <!-- Modular Scripts -->
-  <script src="js/data-bundle.js?v=33"></script>
-  <script src="js/posiciones-data.js?v=33"></script>
-  <script src="js/state.js?v=33"></script>
-  <script src="js/charts.js?v=33"></script>
-  <script src="js/map.js?v=33"></script>
-  <script src="js/ui.js?v=33"></script>
-  <script src="js/app.js?v=33"></script>
+  <script src="js/data-bundle.js?v=34"></script>
+  <script src="js/posiciones-data.js?v=34"></script>
+  <script src="js/state.js?v=34"></script>
+  <script src="js/charts.js?v=34"></script>
+  <script src="js/map.js?v=34"></script>
+  <script src="js/ui.js?v=34"></script>
+  <script src="js/app.js?v=34"></script>
 
 </body>
 
