@@ -62,6 +62,7 @@
       </div>
 
       <!-- Controles Globales de Encabezado -->
+      <!-- Controles Globales de Encabezado -->
       <div class="header-controls">
         <!-- Switch de Año: 2026 y 2024 -->
         <div class="year-switch-group">
@@ -70,6 +71,18 @@
           </button>
           <button class="year-btn" data-year="2024" title="Ver datos del Índice 2024">
             <span>ICU 2024</span>
+          </button>
+        </div>
+
+        <!-- Switch de Vista: Mapa vs Listado de Ciudades -->
+        <div class="view-mode-switch-group" title="Alternar entre Cartografía Espacial y Listado Comparativo de Ciudades">
+          <button id="btn-view-map" class="view-mode-btn active" title="Ver Cartografía Espacial Interactiva">
+            <span class="view-icon">🗺️</span>
+            <span>Mapa</span>
+          </button>
+          <button id="btn-view-list" class="view-mode-btn" title="Ver Listado Comparativo de Ciudades (3 Columnas Simultáneas)">
+            <span class="view-icon">📋</span>
+            <span>Listado de Ciudades</span>
           </button>
         </div>
 
@@ -87,8 +100,8 @@
         <button id="btn-toggle-poly" class="header-action-btn active" title="Alternar Polígono Diamante">
           Diamante NExT 2041
         </button>
-        <button id="btn-header-maximize" class="header-action-btn" title="Mostrar herramientas y paneles laterales">
-          Mostrar herramientas
+        <button id="btn-header-maximize" class="header-action-btn" title="Mostrar u ocultar herramientas avanzadas de filtrado">
+          Herramientas avanzadas
         </button>
         <button id="btn-open-info" class="header-action-btn info-btn"
           title="¿Qué es Morelia NExT 2041 y el Índice de Competitividad Urbana?">
@@ -107,6 +120,13 @@
            COLUMNA IZQUIERDA: FILTROS Y SUBÍNDICES
            ========================================== -->
       <aside class="sidebar-left">
+
+        <!-- Encabezado de Herramientas Avanzadas -->
+        <div class="sidebar-header-title-bar">
+          <span class="sidebar-header-icon">⚙️</span>
+          <span class="sidebar-header-text">Herramientas Avanzadas</span>
+          <span class="section-badge">Filtros IMCO</span>
+        </div>
 
         <!-- Estrato de Tamaño de Ciudad -->
         <section class="sidebar-section">
@@ -317,6 +337,98 @@
               <span>Muy alta</span>
             </div>
           </div>
+        </div>
+
+        <!-- ==========================================
+             VISTA ALTERNA: LISTADO COMPARATIVO DE CIUDADES (3 COLUMNAS SIMULTÁNEAS)
+             ========================================== -->
+        <div id="cities-list-view" class="cities-list-view" style="display: none;">
+
+          <!-- Barra Superior de la Vista Listado -->
+          <div class="list-view-header-bar">
+            <div class="list-view-headline">
+              <div class="list-view-title-main">
+                <span class="list-view-icon-badge">📋</span>
+                <div>
+                  <h2 class="list-view-h2">Listado Comparativo de Ciudades — Diamante de México</h2>
+                  <p class="list-view-p">
+                    Comparativa simultánea en 3 dimensiones: <strong>Por Tamaño de Ciudad (IMCO)</strong>, <strong>Posición en el Diamante (1º al 15º)</strong> y <strong>Lugar Nacional (de 72 ciudades)</strong>.
+                  </p>
+                </div>
+              </div>
+              <div class="list-view-badge-wrap">
+                <span id="list-view-active-metric-tag" class="list-view-metric-tag">Índice General ICU</span>
+                <button id="list-view-return-map-btn" class="btn-return-map" title="Regresar al Mapa Cartográfico">
+                  <span>🗺️ Volver al Mapa</span>
+                </button>
+              </div>
+            </div>
+          </div>
+
+          <!-- Fila de Cuadros de Subíndices Temáticos -->
+          <div class="matrix-subindex-row" id="matrix-subindex-cards">
+            <!-- Rellenado dinámicamente con los 6 subíndices + Índice General -->
+          </div>
+
+          <!-- Barra Expandible de Indicadores del Subíndice Activo -->
+          <div id="matrix-indicators-container" class="matrix-indicators-container">
+            <!-- Rellenado dinámicamente según el subíndice activo -->
+          </div>
+
+          <!-- Contenedor Principal: Las 3 Columnas en Paralelo -->
+          <div class="matrix-columns-grid">
+            <!-- COLUMNA 1: Por Tamaño de Ciudad -->
+            <div class="matrix-column" id="matrix-col-estrato">
+              <div class="matrix-col-header">
+                <div class="matrix-col-header-left">
+                  <span class="matrix-col-badge-icon">👥</span>
+                  <div>
+                    <div class="matrix-col-title">Por Tamaño de Ciudad</div>
+                    <div class="matrix-col-desc">4 Estratos Poblacionales IMCO</div>
+                  </div>
+                </div>
+                <span class="matrix-col-counter" id="matrix-counter-estrato">15 ciudades</span>
+              </div>
+              <div class="matrix-col-content" id="matrix-content-estrato">
+                <!-- Rellenado dinámicamente con las tarjetas por estrato -->
+              </div>
+            </div>
+
+            <!-- COLUMNA 2: Posición en el Diamante -->
+            <div class="matrix-column" id="matrix-col-diamante">
+              <div class="matrix-col-header">
+                <div class="matrix-col-header-left">
+                  <span class="matrix-col-badge-icon">💎</span>
+                  <div>
+                    <div class="matrix-col-title">Posición en el Diamante</div>
+                    <div class="matrix-col-desc">1º al 15º entre las Metrópolis de la Región</div>
+                  </div>
+                </div>
+                <span class="matrix-col-counter" id="matrix-counter-diamante">15 ciudades</span>
+              </div>
+              <div class="matrix-col-content" id="matrix-content-diamante">
+                <!-- Rellenado dinámicamente: lista continua 1º al 15º -->
+              </div>
+            </div>
+
+            <!-- COLUMNA 3: Lugar a Nivel Nacional -->
+            <div class="matrix-column" id="matrix-col-nacional">
+              <div class="matrix-col-header">
+                <div class="matrix-col-header-left">
+                  <span class="matrix-col-badge-icon">🇲🇽</span>
+                  <div>
+                    <div class="matrix-col-title">Lugar a Nivel Nacional</div>
+                    <div class="matrix-col-desc">Posición Oficial entre 72 Ciudades</div>
+                  </div>
+                </div>
+                <span class="matrix-col-counter" id="matrix-counter-nacional">15 ciudades</span>
+              </div>
+              <div class="matrix-col-content" id="matrix-content-nacional">
+                <!-- Rellenado dinámicamente: ordenado por posición nacional oficial -->
+              </div>
+            </div>
+          </div>
+
         </div>
 
       </section>
@@ -637,13 +749,13 @@
     integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
 
   <!-- Modular Scripts -->
-  <script src="js/data-bundle.js?v=32"></script>
-  <script src="js/posiciones-data.js?v=32"></script>
-  <script src="js/state.js?v=32"></script>
-  <script src="js/charts.js?v=32"></script>
-  <script src="js/map.js?v=32"></script>
-  <script src="js/ui.js?v=32"></script>
-  <script src="js/app.js?v=32"></script>
+  <script src="js/data-bundle.js?v=33"></script>
+  <script src="js/posiciones-data.js?v=33"></script>
+  <script src="js/state.js?v=33"></script>
+  <script src="js/charts.js?v=33"></script>
+  <script src="js/map.js?v=33"></script>
+  <script src="js/ui.js?v=33"></script>
+  <script src="js/app.js?v=33"></script>
 
 </body>
 
