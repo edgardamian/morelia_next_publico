@@ -1,1 +1,554 @@
-function a0_0x1047(_0x5a0985,_0x5424a6){_0x5a0985=_0x5a0985-(0xf0c+0x143e+-0x21cf);const _0x572bde=a0_0x13bd();let _0x2852f9=_0x572bde[_0x5a0985];if(a0_0x1047['VLXWfW']===undefined){var _0x236fed=function(_0x194875){const _0x3fce3e='abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789+/=';let _0x5e14fe='',_0x17b060='';for(let _0x51b1e7=-0x2b*-0x7+-0xa88+0x1df*0x5,_0x1521bb,_0x55d2a7,_0x2ad4ca=-0x1*0x239b+0x1*-0xf99+0x4*0xccd;_0x55d2a7=_0x194875['charAt'](_0x2ad4ca++);~_0x55d2a7&&(_0x1521bb=_0x51b1e7%(-0x22df+0x92*-0x44+0x49ab*0x1)?_0x1521bb*(0x1038+0x1cbb+0x2cb3*-0x1)+_0x55d2a7:_0x55d2a7,_0x51b1e7++%(0x196*0x6+0x1647+-0x1fc7*0x1))?_0x5e14fe+=String['fromCharCode'](-0x4b4+-0x255a+0x2b0d*0x1&_0x1521bb>>(-(-0x1*0x12cd+0x1*0x2133+-0xe64)*_0x51b1e7&-0xeb2+-0x154e+0x1203*0x2)):-0x1*0x1476+-0x4ed*-0x2+0xa9c){_0x55d2a7=_0x3fce3e['indexOf'](_0x55d2a7);}for(let _0x16bf18=-0x1d9*-0xf+0xe47+-0x2*0x14ff,_0x54785d=_0x5e14fe['length'];_0x16bf18<_0x54785d;_0x16bf18++){_0x17b060+='%'+('00'+_0x5e14fe['charCodeAt'](_0x16bf18)['toString'](0x1e1*0x7+-0x1*0x74b+-0x5cc))['slice'](-(0x1*0x1fb1+-0x1973*-0x1+-0x3922*0x1));}return decodeURIComponent(_0x17b060);};a0_0x1047['jUlgFH']=_0x236fed,a0_0x1047['EESTPm']={},a0_0x1047['VLXWfW']=!![];}const _0x372659=_0x572bde[0x20*-0xbc+-0x1*0x7d1+-0x1f51*-0x1];a0_0x1047['NMNkCE']!==_0x372659&&(a0_0x1047['EESTPm']={},a0_0x1047['NMNkCE']=_0x372659);const _0x2cb2ef=a0_0x1047['EESTPm'][_0x5a0985];return _0x2cb2ef===undefined?(_0x2852f9=a0_0x1047['jUlgFH'](_0x2852f9),a0_0x1047['EESTPm'][_0x5a0985]=_0x2852f9):_0x2852f9=_0x2cb2ef,_0x2852f9;}function a0_0x13bd(){const _0x2b7c9d=['DxbKyxrLtwfYAW','BtOGnhb4oYbTyq','EwXLpsjMB250lq','ywnLlwjLDhDLzq','ExvhrMq','CZ0IBM9Kzs1Yyq','zt0IzM9UDc1ZAq','tuHiBee','igzVBNqTzMfTAq','idaUmdjLBtSIpG','C2vSzwn0zwrjBG','C2vSzwn0zwrtAq','kdiWmJyPpc9ZCa','DhLSzt0IBgvMDa','psj0zxH0lwfSAq','zgfYAY1MAwX0zq','zw47igDHCdOGnG','icaGidXZCgfUia','Dxn0Awz5lwnVBG','mdSGy29SB3i6ia','ignVBg9YoIaJoq','z2H0oIa4mda7ia','idaUnJjYzw07ia','z2fWoIa4ChG7iG','zMvYzw5Jzs9nyq','sNfYrK8','psjMB250lxDLAq','lwjVDhrVBtOGmW','AwnHzg9Y','oIa1ChG7iJ4kia','z2v0q2L0EvbLCG','lxrVB2X0Axa','C3rPzNKTy29UDa','pGOGicaGicaGia','zgL2pG','icaGicaGicaGpa','Ew5jwM0','igzVBNqTC2L6zq','mJa0lcaYntuSia','C2vSzwn0zwrtDq','C29UBgLUzs5JBW','B250zw50oIbZCa','BwfYz2LUlwjVDa','icaGica8l2rPDG','Dg9mB3DLCKnHCW','zgL2swnVBG','DY5nt1jfteLbxW','Cg9SEwDVBG','idXZCgfUihn0Eq','nhb4oYbOzwLNAa','C3vIzq','oIaJzMzMzMzMoW','tufmsvPbre8','Dc1ZAxPLoIaXlG','Cg9SAwDVBM8','BNrLCJSGy29SBW','pc9ZCgfUpGOGia','CMvWBgfJzq','nJi2nJuWs3jhuuvn','yxbWu3rHDgu','Aw5NoIaYChGGma','zw50oNnWywnLlq','zM9UDc1ZAxPLoG','oNnWywnLlwjLDa','AwX5oIb2yxiOlq','BtSIpG','xZiWmJq','DJ4kicaGicaG','D2vLBJSGywXPzW','z2vUzxjHBa','zs97EN0VE3L9lW','pc9IpGOGicaGia','CMTFr3jHEv9cyq','zgL2ihn0EwXLpq','y29UDhjVBa','y3vZDg9TlwrPDG','tKvyvf9eqvrb','yxDLCG','phnWyw4GC3r5Ba','ignVBg9YoIaJyW','E3H9','yw4+cIaGicaGia','yMq1zte7igzVBG','Dc13zwLNAhq6ia','z2vVsLnptG','ywrKtgf5zxi','oIbIyxnLBgLUzq','z2LUlwjVDhrVBq','swHKEgy','Dxn0B20TDg9VBa','y2XLyxjmyxLLCG','mZq5mJmWufPfrwH0','idWVzgL2pGOGia','Aw52ywXPzgf0zq','CY9xB3jSzf9eyq','y29SB3i6i2zMzG','y29VCMrPBMf0zq','zgfZAgjVyxjKvq','Bgu9iMnVBg9YoG','igP1C3rPzNKTyW','ug9Zia','icaGicaGica8CW','mJu1lcaWlJm1kq','pc9KAxy+cGOGia','oIb1ChbLCMnHCW','y3vLCMrVigeGBa','lxnPEMu6idaUnG','y2XHC3nmAxn0','C3rLBMvY','vefnqu5px05puG','AxPLoIaWlJC0CG','Aw5KAwnHDg9Y','BwfW','icaJ','B2XVCJOGi2zMzG','C2f0zwXSAxrL','B2XVCJOG','z246ihjPz2H0oW','zw07igzVBNqTDW','Aw4TyM90Dg9ToG','igrLia','oYb3Awr0AdOGna','v1nIz0i','yMLUzgv4','oIaXlJa1CMvToW','xZiWmJy','ihn0EwXLpsjMBW','iZK0ytnIodSIpG','idzWEca4ChG7ia','tgf5zxjZ','EdSIpIGYmdi0oG','BKnPAKW','BIK7igzVBNqTDW','vefnqu8','mc4XnsK7ihbHza','ug9ZAwnPW7nUieC','Bg9YoIa','idaUotvYzw07ia','zML0rgLHBw9Uza','oIbYz2jHkdiWna','CgfUpGOGicaGia','CMDIysGWlcaYna','C2uVtwfWu2vYDG','B3jKzxi6idfWEa','ChG7iJ48l2rPDG','yw4+vMfSB3i6ia','zxiVDgLSzs97EG','mJu1lcaWlcaWlG','m2i4oYi+cIaGia','x0DftKvsquXfuW','ywnJzw50lwn5yq','DwrHzgvZksaTlq','AwnLCY9dyw52yq','pc9ZCgfUpG','Dg9Nz2XLtgf5zq','zgLJyxrVCG','ktSGzM9UDc1ZAq','nsWYntuSmJu1la','ue9tsunjt05fuW','twfWysbnB3jLBa','AgfZtgf5zxi','BNrLCJSGBwfYzW','z2LZB25SAw5LlG','iMrPC3bSyxK6zG','Dg9Nz2XLqMfZzq','EM9VBuz1BgXeAq','uhvUDgfQzq','C2v0t3bHy2L0Eq','mJaYmM5SzvfotG','mJq3ode2wfztzhHZ','pgrPDIbZDhLSzq','zxmPiJ5qB3mUia','icaGicaGphnWyq','Ahr0Chm6lY9Zzq','tu9sruXjqv9orq','oIb2yxiOls1MBW','i2vMndq0na','pgiGC3r5Bgu9iG','zdvLmtSGzM9UDa','Ehnnv3q','icaGicaGicaGia','q29UDgvUDa','yMfJA2DYB3vUza','AxvKywqGls0+cG','ywrKAw5NoIa2Ca','zhrOoIa','Aw5PDa','ktWVzgL2pG','zNKTy29UDgvUDa','y29KAwDVx2jHCW','BYK7iJ4','Bgf5oIbMBgv4oW','Fs97Ex0VE3H9','icaGidXKAxyGCW','lJa0zw07ignVBa','z2v0u3rHDgu','zwPLx21LDhjVCa','Dg9WCMLNAhq','BI1PDgvTCZPJzq','C3bHy2LUzZOGma','B3bLBKnPDhLeCG','oYbMB250lxDLAq','oYbJB2XVCJOGDG','Aw9UywWGzgvSia','AwnPywXPEMfKBW','BciGDgL0Bgu9iG','AwqGCMDIysGYnq','zw5LCMfSie5HyW','oYbMB250lwzHBq','zgvZx2DLBMvYyq','zM1Tr0W','twvKAweGyMfQyq','mc43mNjLBtSGyW','icaGicaGicaJ','AweGtKv4vcbPBG','ztSGBgv0DgvYlq','ldi1nsWWlJeYkq','y29YyxPVBI1Iyq','Axy+cIaGica','CNzPy2vZlMfYyW','cIaGicaGicaGia','oIaWlJy4CMvToW','ywzJs1m','BtSGDgv4Dc10CG','oerkAfLOCq','zgvZx3n1yL8','EwjeAue','ywrKvg8','i2nIzdvLmq','zgLUzY1IB3r0BW','oMnLBNrLCJSGBq','ihn0EwXLpsj3Aq','y29Tl2fYy2DPCW','idaUnZjYzw07ia','zM9UDc1TB25Vkq','oYbWywrKAw5NoG','zxjYB3i','zMzMoYbSzxr0zq','iZHHmteZnG','twvKAweGywX0yq','x0Ldvq','DhjPBq','uY9e','wfrFrefuqq','C2L6zq','DIbJBgfZCZ0IyW','icaGphnWyw4+ua','DwzM','y29UDgvUDdOGCW','iZrIy2u3oq','l3T4Fq','AxnWBgf5oIbMBa','i2zMzMzMzG','Cg9Zx3n1yL8','BJ4kicaGicaGia','zgL2ignSyxnZpq','Eca4ChG7ig1HCG','EuHptva','Dg9Nz2XL','DgzvyxO','B2XPDgfUBW','BvjKDu4','qKDYuxm','DwfStwv0yq','icaGia','y2LUzZOGmc4Wna','zgfZAgjVyxjKtq','DgLWBW','ncWGna','BNqTC2L6ztOGma','i2nIzdvLmtSIpG','z2v0qM91BMrZ','lJCYCMvToYbJBW','ica8zgL2ihn0Eq','tMfSicm','B250lxnPEMu6ia','W5nopgjYpKrftca','u2L6zq','igvUigLUzgLJyq','z2H0oIa3mda7iG','nwuXoYbMB250lq','icaGicaGica8lW','u2vYDMvYl3rPBa','B3nPy2NdS24Gzw4','CMvTB3zLtgf5zq','mJuP','C2f0zwXSAxrLlq','B250lwzHBwLSEq','i2e2zMyWma','Dw5PzgfKx21Lza','ngeZyJG7ig1HCG','icaGicaGica','CMvZAxPL','lxDLAwDODdOGnG','BwfNzxj5l01HCa','iM1HCMDPBI10BW','Aw5Uzxi','CNzLCI5HCMnNAq','i2zKowiXzq','zxn0l3nLCNzPyW','pc9IpIa','Ahq6idGWmdSGyW','ChG7iJ4kicaGia','C3rYAw5N','C2vSAw5LoYbQDq','wvPjvKy','BtOGmxb4ihnVBa','lcaWlJa4ktSGyG','nhjLBtSGDgv4Da','C3rHCNrZv2L0Aa','z2v0rxn0CMf0BW','icaGicaGpgrPDG','CM91BMq','CI1OywXViIbZDa','z2v0rwXLBwvUDa','CMTFr3jHEv9szq','C2vSzwn0zwrqzq','zMzMzJSGzM9UDa','EMu6idaUnZjYzq','Bgf5zxjhCM91Ca','yw4GC3r5Bgu9iG','BhK6ihzHCIGTlq','Ee5crvC','l3jLC3qVC2vYDG','icaG','BwfYA2vYtwfW','quTNzxa','Bf9Py3uYmdi2','DIbZDhLSzt0Iza','ACoZBIbWB3iGvge','zML0qM91BMrZ','mZmXnZaXuMPVuuzz','mtbcrfbWEfG','iMnVBg9YoIa','z2LUlxrVCdOYCa','icaGicaGpc9KAq','x2rLCW','wKvWyvO','BI13Awr0AdOGmG','AxPLoIaWlJCYCG','Ahq6idCWmdSIpG','Dg9W','mdvYzw07igzVBG','oJWVC3bHBJ4kia','CJOGi2nIzdvLmq','Bgf5zxjZ','Cg9SAwDVBM9FyG','C2LJACoZBIbhzw4','ue9tsunjW5no','iMzVBNqTC2L6zq','qM91BMrZ','y3jLyxrLvg9VBa','mdSIpIG3mIbJAq','icaGphnWyw4GCW','AgfSBW','C0XLrxq','BgfIzwXZ','cIaGicaGicaGpa','yxjRzxiG','psjUB2rLlwLUBG','cIaGicaGidWVza','Bgu9iMrPC3bSyq','Dg9Nz2XLtgfIzq','ignVBg9YoIaJzG','AwfSicG3mIbJAq','DKDoyxG','EwXLpsj3Awr0Aa','iM5VzguTB3v0zq','Aw9UywWGt2zPyW','zMvHDhvYzxm','cIaGicaGidXKAq','yw1VBMq','B25VktSIpGOGia','Bf8Ymdi0','C2HVDY1JAxr5lq','icaGicaGpc9ZCa','y3jLyxrLtM9Kzq','yxjNAw4TyM90Da','phnWyw4Gy2XHCW','BMfScIaGicaGia','i2zIzge0nG','BtSGy29SB3i6ia','Bw9YzwXPyq','icaGicaGidWVCW','ndaZowDPChDYzq','B2rLlwnPDhKTBG','DgLSzuXHEwvY','ywXS','EM9VBq','BguVE3P9l3T5Fq','Bgv4oYbHBgLNBG','ChG7igHLAwDODa','iZaWzJbMzG','icaGpc9KAxy+cG','nIWGnG','Bgu9iMzVBNqTCW','pgrPDIbJBgfZCW','Bw5byxO','zguG','yMv0D2vLBJSGyq','BwfWlwnHBNzHCW','mcWGmc4ZktSGyG','C2v0','BwfYA2vY','zgvYoIaXChGGCW','zxiTy2LYy2XLiG','BtOGnNb4oYi+cG','y2XLyxi','zguTCMfUAY1Uyq','zgDLiJ5dt1jbwG','u3zQy2e','EMu6idaUnJrYzq','zxiTDg9WoIaXCa','twv0yq','icaGpc9ZCgfUpG','lsbdywjLy2vYyq','igzVBNqTD2vPzW','BwfYA2vYCW','DdOGndrWEdSIpG','zw50lwXPBwuPoW','tM8GC2uGzw5JBW','vMfYAwfJAw9U','zs1Izxr3zwvUoW','B3i6ihzHCIGTlq','ru5tEge','BMSTCgLSBcbUBW','icaGica8C3bHBG','ihnVBgLKihjNyG','u2LUigrHDg8','CgfUihn0EwXLpq','AMHjv2W','ihn0EwXLpsjTAq','z2v0q2L0EvzPCW','C2L6ztOGmc42oa','r3j1Cg8','DgLWq29UDgvUDa','CMrLCI1IB3r0BW','r0XUuva','oYbIB3jKzxiTCG','EtPMBgv4oYbQDq','psaW','CgfJzs1Izxr3zq','wgX4Dfy','EcbZB2XPzcbYzW','ChjVCgvYDgLLCW','oYi+cIaGicaGia','ywnPW7nUigrLifq','psjTB3jLBgLHlq','BM9TyNjL','BgLNBI1PDgvTCW','CMvUzgvYq2L0Eq','ysbdBgfZAwzPyW','zwLNAhq6idyWma','BJSGywXPz24TAq','iZy0nZq4yG','thvNyxi','Aw5PDfzLy3rVCG','qMvXBgW','y3vZDg9Tlw1HCa','tK9nqLjf','odaWoYbJB2XVCG','iZmZotC2nG','venHsgC','yxiOls1Hy2nLBG','y052tNa','AxyGC3r5Bgu9iG','ihnWywnLlwjLDa','CJSGy29SB3i6ia','Eg1vs3m','icaGicaGidXZCa','DwrHzaOGicaGia','Bw9YzwXPys1ODq','idvWEdSGyM9Yza','Bu92Bu4','ndy3otyWugDZthLH','BNrYW7mGD2LUzg8','lw5Vzgu','mdqP','i2nJzMyWma','z2H0oIa3mda7ia','icaGicaGica8za','C3r5Bgu9iMzVBG','yMeOmJu1ldi1nq','icaGicbqB3nPyW','zMfTAwX5oIb2yq','ica8C3bHBIbZDa','mZbWEdSGCgfKza','igrLigXHienPDq','zgrPBMCTDg9WoG','zLfQrKu','zw50oIbZCgfJzq','Axr5lw5VzguTBq','ihb0CW','zxmVv29YBgrFsq','yMLUzfrVB2X0Aq','B2XVCJOGiZK0yq','icaGicaGicbqBW','AwrH','AxncyxnLBwfWuW','is0TidiUifbVCW','DJ4kcIaGicaGia','swnVBG','icaGicaG','BMv0D29YAW','tMzdDMS','mda7ig1HCMDPBG','z2vVBwv0CNK','lwzVBNqTBw9UBW','zgfKic0TpGOGia','zM9YrwfJAa','ywrPDxm6idzWEa','i2u3ndC3ma','DhLSzt0IzM9UDa','Dxm6idzWEdSGCa','zguGnZi8l3nWyq','tML2zwW','CMzgAwX0zxi','ignPDwrHzgvZkq','z2H0oIaXlJm1oW','zt0Iy29SB3i6ia','yw1LiJ4','C3vIC2nYAwjL','zgLZCgXHEtOGzG','vefnqCortW','zw07ignVBg9YoG','DgLWlwLUBMvYiG','idCYignPDwrHza','CIGTlwzVBNqTBq','BIbZDhLSzt0IzG','ztOGmc43mNjLBq','B206idjWEdSIpG','oYbMB250lxnPEG','zMzMoYbMB250lq','zgfYA0nHBNzHCW','C3r5Bgu9iMnVBa','EMLjug4','BwhdSw8GzguGq2K','q1PRCuO','zMX5vg8','zM9YBwfUy2u','Cg9Zx2DLBMvYyq','yxrLBgXPDgu','twfYA2vYCW','DhLSzt0Iy29SBW','C1DYAfG','zeXoz0S','zwLNAhq6idCWma','Dg90ywW','mJaYnG','ywrKrxzLBNrmAq','mcWGmJu1lcaWlG','CMvKx2rPyw1HBG','icaGica8l3nWyq','AwnPW7nUigrLige','CI1ZCgfJAw5NoG','yNvMzMvY','psjUB2rLlwXHyG','CfnLCNzLCI90Aq','CdOGnNb4oYbWyq','yxzrAue','zMzMoYi+','zgL2pGOGicaGia','EMvgAwX0zxi','idXIihn0EwXLpq','Bgv4oYbQDxn0Aq','EdSIpGOGicaGia','C2HVD0XHyMvSCW','icaGicaGidXKAq','ihn1ySoTBMrPy2u','sKjxzKC','tuXRtM4','nJeXmtq4nNbzwMjhCa','oYbSAw5LlwHLAq','Bgv0DgvYlxnWyq','yMfQyq','Bg9N','CJOGi2zMzMzMzG','z2H0oIa2mda7iG'];a0_0x13bd=function(){return _0x2b7c9d;};return a0_0x13bd();}const a0_0x140fbb=a0_0x1047;(function(_0x48a9ed,_0x1c0ac0){const _0x3f1461=a0_0x1047,_0x3301a8=_0x48a9ed();while(!![]){try{const _0x3d6e89=parseInt(_0x3f1461(0x1ad))/(0x6ca*-0x1+0x2*0xbf+0x54d)+-parseInt(_0x3f1461(0x3a1))/(-0x583+0x275*-0x1+0x7fa)+-parseInt(_0x3f1461(0x24f))/(-0x20fb+-0x757*0x1+0x2855)+-parseInt(_0x3f1461(0x1e4))/(0x59*0x43+0x717*0x1+-0x1e5e)*(parseInt(_0x3f1461(0x380))/(-0x33*0x27+-0x1cb9*0x1+0xd*0x2cf))+parseInt(_0x3f1461(0x1ac))/(-0x18b6*-0x1+-0x1b69+0x11*0x29)*(-parseInt(_0x3f1461(0x284))/(-0x54*-0x40+0x1478+0x67*-0x67))+-parseInt(_0x3f1461(0x2de))/(-0x8*-0x179+-0x24c2+0x1902)+parseInt(_0x3f1461(0x33f))/(0x225a*-0x1+-0xf*0x134+0x346f)*(parseInt(_0x3f1461(0x250))/(-0x45*-0x4+0x2403+-0x250d));if(_0x3d6e89===_0x1c0ac0)break;else _0x3301a8['push'](_0x3301a8['shift']());}catch(_0x40b91b){_0x3301a8['push'](_0x3301a8['shift']());}}}(a0_0x13bd,0x1a82+-0x1fb*-0x20b+-0x20ae7*0x1));class DashboardMap{constructor(){const _0x30b25d=a0_0x1047;this[_0x30b25d(0x3b6)]=null,this[_0x30b25d(0x25d)]={'satellite':null,'darkMatter':null,'polygon':null,'buffer':null,'network':null,'markers':null},this[_0x30b25d(0x249)]=new Map(),this[_0x30b25d(0x2f6)+_0x30b25d(0x321)]=!![],this[_0x30b25d(0x33a)]=![];}[a0_0x140fbb(0x1be)](_0x5dfd14){const _0x4cc9d9=a0_0x140fbb,_0x481b31={'Beqll':function(_0x4fe9ce,_0xdeff0,_0x3efd74){return _0x4fe9ce(_0xdeff0,_0x3efd74);},'WMzvV':_0x4cc9d9(0x1b1)+_0x4cc9d9(0x22d)+_0x4cc9d9(0x36e)+'m/ArcGIS/r'+_0x4cc9d9(0x22f)+_0x4cc9d9(0x2f1)+_0x4cc9d9(0x22a)+_0x4cc9d9(0x21e)+_0x4cc9d9(0x38c)+_0x4cc9d9(0x396),'akuJJ':_0x4cc9d9(0x1b1)+_0x4cc9d9(0x1df)+_0x4cc9d9(0x1a6)+_0x4cc9d9(0x1ec)+_0x4cc9d9(0x247)+_0x4cc9d9(0x19c)+_0x4cc9d9(0x3a4)+_0x4cc9d9(0x38e)+_0x4cc9d9(0x192)+_0x4cc9d9(0x196)+_0x4cc9d9(0x1c4),'ynIZm':_0x4cc9d9(0x228),'xmUKs':_0x4cc9d9(0x1a3)+_0x4cc9d9(0x1da)+_0x4cc9d9(0x1d0)+'\x20con\x20éxito'+'.'},_0x51e2d4=[-0x4a*-0x6c+0x39+-0x25*0xd9+0.7899999999999991,-(0x18a1+0xc30*0x1+-0x246c+0.2600000000000051)],_0x2104e9=-0x222a+0x12d*0x2+-0xd*-0x273+0.75;this[_0x4cc9d9(0x3b6)]=L[_0x4cc9d9(0x3b6)](_0x5dfd14,{'center':_0x51e2d4,'zoom':_0x2104e9,'zoomSnap':0.25,'zoomDelta':0.5,'wheelPxPerZoomLevel':0x64,'zoomControl':![],'attributionControl':![],'minZoom':0x6,'maxZoom':0x10}),L[_0x4cc9d9(0x390)][_0x4cc9d9(0x288)]({'position':_0x4cc9d9(0x1c9)})[_0x4cc9d9(0x1e7)](this[_0x4cc9d9(0x3b6)]),this[_0x4cc9d9(0x25d)][_0x4cc9d9(0x3b9)]=L[_0x4cc9d9(0x286)](_0x481b31['WMzvV'],{'maxZoom':0x13,'className':_0x4cc9d9(0x222)+_0x4cc9d9(0x355)+'r'})[_0x4cc9d9(0x1e7)](this[_0x4cc9d9(0x3b6)]),this[_0x4cc9d9(0x25d)][_0x4cc9d9(0x319)]=L[_0x4cc9d9(0x243)]([L['tileLayer'](_0x481b31['akuJJ'],{'maxZoom':0x10}),L['tileLayer'](_0x4cc9d9(0x1b1)+_0x4cc9d9(0x1df)+_0x4cc9d9(0x1a6)+'com/arcgis'+'/rest/serv'+_0x4cc9d9(0x19c)+_0x4cc9d9(0x3a4)+_0x4cc9d9(0x23f)+_0x4cc9d9(0x35e)+_0x4cc9d9(0x331)+_0x4cc9d9(0x289)+_0x4cc9d9(0x1fe),{'maxZoom':0x10})]),this[_0x4cc9d9(0x2cc)+_0x4cc9d9(0x185)](),window[_0x4cc9d9(0x381)][_0x4cc9d9(0x30d)]((_0x581bb5,_0x4a17ee)=>{this['updateMark'+'ers'](_0x581bb5);});let _0x563013=null;window[_0x4cc9d9(0x329)+_0x4cc9d9(0x3b2)](_0x481b31[_0x4cc9d9(0x36a)],()=>{const _0x2c8fe5=_0x4cc9d9;clearTimeout(_0x563013),_0x563013=_0x481b31[_0x2c8fe5(0x2cd)](setTimeout,()=>{const _0x524702=_0x2c8fe5;this[_0x524702(0x3b6)]&&this[_0x524702(0x3b6)][_0x524702(0x3a3)+_0x524702(0x219)]({'pan':![]});},-0x3*0x75d+0x5*0x5ff+-0xaa*0xb);}),console[_0x4cc9d9(0x343)](_0x481b31[_0x4cc9d9(0x2d8)]);}[a0_0x140fbb(0x2cc)+'Layers'](){const _0x1caed8=a0_0x140fbb,_0x5353c6={'xsMWt':function(_0x19bb27,_0x29fcc1){return _0x19bb27===_0x29fcc1;},'afcKS':_0x1caed8(0x1c8)+_0x1caed8(0x208),'tfUaz':_0x1caed8(0x224),'ENSxa':'rgba(0,\x2024'+_0x1caed8(0x32a)+_0x1caed8(0x221)},_0x5c9e06=window[_0x1caed8(0x1b2)+_0x1caed8(0x1f7)];if(!_0x5c9e06){console[_0x1caed8(0x1f0)](_0x1caed8(0x2a8)+_0x1caed8(0x2df)+_0x1caed8(0x374)+_0x1caed8(0x392));return;}_0x5c9e06[_0x1caed8(0x25e)+'uff']&&(this[_0x1caed8(0x25d)][_0x1caed8(0x32f)]=L[_0x1caed8(0x39a)](_0x5c9e06[_0x1caed8(0x25e)+_0x1caed8(0x1fb)],{'style':{'color':_0x5353c6[_0x1caed8(0x2ac)],'weight':1.5,'dashArray':_0x1caed8(0x210),'fillColor':_0x1caed8(0x191)+'0,\x20255,\x200.'+'02)','fillOpacity':0x1}})[_0x1caed8(0x1e7)](this['map'])),_0x5c9e06[_0x1caed8(0x37c)]&&(this['layers'][_0x1caed8(0x375)]=L[_0x1caed8(0x39a)](_0x5c9e06[_0x1caed8(0x37c)],{'style':{'color':_0x1caed8(0x200),'weight':0x2,'dashArray':_0x1caed8(0x28e),'fillColor':'rgba(204,\x20'+_0x1caed8(0x197)+_0x1caed8(0x2e1),'fillOpacity':0x1}})[_0x1caed8(0x1e7)](this[_0x1caed8(0x3b6)])),_0x5c9e06[_0x1caed8(0x32b)+'te']&&(this[_0x1caed8(0x25d)][_0x1caed8(0x2fb)]=L[_0x1caed8(0x39a)](_0x5c9e06[_0x1caed8(0x32b)+'te'],{'style':_0x5432b9=>{const _0x22ff20=_0x1caed8,_0x4a1f5a=_0x5432b9[_0x22ff20(0x2c0)][_0x22ff20(0x20f)];if(_0x4a1f5a==='eje_moreli'+'a')return{'color':_0x22ff20(0x2e2),'weight':0x3,'opacity':0.95,'dashArray':null};else return _0x5353c6[_0x22ff20(0x1b7)](_0x4a1f5a,_0x5353c6[_0x22ff20(0x1e2)])?{'color':_0x22ff20(0x28c),'weight':0x2,'opacity':0.8,'dashArray':null}:{'color':_0x5353c6[_0x22ff20(0x207)],'weight':1.3,'opacity':0.5,'dashArray':null};}})['addTo'](this[_0x1caed8(0x3b6)])),this['layers']['markers']=L[_0x1caed8(0x243)]()[_0x1caed8(0x1e7)](this[_0x1caed8(0x3b6)]),this[_0x1caed8(0x2c6)+_0x1caed8(0x322)](_0x5c9e06['ciudades']),this[_0x1caed8(0x18e)+_0x1caed8(0x262)]({'animate':![],'padding':[0x1c41+0x13dc+-0x2fff,-0x405+-0x2314+0x2737*0x1]});}[a0_0x140fbb(0x2c6)+a0_0x140fbb(0x322)](_0x34729d){const _0x31e890=a0_0x140fbb,_0x1f2ab8={'ybDiA':function(_0xb22317,_0x41958d){return _0xb22317===_0x41958d;},'fMwZF':'click','fQjFE':_0x31e890(0x259)};this[_0x31e890(0x25d)][_0x31e890(0x2a5)][_0x31e890(0x3a0)+'s'](),this['markerMap'][_0x31e890(0x29b)]();const _0x2a01a7=window[_0x31e890(0x381)][_0x31e890(0x1c7)]();_0x34729d[_0x31e890(0x275)]['forEach'](_0x2e8f9c=>{const _0x5b8706=_0x31e890,_0x5c211b=_0x2e8f9c['properties'],_0x8848c=_0x2e8f9c[_0x5b8706(0x2fe)][_0x5b8706(0x3a6)+'s'],_0x4c4388=[_0x8848c[0x999+0xceb+-0x1*0x1683],_0x8848c[0x7*-0x58f+-0x2*-0x12b5+0x17f]],_0x19a77=_0x5c211b[_0x5b8706(0x2cf)],_0x3618b7=_0x1f2ab8[_0x5b8706(0x1e6)](_0x19a77[_0x5b8706(0x372)+'e'](),_0x5b8706(0x282)),_0xf5d5f0=this[_0x5b8706(0x27c)+_0x5b8706(0x2f9)](_0x5c211b,_0x2a01a7,_0x3618b7),_0x23561e=L[_0x5b8706(0x297)](_0x4c4388,{'icon':_0xf5d5f0,'zIndexOffset':_0x3618b7?0x2*-0x1154+-0x2c*0xca+0x4948:-0xb*0x12f+-0x224e+0x15d*0x23});_0x23561e['on'](_0x1f2ab8['fMwZF'],()=>{const _0x3529b8=_0x5b8706;window[_0x3529b8(0x381)]['setState']({'selectedCity':_0x19a77}),window[_0x3529b8(0x3a7)+'I']&&window['dashboardU'+'I'][_0x3529b8(0x1cc)+_0x3529b8(0x393)](_0x19a77);}),_0x23561e[_0x5b8706(0x2f2)+'p'](this[_0x5b8706(0x263)+_0x5b8706(0x2b7)](_0x5c211b,_0x2a01a7),{'direction':_0x1f2ab8[_0x5b8706(0x2ed)],'offset':[-0x1e2f+0x522+0x190d,-(-0x1823+-0x1248+0x2a75)],'className':_0x5b8706(0x2ce)+_0x5b8706(0x365)}),_0x23561e[_0x5b8706(0x1e7)](this['layers'][_0x5b8706(0x2a5)]),this[_0x5b8706(0x249)][_0x5b8706(0x296)](_0x19a77,{'marker':_0x23561e,'props':_0x5c211b,'latLng':_0x4c4388});});}[a0_0x140fbb(0x27c)+a0_0x140fbb(0x2f9)](_0x116fd5,_0x1ea655,_0x25ee97){const _0x121528=a0_0x140fbb,_0x2ddfb8={'MHHlA':_0x121528(0x2db)+'b','MLkNn':function(_0x486833,_0xae387e){return _0x486833+_0xae387e;},'DJJvs':function(_0x67914a,_0x5854bf){return _0x67914a+_0x5854bf;}},_0x126c4f=this['getCityVis'+_0x121528(0x20b)](_0x116fd5,_0x1ea655),{color:_0x4e9db2,rankText:_0x6af6b,desVal:_0xf89347,mode:_0x52e7cc,posVal:_0x1e3d1c,posTam:_0x33209e}=_0x126c4f,_0x69160c=_0x25ee97?_0x2ddfb8[_0x121528(0x34d)]:'',_0xc289c2=window[_0x121528(0x1a2)+_0x121528(0x199)+_0x121528(0x1f4)]&&window[_0x121528(0x1a2)+_0x121528(0x199)+_0x121528(0x1f4)][_0x116fd5[_0x121528(0x2cf)]]||null,_0x56e678=_0xc289c2?_0xc289c2[_0x121528(0x2cb)]:null,_0x5eac18={'Muy\x20alta':{'inner':0x14,'halo':0x26},'Alta':{'inner':0x11,'halo':0x20},'Media\x20alta':{'inner':0xe,'halo':0x1a},'Media\x20baja':{'inner':0xb,'halo':0x15},'Baja':{'inner':0x9,'halo':0x11},'Muy\x20baja':{'inner':0x7,'halo':0xe},'Sin\x20dato':{'inner':0x8,'halo':0xf}},_0x4a3165=_0x5eac18[_0xf89347]||_0x5eac18[_0x121528(0x1d7)],_0x5280f5=_0x25ee97?_0x2ddfb8[_0x121528(0x33e)](_0x4a3165[_0x121528(0x22c)],0x61*0x3d+-0x2479+-0x23b*-0x6):_0x4a3165['inner'],_0x40d232=_0x25ee97?_0x2ddfb8['DJJvs'](_0x4a3165['halo'],0xd*-0x210+-0x256d+0x4049):_0x4a3165[_0x121528(0x266)],_0x5b9ca7=_0x2ddfb8['DJJvs'](-0x1f*-0x1f+0x373*0xb+0x1*-0x299c+Math[_0x121528(0x23c)](_0x5280f5/(0x19f5+0x4*0x54d+-0x1*0x2f27)),_0x25ee97?-0x1b47+0x11c*-0x15+0x329f*0x1:0x142a+0x35d+-0x177d);let _0x177952='';_0x56e678&&(_0x177952=_0x121528(0x27e)+_0x121528(0x34b)+_0x121528(0x2ad)+_0x121528(0x29c)+_0x121528(0x1d1)+'Posición\x20G'+_0x121528(0x1d3)+_0x121528(0x1cf)+'ICU\x20(entre'+_0x121528(0x312)+_0x121528(0x1af)+_0x121528(0x216)+_0x56e678+_0x121528(0x19d));const _0x18b21d='\x0a\x20\x20\x20\x20\x20\x20<di'+_0x121528(0x1f9)+_0x121528(0x2ef)+_0x121528(0x26a)+_0x69160c+('\x22\x20style=\x22c'+_0x121528(0x3ba))+_0x4e9db2+(_0x121528(0x17d)+_0x121528(0x377)+_0x121528(0x2a6)+_0x121528(0x269)+_0x121528(0x203)+_0x121528(0x273)+_0x121528(0x23d)+_0x121528(0x272)+':\x20')+_0x40d232+(_0x121528(0x28b)+':\x20')+_0x40d232+(_0x121528(0x194)+_0x121528(0x367)+_0x121528(0x290)+_0x121528(0x26b)+_0x121528(0x299)+_0x121528(0x1eb)+_0x121528(0x1bd))+_0x5280f5+(_0x121528(0x28b)+':\x20')+_0x5280f5+('px;\x22></div'+_0x121528(0x367)+_0x121528(0x290)+_0x121528(0x330)+'el-wrap\x22\x20s'+_0x121528(0x353)+':\x20')+_0x5b9ca7+(_0x121528(0x232)+'\x20\x20\x20\x20\x20\x20<spa'+'n\x20class=\x22n'+_0x121528(0x285)+_0x121528(0x30c))+_0x116fd5[_0x121528(0x2cf)]+(_0x121528(0x37e)+_0x121528(0x227))+_0x177952+(_0x121528(0x269)+'/div>\x0a\x20\x20\x20\x20'+_0x121528(0x20c))+(_0x25ee97?_0x121528(0x290)+_0x121528(0x2c3)+_0x121528(0x1dd)+_0x121528(0x29d)+_0x121528(0x218)+'DIAMANTE</'+_0x121528(0x368):'')+(_0x121528(0x26c)+'iv>\x0a\x20\x20\x20\x20');return L[_0x121528(0x373)]({'html':_0x18b21d,'className':_0x121528(0x391)+_0x121528(0x2e0),'iconSize':[0xa*-0x2e8+-0x128f*-0x2+-0x7e2*0x1,-0x1*0x2597+0x1811+0xdb2],'iconAnchor':[0xb9a+0x1ee3+-0x87b*0x5,-0x1b*-0x67+-0xa*-0x3d5+-0x3119*0x1]});}[a0_0x140fbb(0x2b4)+a0_0x140fbb(0x20b)](_0x2141ad,_0x207900){const _0x1b443a=a0_0x140fbb,_0x2496e9={'ziIPn':_0x1b443a(0x328),'yuGFd':_0x1b443a(0x2d1),'fmmGL':_0x1b443a(0x22e),'BGrQs':_0x1b443a(0x1f2),'NfCvk':_0x1b443a(0x260),'XngME':_0x1b443a(0x1f3),'sYHAn':function(_0x4ae13e,_0x51e6ca){return _0x4ae13e!==_0x51e6ca;},'dLNgK':_0x1b443a(0x3b5),'KElqt':function(_0x25b7fa,_0x1d0786){return _0x25b7fa===_0x1d0786;},'WSbgB':'2024','sLeEt':_0x1b443a(0x2ca),'AKgep':_0x1b443a(0x1f6),'egggT':'subindex','xZmPT':_0x1b443a(0x1d7),'Rhovp':function(_0x2875b9,_0x83d405){return _0x2875b9!==_0x83d405;}},{selectedYear:_0x5f5923,selectedSubindex:_0x2bc67c,selectedIndicator:_0x4da758}=_0x207900,_0x455c97=_0x5f5923===_0x2496e9[_0x1b443a(0x31b)],_0x59a82c={'Muy\x20alta':_0x2496e9[_0x1b443a(0x34a)],'Alta':_0x1b443a(0x1fd),'Media\x20alta':_0x1b443a(0x280),'Media\x20baja':_0x2496e9[_0x1b443a(0x1d6)],'Baja':_0x1b443a(0x303),'Muy\x20baja':_0x2496e9[_0x1b443a(0x20a)]},_0x3aaac5=_0x2141ad[_0x1b443a(0x320)+_0x1b443a(0x24b)]||_0x2141ad[_0x2496e9[_0x1b443a(0x2fc)]]||null;if(_0x4da758){const _0x40f384=_0x4da758[_0x1b443a(0x1c1)+'e'],_0x5f4798=_0x2141ad[_0x40f384+_0x1b443a(0x254)]||_0x2496e9['XngME'],_0x48f8f0=_0x59a82c[_0x5f4798]||_0x1b443a(0x2ca),_0x26ddf5=_0x2141ad[_0x40f384+'_pos'],_0x12c5bf=_0x26ddf5!==null&&_0x2496e9['sYHAn'](_0x26ddf5,undefined)?'#'+_0x26ddf5:'-',_0x133355=_0x455c97?_0x2141ad[_0x40f384+'_2026']:_0x2141ad[_0x40f384+_0x1b443a(0x388)];return{'color':_0x48f8f0,'labelText':''+(_0x133355!==null?_0x133355:'Sin\x20dato'),'rankText':_0x12c5bf,'desVal':_0x5f4798,'mode':_0x2496e9[_0x1b443a(0x325)],'posVal':_0x26ddf5,'posTam':_0x3aaac5};}if(_0x2bc67c&&_0x2bc67c!=='general'){const _0x517b86=_0x2496e9['KElqt'](_0x5f5923,_0x2496e9[_0x1b443a(0x17e)]),_0x44f628=_0x517b86?_0x2141ad[_0x1b443a(0x201)+_0x2bc67c+_0x1b443a(0x388)]:_0x2141ad[_0x1b443a(0x201)+_0x2bc67c],_0x203472=_0x517b86?_0x2141ad[_0x1b443a(0x1e5)+_0x2bc67c+_0x1b443a(0x388)]:_0x2141ad[_0x1b443a(0x1e5)+_0x2bc67c+_0x1b443a(0x181)],_0x3f858c=_0x203472&&_0x59a82c[_0x203472]?_0x59a82c[_0x203472]:_0x2496e9['sLeEt'],_0x517016=_0x44f628!==null&&_0x44f628!==undefined?'#'+_0x44f628:_0x1b443a(0x2b0);return{'color':_0x3f858c,'labelText':_0x1b443a(0x3aa)+(_0x44f628??_0x2496e9[_0x1b443a(0x24a)]),'rankText':_0x517016,'desVal':_0x203472,'mode':_0x2496e9['egggT'],'posVal':_0x44f628,'posTam':_0x3aaac5};}const _0x49e681=_0x5f5923===_0x2496e9['WSbgB'],_0x29c17c=_0x49e681?_0x2141ad[_0x1b443a(0x320)+_0x1b443a(0x279)]:_0x2141ad[_0x1b443a(0x320)+_0x1b443a(0x24b)]||_0x2141ad[_0x1b443a(0x260)]||0x1ead*-0x1+-0x397*-0x8+0xfb*0x2,_0x1e2a54=_0x49e681?_0x2141ad[_0x1b443a(0x1d5)+_0x1b443a(0x279)]:_0x2141ad[_0x1b443a(0x1d5)+_0x1b443a(0x24b)]||_0x2496e9['xZmPT'],_0x4f8dc3=_0x1e2a54&&_0x59a82c[_0x1e2a54]?_0x59a82c[_0x1e2a54]:_0x2496e9[_0x1b443a(0x267)],_0x2745d1=_0x29c17c!==null&&_0x2496e9['Rhovp'](_0x29c17c,undefined)?'#'+_0x29c17c:_0x1b443a(0x2b0);return{'color':_0x4f8dc3,'labelText':'Pos\x20'+(_0x29c17c??_0x1b443a(0x1f6)),'rankText':_0x2745d1,'desVal':_0x1e2a54,'mode':_0x1b443a(0x38b),'posVal':_0x29c17c,'posTam':_0x3aaac5};}[a0_0x140fbb(0x263)+a0_0x140fbb(0x2b7)](_0x367ec8,_0x5ba4f5){const _0x4f64bf=a0_0x140fbb,_0x22772a={'xNBEW':_0x4f64bf(0x189),'nCijL':_0x4f64bf(0x1fd),'avQiA':_0x4f64bf(0x280),'SEbDW':_0x4f64bf(0x1f2),'Svjca':_0x4f64bf(0x1e8),'YZIVF':function(_0x436b23,_0x2677da){return _0x436b23===_0x2677da;},'XlxtV':_0x4f64bf(0x378),'mOvmN':function(_0x16ae80,_0x5f0c37){return _0x16ae80+_0x5f0c37;},'ZEpaZ':_0x4f64bf(0x342),'jhIWl':_0x4f64bf(0x1f6),'yIClW':_0x4f64bf(0x38b),'sWrhX':function(_0x4d6c98,_0x31d94a){return _0x4d6c98+_0x31d94a;},'GLnQP':_0x4f64bf(0x2f0),'cNvNp':function(_0x458edd,_0x10aecf){return _0x458edd||_0x10aecf;},'gHZMH':function(_0x34ebab,_0x306b1b){return _0x34ebab!==_0x306b1b;},'mnAaz':function(_0x5dd9cc,_0x3c6d03){return _0x5dd9cc+_0x3c6d03;}},_0xce02b=_0x367ec8['TAMANO_NOR'+_0x4f64bf(0x37a)]||_0x367ec8['TAMAÑO']||_0x367ec8[_0x22772a[_0x4f64bf(0x246)]]||'',_0x59c9dc=_0x367ec8[_0x4f64bf(0x2cf)],_0x5719f3=_0x367ec8[_0x4f64bf(0x320)+_0x4f64bf(0x24b)],_0x2a0e55=_0x367ec8['pos_genera'+_0x4f64bf(0x279)],_0x431df1={'Muy\x20alta':_0x4f64bf(0x2d1),'Alta':_0x22772a[_0x4f64bf(0x187)],'Media\x20alta':_0x22772a[_0x4f64bf(0x333)],'Media\x20baja':_0x4f64bf(0x22e),'Baja':_0x4f64bf(0x303),'Muy\x20baja':_0x22772a['SEbDW']},_0xf35eb9=window['POSICIONES'+'_GENERALES'+_0x4f64bf(0x1f4)]&&window['POSICIONES'+_0x4f64bf(0x199)+_0x4f64bf(0x1f4)][_0x59c9dc]||null;let _0x3e960d=_0xf35eb9?_0xf35eb9[_0x4f64bf(0x2a9)]||'=':'=',_0x4ef1b6=_0x22772a[_0x4f64bf(0x29e)];if(_0xf35eb9&&_0x22772a[_0x4f64bf(0x235)](typeof _0xf35eb9[_0x4f64bf(0x2a9)],_0x4f64bf(0x233))){if(_0xf35eb9[_0x4f64bf(0x2a9)][_0x4f64bf(0x239)](_0x22772a[_0x4f64bf(0x2be)])){const _0xe1309c=_0xf35eb9[_0x4f64bf(0x2a9)][_0x4f64bf(0x37f)](_0x22772a[_0x4f64bf(0x2be)],'')[_0x4f64bf(0x1f5)]();_0x3e960d='▲\x20'+(_0xe1309c[_0x4f64bf(0x239)]('+')?_0xe1309c:_0x22772a[_0x4f64bf(0x2dd)]('+',_0xe1309c)),_0x4ef1b6=_0x4f64bf(0x1fd);}else{if(_0xf35eb9[_0x4f64bf(0x2a9)][_0x4f64bf(0x239)](_0x4f64bf(0x342))){const _0x50c87b=_0xf35eb9['Variacion'][_0x4f64bf(0x37f)](_0x22772a[_0x4f64bf(0x255)],'')['trim']();_0x3e960d='▼\x20'+(_0x50c87b[_0x4f64bf(0x239)]('-')?_0x50c87b:'-'+_0x50c87b),_0x4ef1b6=_0x4f64bf(0x1b4);}else _0xf35eb9[_0x4f64bf(0x2a9)]==='='&&(_0x3e960d=_0x4f64bf(0x2bc),_0x4ef1b6='#94a3b8');}}const _0x44b2ed=_0xf35eb9&&_0x431df1[_0xf35eb9[_0x4f64bf(0x307)]]||_0x4f64bf(0x1e8);let _0x4ac117='';if(_0x5ba4f5[_0x4f64bf(0x350)+_0x4f64bf(0x19f)]){const _0x4386d4=_0x5ba4f5[_0x4f64bf(0x350)+_0x4f64bf(0x19f)][_0x4f64bf(0x1c1)+'e'],_0x55b17a=_0x367ec8[_0x4386d4+_0x4f64bf(0x181)],_0x56e0cd=_0x367ec8[_0x4386d4+_0x4f64bf(0x388)],_0x3142b2=_0x367ec8[_0x4386d4+'_pos'],_0x11236f=_0x367ec8[_0x4386d4+_0x4f64bf(0x254)],_0x5a7281=_0x11236f&&_0x431df1[_0x11236f]||_0x4f64bf(0x1e8);_0x4ac117=_0x4f64bf(0x269)+_0x4f64bf(0x38f)+'\x22margin-to'+'p:\x206px;\x20pa'+_0x4f64bf(0x2ec)+_0x4f64bf(0x2dc)+'er-top:\x201p'+_0x4f64bf(0x2bf)+_0x4f64bf(0x2e6)+_0x4f64bf(0x1dc)+_0x4f64bf(0x317)+_0x4f64bf(0x315)+_0x4f64bf(0x2c1)+_0x4f64bf(0x1c5)+_0x4f64bf(0x323)+_0x4f64bf(0x344)+_0x4f64bf(0x1cd)+_0x4f64bf(0x2e3)+_0x4f64bf(0x370)+'tom:\x203px;\x22'+'>'+_0x5ba4f5[_0x4f64bf(0x350)+'dicator']['nombre_ind'+_0x4f64bf(0x362)]+('</div>\x0a\x20\x20\x20'+_0x4f64bf(0x33b)+_0x4f64bf(0x24c)+_0x4f64bf(0x1ff)+'ex;\x20justif'+'y-content:'+_0x4f64bf(0x2d6)+_0x4f64bf(0x38a)+_0x4f64bf(0x1ca)+_0x4f64bf(0x37d)+_0x4f64bf(0x25c)+';\x22>\x0a\x20\x20\x20\x20\x20\x20'+_0x4f64bf(0x1b0)+'n>Posición'+_0x4f64bf(0x21a)+'dor:</span'+_0x4f64bf(0x367)+'\x20\x20\x20\x20<b\x20sty'+_0x4f64bf(0x3a8)+'\x20')+_0x5a7281+(_0x4f64bf(0x1d4)+'ily:\x20var(-'+_0x4f64bf(0x2ff)+_0x4f64bf(0x1a0)+'ze:\x200.82re'+_0x4f64bf(0x387))+(_0x3142b2!==null&&_0x3142b2!==undefined?'#'+_0x3142b2:'-')+(_0x4f64bf(0x38d)+_0x4f64bf(0x371)+_0x4f64bf(0x367)+_0x4f64bf(0x215)+_0x4f64bf(0x26d)+'y:\x20flex;\x20j'+_0x4f64bf(0x358)+'tent:\x20spac'+_0x4f64bf(0x2aa)+_0x4f64bf(0x395)+_0x4f64bf(0x398)+'t-size:\x200.'+'69rem;\x20mar'+_0x4f64bf(0x252)+_0x4f64bf(0x339)+'\x20\x20\x20\x20\x20\x20\x20<sp'+_0x4f64bf(0x195)+_0x4f64bf(0x1b5)+'color:#fff'+_0x4f64bf(0x334))+(_0x55b17a??_0x22772a[_0x4f64bf(0x2b2)])+_0x4f64bf(0x230)+(_0x5ba4f5['selectedIn'+_0x4f64bf(0x19f)][_0x4f64bf(0x225)+_0x4f64bf(0x2f5)]||'')+(_0x4f64bf(0x37e)+_0x4f64bf(0x1b8))+(_0x56e0cd!==null&&_0x56e0cd!==undefined?_0x4f64bf(0x394)+_0x4f64bf(0x30b)+_0x4f64bf(0x183)+'(2024:\x20'+_0x56e0cd+')</span>':'')+(_0x4f64bf(0x1e0)+_0x4f64bf(0x3a2)+_0x4f64bf(0x253)+_0x4f64bf(0x389));}else{if(_0x5ba4f5['selectedSu'+_0x4f64bf(0x17f)]&&_0x5ba4f5[_0x4f64bf(0x36d)+_0x4f64bf(0x17f)]!==_0x22772a['yIClW']){const _0x21ed5e=_0x367ec8[_0x4f64bf(0x201)+_0x5ba4f5[_0x4f64bf(0x36d)+'bindex']],_0x248ea3=_0x367ec8['pos_sub_'+_0x5ba4f5[_0x4f64bf(0x36d)+_0x4f64bf(0x17f)]+_0x4f64bf(0x388)],_0x2a8329=_0x367ec8[_0x4f64bf(0x1e5)+_0x5ba4f5[_0x4f64bf(0x36d)+_0x4f64bf(0x17f)]+_0x4f64bf(0x181)],_0x2335e2=_0x2a8329&&_0x431df1[_0x2a8329]||_0x22772a[_0x4f64bf(0x29e)];_0x4ac117=_0x4f64bf(0x269)+_0x4f64bf(0x38f)+_0x4f64bf(0x22b)+_0x4f64bf(0x332)+_0x4f64bf(0x2ec)+_0x4f64bf(0x2dc)+_0x4f64bf(0x2a0)+_0x4f64bf(0x2bf)+_0x4f64bf(0x2e6)+_0x4f64bf(0x1dc)+';\x20font-siz'+_0x4f64bf(0x315)+_0x4f64bf(0x2c1)+_0x4f64bf(0x1c5)+'tyle=\x22disp'+_0x4f64bf(0x1c3)+_0x4f64bf(0x3a9)+_0x4f64bf(0x36f)+_0x4f64bf(0x349)+_0x4f64bf(0x2c9)+'tems:cente'+_0x4f64bf(0x2d7)+_0x4f64bf(0x212)+'\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20'+_0x4f64bf(0x1fa)+_0x4f64bf(0x21f)+_0x4f64bf(0x33c)+_0x4f64bf(0x25b)+'\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20'+_0x4f64bf(0x337)+_0x4f64bf(0x251)+_0x2335e2+(';\x20font-fam'+_0x4f64bf(0x386)+_0x4f64bf(0x2ff)+_0x4f64bf(0x1a0)+'ze:\x200.82re'+_0x4f64bf(0x387))+(_0x21ed5e?_0x22772a[_0x4f64bf(0x324)]('#',_0x21ed5e):_0x4f64bf(0x2b0))+(_0x4f64bf(0x38d)+_0x4f64bf(0x371)+_0x4f64bf(0x367)+'\x20\x20')+(_0x248ea3?_0x4f64bf(0x1ae)+_0x4f64bf(0x354)+_0x4f64bf(0x3bb)+_0x4f64bf(0x36b)+_0x4f64bf(0x1e1)+_0x4f64bf(0x35a)+_0x4f64bf(0x226)+_0x4f64bf(0x252)+_0x4f64bf(0x186)+'\x20#'+_0x248ea3+_0x4f64bf(0x1bf):'')+('\x0a\x20\x20\x20\x20\x20\x20\x20\x20<'+'/div>\x0a\x20\x20\x20\x20'+'\x20\x20');}}const _0x52705a=window[_0x4f64bf(0x23a)+_0x4f64bf(0x2a1)]?window[_0x4f64bf(0x23a)+_0x4f64bf(0x2a1)](_0x367ec8[_0x4f64bf(0x3b3)+_0x4f64bf(0x37a)]||_0x367ec8[_0x4f64bf(0x30f)],_0xf35eb9?_0xf35eb9[_0x4f64bf(0x2b6)]:''):{'nombre':_0xce02b,'total':0x15};return _0x4f64bf(0x276)+'v\x20class=\x22c'+_0x4f64bf(0x39f)+_0x4f64bf(0x311)+_0x4f64bf(0x2b3)+_0x4f64bf(0x256)+_0x4f64bf(0x2ea)+_0x4f64bf(0x382)+_0x4f64bf(0x340)+_0x4f64bf(0x30a)+_0x4f64bf(0x26f)+'8fafc;\x22>\x0a\x20'+'\x20\x20\x20\x20\x20\x20\x20<!-'+_0x4f64bf(0x2a3)+_0x4f64bf(0x2eb)+_0x4f64bf(0x300)+_0x4f64bf(0x23b)+'\x20style=\x22bo'+_0x4f64bf(0x2b8)+_0x4f64bf(0x236)+_0x4f64bf(0x1d2)+_0x4f64bf(0x1a1)+_0x4f64bf(0x18a)+_0x4f64bf(0x1e9)+_0x4f64bf(0x347)+'rgin-botto'+_0x4f64bf(0x29a)+_0x4f64bf(0x1b8)+_0x4f64bf(0x1ae)+_0x4f64bf(0x360)+_0x4f64bf(0x35b)+_0x4f64bf(0x384)+_0x4f64bf(0x18d)+_0x4f64bf(0x3a5)+_0x4f64bf(0x1f1)+_0x4f64bf(0x32e)+_0x4f64bf(0x34f)+_0x4f64bf(0x1e0)+_0x4f64bf(0x248)+_0x59c9dc+(_0x4f64bf(0x1e0)+'\x20</div>\x0a\x20\x20'+_0x4f64bf(0x253)+_0x4f64bf(0x2f8)+'\x20\x20<!--\x201.\x20'+_0x4f64bf(0x18b)+'eneral\x20Nac'+_0x4f64bf(0x274)+_0x4f64bf(0x270)+_0x4f64bf(0x19b)+'>\x0a\x20\x20\x20\x20\x20\x20\x20\x20'+_0x4f64bf(0x1ae)+'=\x22backgrou'+'nd:\x20rgba(0'+',\x20240,\x20255'+_0x4f64bf(0x237)+_0x4f64bf(0x193)+_0x4f64bf(0x2af)+'a(0,\x20240,\x20'+_0x4f64bf(0x3ac)+_0x4f64bf(0x2ba)+_0x4f64bf(0x302)+_0x4f64bf(0x1ef)+_0x4f64bf(0x184)+_0x4f64bf(0x370)+'tom:\x205px;\x22'+_0x4f64bf(0x367)+_0x4f64bf(0x215)+_0x4f64bf(0x26d)+_0x4f64bf(0x2bb)+_0x4f64bf(0x366)+_0x4f64bf(0x383)+_0x4f64bf(0x293)+_0x4f64bf(0x2c5)+_0x4f64bf(0x1ea)+_0x4f64bf(0x27d)+_0x4f64bf(0x316)+'\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20'+_0x4f64bf(0x265)+_0x4f64bf(0x304)+_0x4f64bf(0x3b0)+_0x4f64bf(0x238)+'-transform'+_0x4f64bf(0x3ae)+_0x4f64bf(0x1db)+_0x4f64bf(0x1cb)+_0x4f64bf(0x1c6)+_0x4f64bf(0x2ab)+_0x4f64bf(0x19a)+_0x4f64bf(0x188)+_0x4f64bf(0x326)+_0x4f64bf(0x2c1)+_0x4f64bf(0x2f4)+_0x4f64bf(0x25f)+'eral\x20Nacio'+_0x4f64bf(0x27f)+_0x4f64bf(0x27b)+_0x4f64bf(0x397)+'\x20\x20\x20\x20\x20\x20<spa'+_0x4f64bf(0x314)+_0x4f64bf(0x217)+'0.62rem;\x20c'+'olor:\x20#cbd'+_0x4f64bf(0x21c)+'weight:\x2060'+_0x4f64bf(0x264)+'udades)</s'+_0x4f64bf(0x190)+_0x4f64bf(0x371)+_0x4f64bf(0x367)+'\x20\x20<div\x20sty'+_0x4f64bf(0x26d)+'y:\x20flex;\x20a'+_0x4f64bf(0x2c5)+_0x4f64bf(0x39c)+';\x20justify-'+_0x4f64bf(0x1fc)+_0x4f64bf(0x2bd)+_0x4f64bf(0x356)+_0x4f64bf(0x232)+_0x4f64bf(0x3ab)+_0x4f64bf(0x2b1)+_0x4f64bf(0x261)+_0x4f64bf(0x180)+_0x4f64bf(0x2a4)+_0x4f64bf(0x231)+_0x4f64bf(0x3b8)+_0x4f64bf(0x318)+_0x4f64bf(0x2e8)+_0x4f64bf(0x313)+_0x4f64bf(0x278)+'\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20'+_0x4f64bf(0x3b7))+(_0xf35eb9?_0xf35eb9[_0x4f64bf(0x2cb)]:_0x22772a[_0x4f64bf(0x2b2)])+('\x20<span\x20sty'+_0x4f64bf(0x28f)+_0x4f64bf(0x257)+_0x4f64bf(0x3bc)+_0x4f64bf(0x2c8)+';\x20color:\x20v'+_0x4f64bf(0x2d3)+'t-cyan);\x22>'+_0x4f64bf(0x306)+_0x4f64bf(0x202)+_0x4f64bf(0x32c)+_0x4f64bf(0x202)+_0x4f64bf(0x2ae)+_0x4f64bf(0x182)+_0x4f64bf(0x211)+_0x4f64bf(0x214)+_0x4f64bf(0x18c))+_0x4ef1b6+(_0x4f64bf(0x1cd)+_0x4f64bf(0x21b)+'>')+_0x3e960d+('</span>\x0a\x20\x20'+_0x4f64bf(0x1b8)+'<span\x20styl'+_0x4f64bf(0x34c)+_0x4f64bf(0x242)+_0x4f64bf(0x281))+_0x44b2ed+(_0x4f64bf(0x1cd)+_0x4f64bf(0x345)+'>')+(_0xf35eb9?_0xf35eb9[_0x4f64bf(0x307)]:'')+(_0x4f64bf(0x37e)+'\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20'+_0x4f64bf(0x394)+'e=\x22font-si'+'ze:\x200.72re'+_0x4f64bf(0x281)+'#cbd5e1;\x20f'+_0x4f64bf(0x223)+_0x4f64bf(0x1b3)+'nt-mono);\x22'+'>')+(_0xf35eb9?_0xf35eb9[_0x4f64bf(0x1aa)]+_0x22772a[_0x4f64bf(0x2b9)]:'')+(_0x4f64bf(0x37e)+_0x4f64bf(0x21d)+_0x4f64bf(0x335)+_0x4f64bf(0x28d)+_0x4f64bf(0x269)+_0x4f64bf(0x2f7)+_0x4f64bf(0x32d)+_0x4f64bf(0x3af)+_0x4f64bf(0x2c7)+_0x4f64bf(0x2c2)+'amaño\x20de\x20C'+_0x4f64bf(0x1bb)+'\x20\x20\x20\x20\x20\x20\x20\x20<d'+'iv\x20style=\x22'+_0x4f64bf(0x1ba)+_0x4f64bf(0x18f)+',\x20255,\x200,\x20'+'0.07);\x20bor'+_0x4f64bf(0x298)+'olid\x20rgba('+_0x4f64bf(0x36c)+_0x4f64bf(0x295)+'order-radi'+_0x4f64bf(0x305)+_0x4f64bf(0x1bc)+_0x4f64bf(0x204)+_0x4f64bf(0x39d)+_0x4f64bf(0x363)+_0x4f64bf(0x369)+_0x4f64bf(0x38f)+_0x4f64bf(0x1a7)+_0x4f64bf(0x338)+_0x4f64bf(0x1c0)+_0x4f64bf(0x385)+_0x4f64bf(0x38a)+_0x4f64bf(0x1ca)+_0x4f64bf(0x1a5)+_0x4f64bf(0x17b)+'\x202px;\x22>\x0a\x20\x20'+_0x4f64bf(0x1b8)+_0x4f64bf(0x394)+_0x4f64bf(0x34c)+_0x4f64bf(0x29f)+_0x4f64bf(0x1e3)+'ansform:\x20u'+'ppercase;\x20'+_0x4f64bf(0x341)+_0x4f64bf(0x20d)+_0x4f64bf(0x310)+'\x20var(--acc'+_0x4f64bf(0x2a7)+_0x4f64bf(0x2a4)+_0x4f64bf(0x258)+_0x4f64bf(0x1e0)+_0x4f64bf(0x2e7)+_0x4f64bf(0x24d)+_0x4f64bf(0x31c)+_0x4f64bf(0x2da)+'\x20\x20\x20\x20\x20\x20\x20</s'+_0x4f64bf(0x190)+_0x4f64bf(0x2d9)+_0x4f64bf(0x244)+_0x4f64bf(0x384)+_0x4f64bf(0x35c)+'color:\x20#cb'+_0x4f64bf(0x1b6)+_0x4f64bf(0x229)+'00;\x22>\x0a\x20\x20\x20\x20'+_0x4f64bf(0x1b8)+'(')+_0x52705a[_0x4f64bf(0x327)]+(_0x4f64bf(0x309)+_0x4f64bf(0x1e0)+_0x4f64bf(0x2a2)+_0x4f64bf(0x1e0)+_0x4f64bf(0x3a2)+'\x20\x20\x20\x20\x20\x20\x20\x20<d'+_0x4f64bf(0x2d5)+_0x4f64bf(0x384)+_0x4f64bf(0x1ed)+'color:\x20#ff'+_0x4f64bf(0x241)+_0x4f64bf(0x229)+_0x4f64bf(0x2fd)+_0x4f64bf(0x361)+_0x4f64bf(0x232)+_0x4f64bf(0x227))+_0x52705a[_0x4f64bf(0x2c4)]+('\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20'+_0x4f64bf(0x3a2)+_0x4f64bf(0x2e4)+_0x4f64bf(0x2d5)+_0x4f64bf(0x30e)+_0x4f64bf(0x28a)+'-items:\x20ba'+_0x4f64bf(0x234)+_0x4f64bf(0x366)+_0x4f64bf(0x2ee)+'-between;\x20'+_0x4f64bf(0x35d)+_0x4f64bf(0x367)+_0x4f64bf(0x357)+_0x4f64bf(0x2e5)+_0x4f64bf(0x37b)+_0x4f64bf(0x25a)+_0x4f64bf(0x399)+_0x4f64bf(0x2d0)+_0x4f64bf(0x379)+_0x4f64bf(0x34e)+_0x4f64bf(0x245)+_0x4f64bf(0x1ee)+_0x4f64bf(0x2c1)+_0x4f64bf(0x1d9))+_0x22772a[_0x4f64bf(0x2d4)](_0x5719f3,'-')+(_0x4f64bf(0x376)+_0x4f64bf(0x28f)+_0x4f64bf(0x3b4)+'em;\x20font-w'+_0x4f64bf(0x2c8)+_0x4f64bf(0x1ce)+_0x4f64bf(0x2d3)+'t-lime);\x22>'+_0x4f64bf(0x292))+_0x52705a[_0x4f64bf(0x327)]+('</span>\x0a\x20\x20'+'\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20'+_0x4f64bf(0x2e9)+_0x4f64bf(0x348)+_0x4f64bf(0x2b5)+'rem;\x20font-'+'weight:\x2050'+_0x4f64bf(0x359)+_0x4f64bf(0x183)+_0x4f64bf(0x352)+_0x4f64bf(0x397)+_0x4f64bf(0x27b)+_0x4f64bf(0x397)+'\x20\x20\x20\x20\x20\x20<spa'+_0x4f64bf(0x314)+_0x4f64bf(0x217)+_0x4f64bf(0x1d8)+_0x4f64bf(0x2f3)+_0x4f64bf(0x198)+_0x4f64bf(0x1b8)+'\x202024:\x20<b\x20'+_0x4f64bf(0x31a)+'or:\x20#fffff'+'f;\x20font-fa'+'mily:\x20var('+'--font-mon'+_0x4f64bf(0x1c2))+(_0x22772a['gHZMH'](_0x2a0e55,null)&&_0x2a0e55!==undefined?_0x22772a[_0x4f64bf(0x291)](_0x22772a[_0x4f64bf(0x291)]('#',_0x2a0e55)+_0x4f64bf(0x17c),_0x52705a[_0x4f64bf(0x327)]):_0x4f64bf(0x2b0))+(_0x4f64bf(0x38d)+_0x4f64bf(0x283)+_0x4f64bf(0x190)+_0x4f64bf(0x371)+'>\x0a\x20\x20\x20\x20\x20\x20\x20\x20'+_0x4f64bf(0x3ad)+_0x4f64bf(0x2fa))+_0x4ac117+('\x0a\x20\x20\x20\x20\x20\x20</d'+_0x4f64bf(0x1de));}['getCityPer'+a0_0x140fbb(0x31f)](_0x53766c,_0x18b337){const _0x1fd80e=a0_0x140fbb,_0x3d2e09={'JBWfG':function(_0x439c3a,_0x5b9e6a){return _0x439c3a===_0x5b9e6a;},'CZkqJ':'2026','mRduN':_0x1fd80e(0x38b)},{selectedYear:_0x2ba86a,selectedSubindex:_0x4597f1,selectedIndicator:_0x1b653b}=_0x18b337,_0x20f3fc=_0x3d2e09[_0x1fd80e(0x33d)](_0x2ba86a,_0x3d2e09[_0x1fd80e(0x31d)]);if(_0x1b653b){const _0x5a1417=_0x1b653b[_0x1fd80e(0x1c1)+'e'];return _0x53766c[_0x5a1417+_0x1fd80e(0x254)];}else{if(_0x4597f1&&_0x4597f1!==_0x3d2e09[_0x1fd80e(0x209)]){const _0x32cbf6=_0x20f3fc?_0x1fd80e(0x1e5)+_0x4597f1+'_2026':_0x1fd80e(0x1e5)+_0x4597f1+_0x1fd80e(0x388);return _0x53766c[_0x32cbf6];}else return _0x20f3fc?_0x53766c[_0x1fd80e(0x1d5)+'l_icu2026']:_0x53766c[_0x1fd80e(0x1d5)+_0x1fd80e(0x279)];}}[a0_0x140fbb(0x346)+'ers'](_0x3c4ceb){const _0x5e6d35=a0_0x140fbb,_0x463f60={'vGNax':function(_0x1ac805,_0x36027e){return _0x1ac805===_0x36027e;},'JqrFO':_0x5e6d35(0x282),'Ihdxf':function(_0x575b48,_0x1ecb14){return _0x575b48!==_0x1ecb14;},'TCaHg':function(_0x3e89d1,_0x343a24){return _0x3e89d1!==_0x343a24;},'tJhye':'all','ZPKwb':function(_0x9a2cd0,_0x52f8dd){return _0x9a2cd0===_0x52f8dd;}};if(!this['markerMap']||_0x463f60['ZPKwb'](this[_0x5e6d35(0x249)][_0x5e6d35(0x1f8)],-0x70*-0x34+-0x920+-0x1*0xda0))return;this[_0x5e6d35(0x249)][_0x5e6d35(0x301)](({marker:_0x881e0c,props:_0x39d84a})=>{const _0x5c3179=_0x5e6d35,_0x3d6b5c=_0x39d84a[_0x5c3179(0x2cf)],_0x1035a1=_0x463f60[_0x5c3179(0x271)](_0x3d6b5c[_0x5c3179(0x372)+'e'](),_0x463f60[_0x5c3179(0x35f)]),_0x45cc0c=_0x39d84a[_0x5c3179(0x3b3)+_0x5c3179(0x37a)]||_0x39d84a[_0x5c3179(0x30f)]||_0x39d84a[_0x5c3179(0x189)]||'';let _0x14da80=!![];_0x3c4ceb[_0x5c3179(0x351)+_0x5c3179(0x336)]!==_0x5c3179(0x287)&&_0x463f60[_0x5c3179(0x39e)](_0x45cc0c,_0x3c4ceb[_0x5c3179(0x351)+_0x5c3179(0x336)])&&(_0x14da80=![]);if(_0x14da80&&_0x3c4ceb[_0x5c3179(0x240)+_0x5c3179(0x308)]&&_0x463f60[_0x5c3179(0x2d2)](_0x3c4ceb['selectedPe'+'rfFilter'],_0x463f60['tJhye'])){const _0x4180c5=this[_0x5c3179(0x364)+_0x5c3179(0x31f)](_0x39d84a,_0x3c4ceb);_0x4180c5!==_0x3c4ceb['selectedPe'+_0x5c3179(0x308)]&&(_0x14da80=![]);}if(!_0x14da80)_0x881e0c[_0x5c3179(0x1ab)](-0x2625+0x16b6+-0x1b7*-0x9+0.12);else{_0x881e0c[_0x5c3179(0x1ab)](-0x23f8+-0xb7*-0xe+0x19f7);const _0x376e0b=this[_0x5c3179(0x27c)+'Icon'](_0x39d84a,_0x3c4ceb,_0x1035a1);_0x881e0c['setIcon'](_0x376e0b),_0x881e0c['setTooltip'+_0x5c3179(0x1b9)](this[_0x5c3179(0x263)+'tipContent'](_0x39d84a,_0x3c4ceb));}});}['focusMorel'+'ia'](){const _0x3a19be=a0_0x140fbb;this[_0x3a19be(0x3b6)][_0x3a19be(0x31e)]([0x1*-0x14de+-0x829+0x1d1a+0.6999999999999993,-(0x13*-0x137+-0x2051*0x1+-0x3*-0x1299+0.20000000000000284)],0x2084*0x1+0x34*-0x79+-0x7e7+0.5,{'duration':1.5,'easeLinearity':0.25});}['fitDiamond'+a0_0x140fbb(0x262)](_0x183038={}){const _0x3a4b35=a0_0x140fbb;if(!this[_0x3a4b35(0x25d)][_0x3a4b35(0x375)])return;const _0x405bde={'padding':[-0x19*-0x176+-0x11db+-0x128d,0x59f*0x2+0x326*0x1+-0x57*0x2a],'animate':!![],'duration':1.2,'maxZoom':0xa},_0xf3e04b={..._0x405bde,..._0x183038};this['map'][_0x3a4b35(0x24e)](this[_0x3a4b35(0x25d)]['polygon'][_0x3a4b35(0x213)](),_0xf3e04b);}[a0_0x140fbb(0x1a9)+a0_0x140fbb(0x277)](){const _0x3e1ce4=a0_0x140fbb;this[_0x3e1ce4(0x18e)+_0x3e1ce4(0x262)]({'padding':[0x2*-0xc91+0x33*-0x2b+-0x313*-0xb,0x1b42+0x1*-0x1cad+0x189],'animate':!![],'duration':1.2});}[a0_0x140fbb(0x1a8)+a0_0x140fbb(0x3b6)](){const _0x4f87a3=a0_0x140fbb;return this[_0x4f87a3(0x2f6)+'atellite']=!this[_0x4f87a3(0x2f6)+_0x4f87a3(0x321)],this[_0x4f87a3(0x2f6)+'atellite']?(this[_0x4f87a3(0x3b6)][_0x4f87a3(0x220)+'r'](this[_0x4f87a3(0x25d)][_0x4f87a3(0x319)]),this[_0x4f87a3(0x25d)][_0x4f87a3(0x3b9)]['addTo'](this[_0x4f87a3(0x3b6)])):(this['map']['removeLaye'+'r'](this[_0x4f87a3(0x25d)]['satellite']),this[_0x4f87a3(0x25d)][_0x4f87a3(0x319)][_0x4f87a3(0x1e7)](this[_0x4f87a3(0x3b6)])),this[_0x4f87a3(0x2f6)+_0x4f87a3(0x321)];}[a0_0x140fbb(0x26e)+'ls'](){const _0x32fd24=a0_0x140fbb,_0x4370bd={'yHOMP':_0x32fd24(0x294)};this[_0x32fd24(0x33a)]=!this['showLabels'];const _0x1863db=document[_0x32fd24(0x23e)+'ById'](_0x4370bd[_0x32fd24(0x205)]);return _0x1863db&&_0x1863db[_0x32fd24(0x3b1)][_0x32fd24(0x206)](_0x32fd24(0x27a)+_0x32fd24(0x268),this['showLabels']),this[_0x32fd24(0x33a)];}[a0_0x140fbb(0x19e)+'r'](_0x420285){const _0x4a3f83=a0_0x140fbb,_0x1c40e1=this['layers'][_0x420285];if(!_0x1c40e1)return![];return this[_0x4a3f83(0x3b6)][_0x4a3f83(0x1a4)](_0x1c40e1)?(this[_0x4a3f83(0x3b6)][_0x4a3f83(0x220)+'r'](_0x1c40e1),![]):(this[_0x4a3f83(0x3b6)][_0x4a3f83(0x39b)](_0x1c40e1),!![]);}}window[a0_0x140fbb(0x20e)+'ap']=new DashboardMap();
+/**
+ * map.js - Cyber-Cartography and Spatial Visualization for Morelia NExT Dashboard
+ */
+
+class DashboardMap {
+  constructor() {
+    this.map = null;
+    this.layers = {
+      satellite: null,
+      darkMatter: null,
+      polygon: null,
+      buffer: null,
+      network: null,
+      markers: null
+    };
+
+    this.markerMap = new Map(); // cityName -> marker
+    this.isBasemapSatellite = true;
+    this.showLabels = false; // Etiquetas deshabilitadas por defecto
+  }
+
+  init(containerId) {
+    // Coordenadas centrales del Diamante de México
+    const center = [20.79, -101.26];
+    const initialZoom = 7.75;
+
+    this.map = L.map(containerId, {
+      center: center,
+      zoom: initialZoom,
+      zoomSnap: 0.25,
+      zoomDelta: 0.5,
+      wheelPxPerZoomLevel: 100,
+      zoomControl: false,
+      attributionControl: false,
+      minZoom: 6,
+      maxZoom: 16
+    });
+
+    // Control de zoom en esquina superior derecha
+    L.control.zoom({ position: 'topright' }).addTo(this.map);
+
+    // 1. Capas Base de Mapa (100% libres, sin requerimiento de API key)
+    // Satélite ESRI de alta resolución con filtro oscuro
+    this.layers.satellite = L.tileLayer(
+      'https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}',
+      {
+        maxZoom: 19,
+        className: 'satellite-dark-filter'
+      }
+    ).addTo(this.map);
+
+    // Cartografía Oscura de Alta Precisión (Esri Canvas World Dark Gray Base + Reference)
+    // No requiere API key ni credenciales
+    this.layers.darkCanvas = L.layerGroup([
+      L.tileLayer(
+        'https://services.arcgisonline.com/arcgis/rest/services/Canvas/World_Dark_Gray_Base/MapServer/tile/{z}/{y}/{x}',
+        {
+          maxZoom: 16
+        }
+      ),
+      L.tileLayer(
+        'https://services.arcgisonline.com/arcgis/rest/services/Canvas/World_Dark_Gray_Reference/MapServer/tile/{z}/{y}/{x}',
+        {
+          maxZoom: 16
+        }
+      )
+    ]);
+
+    // 2. Capas Espaciales de Geometrías
+    this.initVectorLayers();
+
+    // 3. Suscripción a cambios de estado
+    window.appState.subscribe((currentState, prevState) => {
+      this.updateMarkers(currentState);
+    });
+
+    // 4. Reajuste automático en cambio de orientación o redimensionamiento móvil
+    let resizeTimer = null;
+    window.addEventListener('resize', () => {
+      clearTimeout(resizeTimer);
+      resizeTimer = setTimeout(() => {
+        if (this.map) {
+          this.map.invalidateSize({ pan: false });
+        }
+      }, 150);
+    });
+
+    console.log("Mapa Morelia NExT inicializado con éxito.");
+  }
+
+  initVectorLayers() {
+    const data = window.MORELIA_NEXT_DATA;
+    if (!data) {
+      console.error("No se encontró window.MORELIA_NEXT_DATA");
+      return;
+    }
+
+    // A. Polígono Buffer 30K (Zona de Influencia)
+    if (data.poligono_buff) {
+      this.layers.buffer = L.geoJSON(data.poligono_buff, {
+        style: {
+          color: 'rgba(0, 240, 255, 0.25)',
+          weight: 1.5,
+          dashArray: '4, 4',
+          fillColor: 'rgba(0, 240, 255, 0.02)',
+          fillOpacity: 1
+        }
+      }).addTo(this.map);
+    }
+
+    // B. Polígono Diamante Principal (Perímetro de las Metrópolis)
+    if (data.poligono) {
+      this.layers.polygon = L.geoJSON(data.poligono, {
+        style: {
+          color: '#ffffff',
+          weight: 2,
+          dashArray: '6, 6',
+          fillColor: 'rgba(204, 255, 0, 0.04)',
+          fillOpacity: 1
+        }
+      }).addTo(this.map);
+    }
+
+    // C. Red Candelaria / Constelación de Morelia NExT (Conexiones 100% SÓLIDAS con jerarquía de grosor e intensidad)
+    if (data.red_diamante) {
+      this.layers.network = L.geoJSON(data.red_diamante, {
+        style: (feature) => {
+          const tipo = feature.properties.tipo;
+          if (tipo === 'eje_morelia') {
+            // Eje Primario: Radial a Morelia (Máximo grosor e intensidad verde lima)
+            return {
+              color: '#ccff00',
+              weight: 3.0,
+              opacity: 0.95,
+              dashArray: null
+            };
+          } else if (tipo === 'eje_metropolitano') {
+            // Eje Secundario: Arco entre Grandes Metrópolis (Grosor medio cian eléctrico)
+            return {
+              color: '#00f0ff',
+              weight: 2.0,
+              opacity: 0.80,
+              dashArray: null
+            };
+          } else {
+            // Malla Delaunay Regional: Conexiones locales (Fina, cristalina, sólida)
+            return {
+              color: '#a6ff00',
+              weight: 1.3,
+              opacity: 0.50,
+              dashArray: null
+            };
+          }
+        }
+      }).addTo(this.map);
+    }
+
+    // D. Capa de Marcadores de Ciudades
+    this.layers.markers = L.layerGroup().addTo(this.map);
+    this.renderCityMarkers(data.ciudades);
+
+    // Encuadre inicial óptimo: máximo zoom que contiene la totalidad del Diamante
+    this.fitDiamondBounds({ animate: false, padding: [30, 30] });
+  }
+
+  renderCityMarkers(ciudadesGeoJSON) {
+    this.layers.markers.clearLayers();
+    this.markerMap.clear();
+
+    const state = window.appState.getState();
+
+    ciudadesGeoJSON.features.forEach(feature => {
+      const props = feature.properties;
+      const coords = feature.geometry.coordinates; // [lng, lat]
+      const latLng = [coords[1], coords[0]];
+      const cityName = props.NOMBRE;
+      const isMorelia = cityName.toLowerCase() === 'morelia';
+
+      // Crear icono personalizado
+      const icon = this.createNodeIcon(props, state, isMorelia);
+
+      const marker = L.marker(latLng, {
+        icon: icon,
+        zIndexOffset: isMorelia ? 1000 : 100
+      });
+
+      // Evento Click: Abrir Ficha de la Ciudad en Drawer
+      marker.on('click', () => {
+        window.appState.setState({ selectedCity: cityName });
+        if (window.dashboardUI) {
+          window.dashboardUI.openCityDrawer(cityName);
+        }
+      });
+
+      // Tooltip informativo flotante
+      marker.bindTooltip(this.createTooltipContent(props, state), {
+        direction: 'top',
+        offset: [0, -10],
+        className: 'custom-map-tooltip'
+      });
+
+      marker.addTo(this.layers.markers);
+      this.markerMap.set(cityName, { marker, props, latLng });
+    });
+  }
+
+  createNodeIcon(props, state, isMorelia) {
+    const meta = this.getCityVisualMeta(props, state);
+    const { color, rankText, desVal, mode, posVal, posTam } = meta;
+    const moreliaClass = isMorelia ? 'morelia-hub' : '';
+
+    // Datos generales de la tabla Posiciones Generales del ICU (Lugar Nacional)
+    const posGeneral = (window.POSICIONES_GENERALES_ICU && window.POSICIONES_GENERALES_ICU[props.NOMBRE]) || null;
+    const lugarNal = posGeneral ? posGeneral.Lugar : null;
+
+    // Escala de tamaños proporcionales según el nivel de desempeño IMCO
+    const SIZES = {
+      'Muy alta': { inner: 20, halo: 38 },
+      'Alta': { inner: 17, halo: 32 },
+      'Media alta': { inner: 14, halo: 26 },
+      'Media baja': { inner: 11, halo: 21 },
+      'Baja': { inner: 9, halo: 17 },
+      'Muy baja': { inner: 7, halo: 14 },
+      'Sin dato': { inner: 8, halo: 15 }
+    };
+
+    const sizeCfg = SIZES[desVal] || SIZES['Media baja'];
+    const innerSize = isMorelia ? (sizeCfg.inner + 6) : sizeCfg.inner;
+    const haloSize = isMorelia ? (sizeCfg.halo + 12) : sizeCfg.halo;
+
+    // Separación óptima: el contenedor de 44px tiene el centro en x=22px.
+    // Sumamos el radio del círculo interior + margen despejado para que ninguna letra se encime.
+    const labelOffset = 22 + Math.round(innerSize / 2) + (isMorelia ? 12 : 10);
+
+    // Pills en la etiqueta flotante del mapa: SOLO la posición nacional 'Pos. Nal #'
+    let pillsHtml = '';
+    if (lugarNal) {
+      pillsHtml = `<span class="node-rank-pill node-rank-nal" title="Posición General Nacional del ICU (entre 72 ciudades)">Pos. Nal #${lugarNal}</span>`;
+    }
+
+    const html = `
+      <div class="city-node-marker ${moreliaClass}" style="color: ${color}; width: 44px; height: 44px;">
+        <div class="node-outer-halo" style="width: ${haloSize}px; height: ${haloSize}px;"></div>
+        <div class="node-inner-circle" style="width: ${innerSize}px; height: ${innerSize}px;"></div>
+        <div class="node-label-wrap" style="left: ${labelOffset}px;">
+          <span class="node-city-name">${props.NOMBRE}</span>
+          ${pillsHtml}
+        </div>
+        ${isMorelia ? '<div class="morelia-corazon-badge">CORAZÓN<br>DEL DIAMANTE</div>' : ''}
+      </div>
+    `;
+
+    return L.divIcon({
+      html: html,
+      className: 'custom-div-node',
+      iconSize: [44, 44],
+      iconAnchor: [22, 22]
+    });
+  }
+
+  getCityVisualMeta(props, state) {
+    const { selectedYear, selectedSubindex, selectedIndicator } = state;
+    const is2026 = selectedYear === '2026';
+
+    // Colores oficiales IMCO (Base exacta de la paleta oficial)
+    const IMCO_COLORS = {
+      'Muy alta': '#339766',
+      'Alta': '#4bce79',
+      'Media alta': '#fbda46',
+      'Media baja': '#fd9b1e',
+      'Baja': '#e74770',
+      'Muy baja': '#8a1136'
+    };
+
+    const posTam = props.pos_general_icu2026 || props['POSICIÓN'] || null;
+
+    // Caso 1: Indicador específico seleccionado
+    if (selectedIndicator) {
+      const cod = selectedIndicator.codigo_base;
+      const desVal = props[`${cod}_des`] || 'Media alta';
+      const color = IMCO_COLORS[desVal] || '#64748b';
+      const posVal = props[`${cod}_pos`];
+      const rankText = posVal !== null && posVal !== undefined ? `#${posVal}` : '-';
+      const val = is2026 ? props[`${cod}_2026`] : props[`${cod}_2024`];
+      return { color, labelText: `${val !== null ? val : 'Sin dato'}`, rankText, desVal, mode: 'indicator', posVal, posTam };
+    }
+
+    // Caso 2: Subíndice seleccionado
+    if (selectedSubindex && selectedSubindex !== 'general') {
+      const is2024 = selectedYear === '2024';
+      const posVal = is2024 ? props[`pos_sub_${selectedSubindex}_2024`] : props[`pos_sub_${selectedSubindex}`];
+      const desVal = is2024 ? props[`des_sub_${selectedSubindex}_2024`] : props[`des_sub_${selectedSubindex}_2026`];
+      const color = (desVal && IMCO_COLORS[desVal]) ? IMCO_COLORS[desVal] : '#64748b';
+      const rankText = posVal !== null && posVal !== undefined ? `#${posVal}` : 'Sin dato';
+      return { color, labelText: `Pos ${posVal ?? 'S/D'}`, rankText, desVal, mode: 'subindex', posVal, posTam };
+    }
+
+    // Caso 3: Visión General (Índice General)
+    const is2024 = selectedYear === '2024';
+    const genPos = is2024 ? props.pos_general_2024 : (props.pos_general_icu2026 || props['POSICIÓN'] || 1);
+    const genDes = is2024 ? props.des_general_2024 : (props.des_general_icu2026 || 'Media baja');
+    const color = (genDes && IMCO_COLORS[genDes]) ? IMCO_COLORS[genDes] : '#64748b';
+    const rankText = genPos !== null && genPos !== undefined ? `#${genPos}` : 'Sin dato';
+
+    return { color, labelText: `Pos ${genPos ?? 'S/D'}`, rankText, desVal: genDes, mode: 'general', posVal: genPos, posTam };
+  }
+
+  createTooltipContent(props, state) {
+    const tamano = props.TAMANO_NORMALIZADO || props['TAMAÑO'] || props['TAMAO'] || '';
+    const cityName = props.NOMBRE;
+    const p26 = props.pos_general_icu2026;
+    const p24 = props.pos_general_2024;
+
+    const IMCO_COLORS = {
+      'Muy alta': '#339766',
+      'Alta': '#4bce79',
+      'Media alta': '#fbda46',
+      'Media baja': '#fd9b1e',
+      'Baja': '#e74770',
+      'Muy baja': '#8a1136'
+    };
+
+    // Datos oficiales de Posiciones Generales del ICU (Lugar Nacional)
+    const posGeneral = (window.POSICIONES_GENERALES_ICU && window.POSICIONES_GENERALES_ICU[cityName]) || null;
+    let varArrow = posGeneral ? (posGeneral.Variacion || '=') : '=';
+    let varColor = '#cbd5e1';
+    if (posGeneral && typeof posGeneral.Variacion === 'string') {
+      if (posGeneral.Variacion.startsWith('sube')) {
+        const n = posGeneral.Variacion.replace('sube', '').trim();
+        varArrow = `▲ ${n.startsWith('+') ? n : '+' + n}`;
+        varColor = '#4bce79';
+      } else if (posGeneral.Variacion.startsWith('baja')) {
+        const n = posGeneral.Variacion.replace('baja', '').trim();
+        varArrow = `▼ ${n.startsWith('-') ? n : '-' + n}`;
+        varColor = '#ef4444';
+      } else if (posGeneral.Variacion === '=') {
+        varArrow = '= 0';
+        varColor = '#94a3b8';
+      }
+    }
+    const nivelColor = (posGeneral && IMCO_COLORS[posGeneral.Nivel]) || '#cbd5e1';
+
+    let detailMetric = '';
+    if (state.selectedIndicator) {
+      const cod = state.selectedIndicator.codigo_base;
+      const v26 = props[`${cod}_2026`];
+      const v24 = props[`${cod}_2024`];
+      const pos26 = props[`${cod}_pos`];
+      const des26 = props[`${cod}_des`];
+      const indColor = (des26 && IMCO_COLORS[des26]) || '#cbd5e1';
+      detailMetric = `
+        <div style="margin-top: 6px; padding-top: 5px; border-top: 1px solid rgba(255,255,255,0.12); font-size: 0.72rem;">
+          <div style="color: #ffffff; font-weight: 700; margin-bottom: 3px;">${state.selectedIndicator.nombre_indicador}</div>
+          <div style="display: flex; justify-content: space-between; align-items:center; color: #cbd5e1;">
+            <span>Posición en indicador:</span>
+            <b style="color: ${indColor}; font-family: var(--font-mono); font-size: 0.82rem;">${pos26 !== null && pos26 !== undefined ? '#' + pos26 : '-'}</b>
+          </div>
+          <div style="display: flex; justify-content: space-between; color: #cbd5e1; font-size: 0.69rem; margin-top:2px;">
+            <span>Valor: <b style="color:#ffffff;">${v26 ?? 'S/D'}</b> ${state.selectedIndicator.unidad_medida || ''}</span>
+            ${v24 !== null && v24 !== undefined ? `<span style="color: #94a3b8;">(2024: ${v24})</span>` : ''}
+          </div>
+        </div>
+      `;
+    } else if (state.selectedSubindex && state.selectedSubindex !== 'general') {
+      const pos26 = props[`pos_sub_${state.selectedSubindex}`];
+      const pos24 = props[`pos_sub_${state.selectedSubindex}_2024`];
+      const des26 = props[`des_sub_${state.selectedSubindex}_2026`];
+      const subColor = (des26 && IMCO_COLORS[des26]) || '#cbd5e1';
+      detailMetric = `
+        <div style="margin-top: 6px; padding-top: 5px; border-top: 1px solid rgba(255,255,255,0.12); font-size: 0.72rem;">
+          <div style="display: flex; justify-content: space-between; align-items:center; color: #cbd5e1;">
+            <span>Posición en subíndice:</span>
+            <b style="color: ${subColor}; font-family: var(--font-mono); font-size: 0.82rem;">${pos26 ? '#' + pos26 : 'Sin dato'}</b>
+          </div>
+          ${pos24 ? `<div style="text-align: right; font-size: 0.68rem; color: #94a3b8; margin-top:2px;">(2024: #${pos24})</div>` : ''}
+        </div>
+      `;
+    }
+
+    // Estrato de tamaño y conteo oficial de ciudades en dicho estrato
+    const estratoMeta = window.getEstratoMeta
+      ? window.getEstratoMeta(props.TAMANO_NORMALIZADO || props['TAMAÑO'], posGeneral ? posGeneral.Grupo : '')
+      : { nombre: tamano, total: 21 };
+
+    return `
+      <div class="custom-tooltip-inner" style="min-width: 230px; padding: 2px 0; line-height: 1.35; color: #f8fafc;">
+        <!-- Cabecera de la Ciudad -->
+        <div style="border-bottom: 1px solid rgba(255,255,255,0.15); padding-bottom: 4px; margin-bottom: 6px;">
+          <div style="font-weight: 800; font-size: 0.95rem; color:#ffffff; letter-spacing: 0.02em;">
+            ${cityName}
+          </div>
+        </div>
+
+        <!-- 1. Posición General Nacional Oficial (72 ciudades) -->
+        <div style="background: rgba(0, 240, 255, 0.08); border: 1px solid rgba(0, 240, 255, 0.35); border-radius: 6px; padding: 6px 8px; margin-bottom: 5px;">
+          <div style="display:flex; justify-content:space-between; align-items:center; margin-bottom: 2px;">
+            <span style="font-size: 0.64rem; text-transform: uppercase; letter-spacing: 0.04em; color: var(--accent-cyan); font-weight: 700;">
+              Posición General Nacional
+            </span>
+            <span style="font-size: 0.62rem; color: #cbd5e1; font-weight: 600;">(72 ciudades)</span>
+          </div>
+          <div style="display: flex; align-items: baseline; justify-content: space-between; gap: 6px;">
+            <span style="font-size: 1.05rem; font-weight: 800; color: #ffffff; font-family: var(--font-mono);">
+              #${posGeneral ? posGeneral.Lugar : 'S/D'} <span style="font-size: 0.72rem; font-weight: 600; color: var(--accent-cyan);">de 72</span>
+            </span>
+            <span style="font-size: 0.72rem; color: ${varColor}; font-weight: 700;">${varArrow}</span>
+            <span style="font-size: 0.72rem; color: ${nivelColor}; font-weight: 600;">${posGeneral ? posGeneral.Nivel : ''}</span>
+            <span style="font-size: 0.72rem; color: #cbd5e1; font-family: var(--font-mono);">${posGeneral ? posGeneral.Puntaje + ' pts' : ''}</span>
+          </div>
+        </div>
+
+        <!-- 2. Posición de acuerdo a la Clasificación de Tamaño de Ciudad -->
+        <div style="background: rgba(204, 255, 0, 0.07); border: 1px solid rgba(204, 255, 0, 0.3); border-radius: 6px; padding: 6px 8px; margin-bottom: 5px;">
+          <div style="display:flex; justify-content:space-between; align-items:center; margin-bottom: 2px;">
+            <span style="font-size: 0.64rem; text-transform: uppercase; letter-spacing: 0.04em; color: var(--accent-lime); font-weight: 700;">
+              Posición por Tamaño de Ciudad
+            </span>
+            <span style="font-size: 0.62rem; color: #cbd5e1; font-weight: 600;">
+              (${estratoMeta.total} ciudades)
+            </span>
+          </div>
+          <div style="font-size: 0.72rem; color: #ffffff; font-weight: 600; margin-bottom: 3px;">
+            ${estratoMeta.nombre}
+          </div>
+          <div style="display: flex; align-items: baseline; justify-content: space-between; gap: 8px;">
+            <span style="font-size: 1.05rem; font-weight: 800; color: #ffffff; font-family: var(--font-mono);">
+              #${p26 || '-'} <span style="font-size: 0.74rem; font-weight: 600; color: var(--accent-lime);">de ${estratoMeta.total}</span>
+              <span style="font-size: 0.68rem; font-weight: 500; color: #94a3b8;">(2026)</span>
+            </span>
+            <span style="font-size: 0.72rem; color: #94a3b8;">
+              2024: <b style="color: #ffffff; font-family: var(--font-mono);">${p24 !== null && p24 !== undefined ? '#' + p24 + ' de ' + estratoMeta.total : 'Sin dato'}</b>
+            </span>
+          </div>
+        </div>
+
+        ${detailMetric}
+      </div>
+    `;
+  }
+
+  getCityPerformance(props, state) {
+    const { selectedYear, selectedSubindex, selectedIndicator } = state;
+    const is2026 = selectedYear === '2026';
+
+    if (selectedIndicator) {
+      const cod = selectedIndicator.codigo_base;
+      return props[`${cod}_des`];
+    } else if (selectedSubindex && selectedSubindex !== 'general') {
+      const desKey = is2026 ? `des_sub_${selectedSubindex}_2026` : `des_sub_${selectedSubindex}_2024`;
+      return props[desKey];
+    } else {
+      return is2026 ? props.des_general_icu2026 : props.des_general_2024;
+    }
+  }
+
+  updateMarkers(state) {
+    if (!this.markerMap || this.markerMap.size === 0) return;
+
+    this.markerMap.forEach(({ marker, props }) => {
+      const cityName = props.NOMBRE;
+      const isMorelia = cityName.toLowerCase() === 'morelia';
+
+      // 1. Filtro de tamaño
+      const tamano = props.TAMANO_NORMALIZADO || props['TAMAÑO'] || props['TAMAO'] || '';
+      let visible = true;
+      if (state.selectedSizeFilter !== 'all' && tamano !== state.selectedSizeFilter) {
+        visible = false;
+      }
+
+      // 2. Filtro interactivo de desempeño IMCO
+      if (visible && state.selectedPerfFilter && state.selectedPerfFilter !== 'all') {
+        const perf = this.getCityPerformance(props, state);
+        if (perf !== state.selectedPerfFilter) {
+          visible = false;
+        }
+      }
+
+      if (!visible) {
+        marker.setOpacity(0.12);
+      } else {
+        marker.setOpacity(1.0);
+        // Actualizar icono con nuevo color/ranking según el indicador activo
+        const icon = this.createNodeIcon(props, state, isMorelia);
+        marker.setIcon(icon);
+        marker.setTooltipContent(this.createTooltipContent(props, state));
+      }
+    });
+  }
+
+  // Métodos de Navegación Rápida
+  focusMorelia() {
+    // Zoom enfocado en Morelia y el Corazón del Bajío
+    this.map.flyTo([19.70, -101.20], 9.5, {
+      duration: 1.5,
+      easeLinearity: 0.25
+    });
+  }
+
+  fitDiamondBounds(options = {}) {
+    if (!this.layers.polygon) return;
+    const defaultOptions = {
+      padding: [30, 30],
+      animate: true,
+      duration: 1.2,
+      maxZoom: 10
+    };
+    const opts = { ...defaultOptions, ...options };
+    this.map.fitBounds(this.layers.polygon.getBounds(), opts);
+  }
+
+  zoomFullDiamond() {
+    this.fitDiamondBounds({
+      padding: [30, 30],
+      animate: true,
+      duration: 1.2
+    });
+  }
+
+  toggleBasemap() {
+    this.isBasemapSatellite = !this.isBasemapSatellite;
+    if (this.isBasemapSatellite) {
+      this.map.removeLayer(this.layers.darkCanvas);
+      this.layers.satellite.addTo(this.map);
+    } else {
+      this.map.removeLayer(this.layers.satellite);
+      this.layers.darkCanvas.addTo(this.map);
+    }
+    return this.isBasemapSatellite;
+  }
+
+  toggleLabels() {
+    this.showLabels = !this.showLabels;
+    const mapEl = document.getElementById('map-canvas');
+    if (mapEl) {
+      mapEl.classList.toggle('show-city-labels', this.showLabels);
+    }
+    return this.showLabels;
+  }
+
+  toggleLayer(layerName) {
+    const layer = this.layers[layerName];
+    if (!layer) return false;
+
+    if (this.map.hasLayer(layer)) {
+      this.map.removeLayer(layer);
+      return false;
+    } else {
+      this.map.addLayer(layer);
+      return true;
+    }
+  }
+}
+
+window.dashboardMap = new DashboardMap();

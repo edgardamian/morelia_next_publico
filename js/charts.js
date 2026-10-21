@@ -1,1 +1,408 @@
-function a0_0x17d7(){const _0x1968a3=['BM9Uzq','Dg9VBhrPCa','iZrIy2u3oq','Bw9YzwXPyq','zM9UDa','ihKGrwnVBM9TW60','tNjkD2m','y29KAwDVx2jHCW','mJaYnG','AgfYDhm','ywjHAM8','CKj4tgu','AxnnB3jLBgLH','zxjIB2fYza','uxvywvK','ifTqB3nPy2NdS24','BMfTzq','txv5igfSDge','BgvUz3rO','tK9nqLjf','Aw5UB3zHy2LVBG','C29YDa','Aw5MCMfLC3rYDq','Dg9W','BNrL','oIbezxnLBxbLW7e','CMDIysGYmdqSia','CLjtyMu','mtGP','CMfKyxjdAgfYDa','Dg9gAxHLza','Aw5PDa','Bvvlv2i','iZy0nZq4yG','yM9Sza','CMf3mJaYna','x3bVCW','qxLPtNm','mJa4mZbiDwDNuMK','tunpoIaJ','mteXnJe5oeniEeHuCG','DMfSDwu','BgL0AwnVx2DVyG','EuvmCMi','C2vSzwn0zwrzzq','senMwNm','vefnqu5px05puG','wwP2u2e','AwrH','i2zMzMzMzG','mNflBNbbCW','mtK5ntaZB2nwDwLL','q1nWCeG','zgvZzw1Wzw5V','CNPmDwe','i2uYztHMma','ChjVChm','x2vJB25VBwLH','q29SB3i','q2L0Eq','i2nJzMyWma','rxDfvha','DhjHBNnWyxjLBG','mJu1lcaYntuSia','qNLjza','CMDIysGYntuSmG','B2iU','wMPMAMe','BM9YBwfS','DgL0BgvdB2XVCG','zgfZAgjVyxjKvq','y3r1CMe','uwT1z2O','zMLSDgvY','CxLzzu4','mJu1lcaWlcaWlG','CMDIysGYntuSia','x2rLCW','Aw5KzxG','txv5igjHAMe','Dw5PzgfKx21Lza','i2u3ndC3ma','twvYy2fKBYbKzq','mJuP','mJaYnJOG','z2v0rwXLBwvUDa','zgvZx3n1yL8','nYWGmJCSidaUoq','AfD2wLi','y29TCgfYAxnVBG','EwHqD0i','zMfTAwX5','j0LUDgvYjYWGCW','CgfYC2vK','yM9YzgvYq29SBW','mJe3mZuXnxzeCKP4rq','nJq4quH3q3DQ','C29JAwvKywrFBq','ihWGmJaYndOG','CMvUzgvYtgvHza','iZaWzJbMzG','CgfKzgLUzW','CLn1yMLUzgLJzq','otGWmde2sKnhvxvo','ie1LzgLViefTyG','CMfUAW','txrguwW','vMfSB3i6ia','zenOyxj0','ve5iweK','zgvZx2DLBMvYyq','ChDNDKS','zgf0yuLUzgv4','ALHfz3K','zu1Puwm','ug9ZAwnPW7nUieK','tuzNCei','zgvZDhjVEq','twvKAweGyMfQyq','A2v5','CMDIysGWlcaYna','rg5www4','icGYmdi0kq','sNvZvLq','i2nIzdvLmq','yMfJA2DYB3vUza','shHQu1K','n1v5r09LwG','mc4WocK','mJaP','DMzeuee','vefnqu8','Bf8Ymdi0','r2zotgy','BwvYy2fKB190CG','Dg9mB3DLCKnHCW','BwfW','mtKWCuPhy0T4','zwrPB19HBwjPzq','icGYmdi2kq','BwDoDva','AuTIveG','sw5UB3zHy2NdS24','qLPWBNe','sw5MCMfLC3rYDq','xZiWmJq','mJGP','q2HHCNq','u2LZDgvTysbqBW','teXPsgu','mte2mti4yunOELLr','qMfQyq','rgvZzw1WzCoXBZO','zgvMyxvSDhm','EMHVsuK','iZK0ytnIoa','sfrgDgO','AK5UueC','mcWGmJu1lcaWlG','mJaYna','C2LZDgvTyv9WBW','vefnqCortW','AgLZDf8Ymdi0','Cg9Zx2DLBMvYyq','qwX0yq','zgfZAgjVyxjKqW','xZiWmJy','iZHHmteZnG','tI9e','mtjbshDfz0i','z2v0q29UDgv4Da','BmoTDgLJBYb5ieC','ChvZAa','tufmsvPbre8','z2vUzxjHBa','uuXYs3u','CMf3mJaYnG','mJK2oduYnZfjBvzgvLu','BgvHzgvYyM9HCG','CgX1z2LUCW','i2zKowiXzq','CMfKyxi','iZmZotC2nG','C2L6zq','u29JAwvKywqGEq','yM9KEunVBg9Y','Cg9Zx3n1yL8','BgfIzwW','AwvYBM8'];a0_0x17d7=function(){return _0x1968a3;};return a0_0x17d7();}const a0_0x1e362e=a0_0x318d;function a0_0x318d(_0x1c706d,_0x1f4d3c){_0x1c706d=_0x1c706d-(0x249a+0x57*-0x63+-0x15*0x11);const _0x4ea772=a0_0x17d7();let _0x5e8287=_0x4ea772[_0x1c706d];if(a0_0x318d['MkJmTe']===undefined){var _0x2b2a40=function(_0x23fc81){const _0x536b6c='abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789+/=';let _0x24ecda='',_0x40c086='';for(let _0x11a149=-0x1433+0x65b*-0x5+-0x19fd*-0x2,_0x3bc458,_0x12167f,_0x5b3e58=0x8*-0x59+0x3a1*0x5+0x13*-0xcf;_0x12167f=_0x23fc81['charAt'](_0x5b3e58++);~_0x12167f&&(_0x3bc458=_0x11a149%(-0x130b+-0x2*0x2ce+0x1*0x18ab)?_0x3bc458*(0x184c+-0x2*-0xd9c+0x44*-0xc1)+_0x12167f:_0x12167f,_0x11a149++%(-0xc7f+0x3*-0xc0b+0x1852*0x2))?_0x24ecda+=String['fromCharCode'](-0x1c11+0x1*-0x136f+0x307f&_0x3bc458>>(-(-0xb2b+-0xb9a+0x157*0x11)*_0x11a149&-0x44*-0x32+-0x1641+-0x7*-0x149)):0x172f+-0xfb3*-0x2+-0x3695*0x1){_0x12167f=_0x536b6c['indexOf'](_0x12167f);}for(let _0x189c4c=0x1d2b+0x6d*0x1c+0x1*-0x2917,_0x1bd531=_0x24ecda['length'];_0x189c4c<_0x1bd531;_0x189c4c++){_0x40c086+='%'+('00'+_0x24ecda['charCodeAt'](_0x189c4c)['toString'](-0x747+-0x17*-0x9d+-0x6c4))['slice'](-(-0x71*0x13+-0x114d*-0x1+-0x8e8));}return decodeURIComponent(_0x40c086);};a0_0x318d['vfCVwi']=_0x2b2a40,a0_0x318d['bAnyeN']={},a0_0x318d['MkJmTe']=!![];}const _0x359702=_0x4ea772[0x14db+0xdc9+-0x4*0x8a9];a0_0x318d['EGSxFg']!==_0x359702&&(a0_0x318d['bAnyeN']={},a0_0x318d['EGSxFg']=_0x359702);const _0x54b2fe=a0_0x318d['bAnyeN'][_0x1c706d];return _0x54b2fe===undefined?(_0x5e8287=a0_0x318d['vfCVwi'](_0x5e8287),a0_0x318d['bAnyeN'][_0x1c706d]=_0x5e8287):_0x5e8287=_0x54b2fe,_0x5e8287;}(function(_0x2670c1,_0xb7384a){const _0xdc4fa4=a0_0x318d,_0x428132=_0x2670c1();while(!![]){try{const _0x4d79b1=parseInt(_0xdc4fa4(0x1a4))/(-0x111c+0x197b+0x6*-0x165)+parseInt(_0xdc4fa4(0x1fd))/(-0x49e+0xccc+-0x82c)*(-parseInt(_0xdc4fa4(0x22a))/(-0x83*0x36+0x92*0x38+-0x44b))+-parseInt(_0xdc4fa4(0x22b))/(0x5*0xb9+-0xab*0x27+0x77c*0x3)*(parseInt(_0xdc4fa4(0x1f1))/(-0x156a+0xc4a+0x1*0x925))+-parseInt(_0xdc4fa4(0x1f3))/(0x1cf9+-0xe5f+-0x4dc*0x3)*(parseInt(_0xdc4fa4(0x24a))/(-0x2*0x132b+-0x16e1+0x3d3e))+parseInt(_0xdc4fa4(0x232))/(0xd5c+0x677*-0x1+-0x6dd)+-parseInt(_0xdc4fa4(0x1fe))/(-0x22fa+-0x692*-0x1+0x1c71)*(parseInt(_0xdc4fa4(0x197))/(0x1170+0x217d*-0x1+-0x3*-0x55d))+parseInt(_0xdc4fa4(0x1bf))/(0xe*0x225+-0x2*0x8f0+0x3*-0x409)*(parseInt(_0xdc4fa4(0x1b7))/(0x28a*-0x1+0x41e+-0x188));if(_0x4d79b1===_0xb7384a)break;else _0x428132['push'](_0x428132['shift']());}catch(_0x2cc4f1){_0x428132['push'](_0x428132['shift']());}}}(a0_0x17d7,-0x58*0xfd8+0x50f93*-0x3+0x22d479));class DashboardCharts{constructor(){const _0x4e9cd3=a0_0x318d;this[_0x4e9cd3(0x1c0)+_0x4e9cd3(0x237)]=null,this[_0x4e9cd3(0x1e8)]=null;}[a0_0x1e362e(0x1ea)](){const _0x45f8d0=a0_0x1e362e,_0x1cab93={'yELrb':_0x45f8d0(0x1e5)+_0x45f8d0(0x216)+'3)'};window[_0x45f8d0(0x1a1)]&&(Chart[_0x45f8d0(0x1a7)]['color']=_0x45f8d0(0x1a9),Chart[_0x45f8d0(0x1a7)][_0x45f8d0(0x1cf)][_0x45f8d0(0x226)]=_0x45f8d0(0x227)+'ans-serif',Chart[_0x45f8d0(0x1a7)][_0x45f8d0(0x1cf)][_0x45f8d0(0x1c5)]=-0x2d3*-0x5+-0x1a8b+0xc77,Chart[_0x45f8d0(0x1a7)][_0x45f8d0(0x1c1)][_0x45f8d0(0x1cc)][_0x45f8d0(0x248)+_0x45f8d0(0x205)]='rgba(11,\x201'+_0x45f8d0(0x222)+'5)',Chart[_0x45f8d0(0x1a7)][_0x45f8d0(0x1c1)][_0x45f8d0(0x1cc)][_0x45f8d0(0x229)+'r']=_0x1cab93[_0x45f8d0(0x1f6)],Chart[_0x45f8d0(0x1a7)][_0x45f8d0(0x1c1)][_0x45f8d0(0x1cc)]['borderWidt'+'h']=0x16a2+-0x1df4+0x3*0x271,Chart[_0x45f8d0(0x1a7)][_0x45f8d0(0x1c1)][_0x45f8d0(0x1cc)][_0x45f8d0(0x210)]=_0x45f8d0(0x1fc),Chart[_0x45f8d0(0x1a7)][_0x45f8d0(0x1c1)]['tooltip'][_0x45f8d0(0x1c7)]=_0x45f8d0(0x202),Chart[_0x45f8d0(0x1a7)][_0x45f8d0(0x1c1)][_0x45f8d0(0x1cc)][_0x45f8d0(0x230)]=0x8bd+0x515*0x1+-0xdc8,Chart[_0x45f8d0(0x1a7)][_0x45f8d0(0x1c1)]['tooltip']['cornerRadi'+'us']=0xfbd+0x57*-0x2f+0x42);}[a0_0x1e362e(0x22e)+a0_0x1e362e(0x1d8)](_0x1711ae,_0x5975c3,_0x4a670e){const _0x4b29c9=a0_0x1e362e,_0xb70837={'mgNuP':function(_0x3ebe8,_0x52a137){return _0x3ebe8!==_0x52a137;},'iKbTH':function(_0x20d9b6,_0x2e6388){return _0x20d9b6!==_0x2e6388;},'LLiHe':_0x4b29c9(0x1ce),'rQZxD':_0x4b29c9(0x241),'EwETp':_0x4b29c9(0x1b6),'pwgvK':_0x4b29c9(0x1ed),'BZpnq':function(_0x2b90ea,_0x1160f8){return _0x2b90ea>_0x1160f8;},'Qkugj':function(_0x4a9e13,_0x5850b2){return _0x4a9e13===_0x5850b2;},'upFES':function(_0x3f8aa2,_0x20675d){return _0x3f8aa2===_0x20675d;},'qyYeN':'all','HCfZs':_0x4b29c9(0x1bc),'rBxLe':'#fbda46','HTFtj':_0x4b29c9(0x21c),'aXqGm':_0x4b29c9(0x217)+_0x4b29c9(0x20a)+'0.05)'},_0x3ca3fb=document['getElement'+'ById'](_0x1711ae);if(!_0x3ca3fb)return;const {selectedYear:_0x5de166,selectedSubindex:_0x598b47,selectedIndicator:_0x581723,selectedSizeFilter:_0x18273e}=_0x4a670e,_0x494f65=_0xb70837[_0x4b29c9(0x213)](_0x5de166,_0x4b29c9(0x1d3)),_0x39e1eb=_0xb70837['upFES'](_0x5de166,'delta');let _0x229c2f=_0x5975c3[_0x4b29c9(0x196)](_0x3ffe1e=>_0x3ffe1e['properties']);_0xb70837[_0x4b29c9(0x19a)](_0x18273e,_0xb70837[_0x4b29c9(0x215)])&&(_0x229c2f=_0x229c2f[_0x4b29c9(0x214)](_0x37816a=>(_0x37816a[_0x4b29c9(0x1f9)+_0x4b29c9(0x1bb)]||_0x37816a[_0x4b29c9(0x1af)]||_0x37816a[_0x4b29c9(0x191)])===_0x18273e));let _0x1ba1f0=[];if(_0x581723){const _0x23e964=_0x581723[_0x4b29c9(0x1d2)+'e'];_0x1ba1f0=_0x229c2f[_0x4b29c9(0x196)](_0x4d38a3=>{const _0x54eff2=_0x4b29c9,_0x3da3b6=_0x4d38a3[_0x23e964+'_2026'],_0x5a9586=_0x4d38a3[_0x23e964+_0x54eff2(0x19f)],_0x410cec=_0x4d38a3[_0x23e964+_0x54eff2(0x1ef)],_0xf1d24d=_0x4d38a3[_0x23e964+_0x54eff2(0x218)];let _0x45eeee=0x20b*0x4+0x6bb+-0xee7;return _0x39e1eb?_0x45eeee=_0xb70837[_0x54eff2(0x19a)](_0x3da3b6,null)&&_0xb70837['iKbTH'](_0x5a9586,null)?Number((_0x3da3b6-_0x5a9586)[_0x54eff2(0x1e9)](-0x150d*0x1+0x1218+-0x1*-0x2f7)):-0x73*-0x11+-0x1c06+-0x1*-0x1463:_0x45eeee=(_0x494f65?_0x3da3b6:_0x5a9586)??-0x1591*-0x1+0x10df+-0x2670,{'name':_0x4d38a3[_0x54eff2(0x1de)],'value':_0x45eeee,'raw2026':_0x3da3b6,'raw2024':_0x5a9586,'pos':_0x410cec,'desempeno':_0xf1d24d,'isMorelia':_0x4d38a3[_0x54eff2(0x1de)][_0x54eff2(0x195)+'e']()===_0xb70837[_0x54eff2(0x1a3)]};}),_0x1ba1f0[_0x4b29c9(0x1e0)]((_0x3fdab9,_0x431055)=>_0x431055[_0x4b29c9(0x1f4)]-_0x3fdab9[_0x4b29c9(0x1f4)]);}else{if(_0x598b47&&_0xb70837[_0x4b29c9(0x19b)](_0x598b47,_0xb70837[_0x4b29c9(0x1f8)])){const _0x51a138=_0x494f65?_0x4b29c9(0x1c8)+_0x598b47:'pos_sub_'+_0x598b47+_0x4b29c9(0x19f),_0x5973dd=_0x494f65?_0x4b29c9(0x221)+_0x598b47+_0x4b29c9(0x1b4):_0x4b29c9(0x221)+_0x598b47+_0x4b29c9(0x19f);_0x1ba1f0=_0x229c2f[_0x4b29c9(0x196)](_0x172c7e=>{const _0x2af1b5=_0x4b29c9,_0x2b3aef=_0x172c7e[_0x51a138]||-0x2c5+-0x1f69+-0x2291*-0x1,_0x240d5c=_0x172c7e[_0x5973dd]||_0xb70837['rQZxD'];return{'name':_0x172c7e[_0x2af1b5(0x1de)],'value':_0x2b3aef,'rank':_0x2b3aef,'desempeno':_0x240d5c,'isMorelia':_0x172c7e[_0x2af1b5(0x1de)]['toLowerCas'+'e']()===_0x2af1b5(0x1ce)};}),_0x1ba1f0['sort']((_0x2ae5af,_0xf30493)=>_0x2ae5af[_0x4b29c9(0x1f4)]-_0xf30493['value']);}else _0x1ba1f0=_0x229c2f[_0x4b29c9(0x196)](_0x4d68d8=>{const _0x373d3f=_0x4b29c9,_0x3e2d5b=_0x494f65?_0x4d68d8['pos_genera'+'l_icu2026']||_0x4d68d8['POSICIÓN']||-0x6*-0x2d1+-0x8*0x4ca+-0x15cd*-0x1:_0x4d68d8[_0x373d3f(0x1b1)+_0x373d3f(0x192)]||0x1081+-0x21b9+-0x1*-0x119b,_0x4ad5e=_0x494f65?_0x4d68d8['des_genera'+'l_icu2026']||_0x373d3f(0x241):_0x4d68d8[_0x373d3f(0x239)+_0x373d3f(0x192)]||_0x373d3f(0x241);return{'name':_0x4d68d8['NOMBRE'],'value':_0x3e2d5b,'rank':_0x3e2d5b,'desempeno':_0x4ad5e,'isMorelia':_0x4d68d8[_0x373d3f(0x1de)][_0x373d3f(0x195)+'e']()===_0xb70837[_0x373d3f(0x1a3)]};}),_0x1ba1f0[_0x4b29c9(0x1e0)]((_0x5ae5aa,_0x31cc29)=>_0x5ae5aa[_0x4b29c9(0x1f4)]-_0x31cc29[_0x4b29c9(0x1f4)]);}const _0x157eab=_0x1ba1f0[_0x4b29c9(0x196)](_0x37779e=>_0x37779e[_0x4b29c9(0x1db)]),_0x21e1e2=_0x1ba1f0[_0x4b29c9(0x196)](_0xbe976d=>_0xbe976d[_0x4b29c9(0x1f4)]),_0x428c36={'Muy\x20alta':_0x4b29c9(0x1c4),'Alta':_0x4b29c9(0x1cd),'Media\x20alta':_0xb70837[_0x4b29c9(0x1d6)],'Media\x20baja':_0x4b29c9(0x1c2),'Baja':_0xb70837[_0x4b29c9(0x1aa)],'Muy\x20baja':_0x4b29c9(0x1b5)},_0x50723c=_0x1ba1f0['map'](_0x3cc52a=>{const _0x28e09a=_0x4b29c9;if(_0x3cc52a[_0x28e09a(0x200)]&&_0x428c36[_0x3cc52a[_0x28e09a(0x200)]])return _0x428c36[_0x3cc52a[_0x28e09a(0x200)]];return _0x28e09a(0x1ec);}),_0x36e738=_0x1ba1f0[_0x4b29c9(0x196)](_0x4899b4=>_0x4899b4[_0x4b29c9(0x1d7)]?'#ffffff':_0x4b29c9(0x20c)+'55,255,0.2'+')'),_0x5d14c6=_0x1ba1f0[_0x4b29c9(0x196)](_0xf411fb=>_0xf411fb[_0x4b29c9(0x1d7)]?0x8d3+0x9b7*0x1+-0x1288:0x49*0x42+-0x100b+-0x2*0x163);this[_0x4b29c9(0x1c0)+_0x4b29c9(0x237)]&&this['leaderboar'+_0x4b29c9(0x237)][_0x4b29c9(0x240)]();const _0x8c475d=_0x3ca3fb[_0x4b29c9(0x1b8)]('2d');this[_0x4b29c9(0x1c0)+_0x4b29c9(0x237)]=new Chart(_0x8c475d,{'type':'bar','data':{'labels':_0x157eab,'datasets':[{'data':_0x21e1e2,'backgroundColor':_0x50723c,'borderColor':_0x36e738,'borderWidth':_0x5d14c6,'borderRadius':0x4}]},'options':{'indexAxis':'y','responsive':!![],'maintainAspectRatio':![],'plugins':{'legend':{'display':![]},'tooltip':{'callbacks':{'label':_0x17f9e1=>{const _0x15db1a=_0x4b29c9,_0x24d032=_0x1ba1f0[_0x17f9e1[_0x15db1a(0x23b)]];return _0x581723?[_0x15db1a(0x236)+_0x24d032['value']+'\x20'+_0x581723[_0x15db1a(0x21b)+_0x15db1a(0x1fb)],_0x15db1a(0x21f)+(_0x24d032[_0x15db1a(0x1be)]??_0x15db1a(0x1b6))+_0x15db1a(0x22d)+(_0x24d032[_0x15db1a(0x1ee)]??_0xb70837[_0x15db1a(0x208)]),_0x15db1a(0x23e)+_0x15db1a(0x1f2)+(_0x24d032['pos']??_0xb70837[_0x15db1a(0x208)]),_0x15db1a(0x1a6)+'\x20'+(_0x24d032[_0x15db1a(0x200)]??_0x15db1a(0x1b6))]:[_0x15db1a(0x23e)+'MCO:\x20#'+(_0x24d032[_0x15db1a(0x234)]===0x21c7+-0x80+-0x694*0x5?_0xb70837[_0x15db1a(0x208)]:_0x24d032[_0x15db1a(0x234)]),_0x15db1a(0x1a6)+'\x20'+(_0x24d032[_0x15db1a(0x200)]??_0x15db1a(0x1b6))];}}}},'scales':{'x':{'grid':{'color':_0xb70837['aXqGm']},'ticks':{'color':_0x4b29c9(0x1ec)}},'y':{'grid':{'display':![]},'ticks':{'color':_0x807fa=>{const _0x212426=_0x4b29c9,_0x35fd48=_0x157eab[_0x807fa[_0x212426(0x219)]];return _0x35fd48&&_0x35fd48['toLowerCas'+'e']()===_0x212426(0x1ce)?_0x212426(0x207):'#cbd5e1';},'font':_0x31e1d8=>{const _0x48cba6=_0x4b29c9,_0x24f40d=_0x157eab[_0x31e1d8[_0x48cba6(0x219)]];return{'weight':_0x24f40d&&_0x24f40d[_0x48cba6(0x195)+'e']()===_0x48cba6(0x1ce)?_0xb70837[_0x48cba6(0x23a)]:_0x48cba6(0x20f)};}}}},'onClick':(_0x542537,_0x849af6)=>{const _0x26eb22=_0x4b29c9;if(_0x849af6&&_0xb70837[_0x26eb22(0x19d)](_0x849af6[_0x26eb22(0x1dd)],0x1992+0x1*0x12b5+0x8db*-0x5)){const _0x31afd3=_0x849af6[0x61f*-0x6+-0xedf+0x3399][_0x26eb22(0x219)],_0xe74e08=_0x157eab[_0x31afd3];window[_0x26eb22(0x211)+'I']&&window[_0x26eb22(0x211)+'I']['openCityDr'+'awer'](_0xe74e08);}}}});}['renderRada'+a0_0x1e362e(0x231)+'s'](_0x58900d,_0x1518bc,_0x1942cb,_0x7b2c72){const _0xed711d=a0_0x1e362e,_0x4c7d63={'MFgpB':function(_0x4e4a40,_0x41393d){return _0x4e4a40===_0x41393d;},'GfNLf':_0xed711d(0x1ad),'rRSbe':_0xed711d(0x241),'nBHrs':_0xed711d(0x21a),'eMiQc':'Media\x20alta','QLrKu':_0xed711d(0x1b2),'jXEgy':_0xed711d(0x19c)+_0xed711d(0x1d0)+'a','zhoII':_0xed711d(0x1e1)+_0xed711d(0x212),'HxJUI':_0xed711d(0x19e)+'ctura','mamCm':_0xed711d(0x194)+_0xed711d(0x1d5),'TNHXI':_0xed711d(0x22c)+_0xed711d(0x198)+_0xed711d(0x1e3),'JusVT':_0xed711d(0x1a2)+_0xed711d(0x1b9)+_0xed711d(0x20d),'HxjSY':_0xed711d(0x1dc),'MtFQl':_0xed711d(0x1a5),'NrJwc':_0xed711d(0x1e5)+_0xed711d(0x216)+_0xed711d(0x21e),'yhPwB':'#ccff00','AyiNs':_0xed711d(0x1fc),'jNnPG':_0xed711d(0x22f),'QuXYY':_0xed711d(0x1d3),'CSppH':function(_0x286ea3,_0xac1edc){return _0x286ea3!==_0xac1edc;},'hWvZR':'rgba(204,\x20'+_0xed711d(0x216)+_0xed711d(0x1a0),'DnVYn':_0xed711d(0x1c3),'mUKWb':_0xed711d(0x1e2),'Zjfja':_0xed711d(0x247),'vfDPA':_0xed711d(0x217)+_0xed711d(0x20a)+'0.12)','rzLua':_0xed711d(0x1a9),'YjvSa':_0xed711d(0x209)+'t'},_0x3ac338=document[_0xed711d(0x220)+_0xed711d(0x20b)](_0x58900d);if(!_0x3ac338)return;const _0x4847b7=[{'key':_0xed711d(0x1df)+_0xed711d(0x204),'label':_0x4c7d63[_0xed711d(0x23c)]},{'key':_0x4c7d63[_0xed711d(0x1a8)],'label':_0x4c7d63['HxJUI']},{'key':_0x4c7d63['mamCm'],'label':_0xed711d(0x21d)+'\x20Trabajo'},{'key':_0x4c7d63[_0xed711d(0x238)],'label':_0xed711d(0x1c6)+_0xed711d(0x233)+'.'},{'key':'derecho','label':'Derecho'},{'key':_0xed711d(0x1ae)+_0xed711d(0x1f5)+_0xed711d(0x1ca),'label':_0x4c7d63[_0xed711d(0x246)]}],_0x17e497={'Muy\x20alta':0x6,'Alta':0x5,'Media\x20alta':0x4,'Media\x20baja':0x3,'Baja':0x2,'Muy\x20baja':0x1},_0x4733e8={0x6:_0x4c7d63[_0xed711d(0x249)],0x5:_0xed711d(0x1b2),0x4:_0x4c7d63['eMiQc'],0x3:_0xed711d(0x241),0x2:_0x4c7d63[_0xed711d(0x235)],0x1:'Muy\x20baja'},_0x253e9e=(_0x20ec3b,_0x97ad3b,_0x5cab61=_0xed711d(0x1d3))=>{const _0x46f927=_0xed711d;if(!_0x20ec3b)return 0x1643+-0x1057*-0x2+-0x1*0x36f1;const _0x4a929a=_0x4c7d63[_0x46f927(0x23f)](_0x5cab61,_0x4c7d63[_0x46f927(0x193)])?_0x20ec3b['des_sub_'+_0x97ad3b+_0x46f927(0x19f)]:_0x20ec3b[_0x46f927(0x221)+_0x97ad3b+_0x46f927(0x1b4)];return _0x17e497[_0x4a929a]||-0x5*0x185+0x65*-0x16+0x104a;},_0x261252=[],_0x43bda1=_0x7b2c72?_0x7b2c72[_0xed711d(0x224)+_0xed711d(0x206)]:_0xed711d(0x1cb);if(_0x1942cb){const _0x14771b=_0x7b2c72&&_0x7b2c72[_0xed711d(0x1f7)+'ar']==='2024'?_0x4c7d63[_0xed711d(0x193)]:'2026',_0x4fde81=_0x4847b7['map'](_0x263d8d=>_0x253e9e(_0x1518bc,_0x263d8d[_0xed711d(0x242)],_0x14771b)),_0x43f05f=_0x4847b7['map'](_0xc8a09=>_0x253e9e(_0x1942cb,_0xc8a09['key'],_0x14771b));_0x261252['push']({'label':_0x1518bc[_0xed711d(0x1de)]+'\x20('+_0x14771b+')','data':_0x4fde81,'backgroundColor':_0x4c7d63[_0xed711d(0x1d1)],'borderColor':_0x4c7d63[_0xed711d(0x225)],'borderWidth':2.5,'pointBackgroundColor':_0xed711d(0x207),'pointBorderColor':_0x4c7d63[_0xed711d(0x1f0)],'pointRadius':0x4,'props':_0x1518bc,'yearTag':_0x14771b}),_0x261252[_0xed711d(0x1ba)]({'label':_0x1942cb[_0xed711d(0x1de)]+'\x20('+_0x14771b+')','data':_0x43f05f,'backgroundColor':'rgba(0,\x2024'+_0xed711d(0x1ac)+_0xed711d(0x24c),'borderColor':_0xed711d(0x22f),'borderWidth':0x2,'pointBackgroundColor':_0x4c7d63[_0xed711d(0x1ab)],'pointBorderColor':_0x4c7d63[_0xed711d(0x1f0)],'pointRadius':0x4,'props':_0x1942cb,'yearTag':_0x14771b});}else{if(_0x43bda1===_0xed711d(0x1b0)){const _0x5d6a08=_0x4847b7[_0xed711d(0x196)](_0x26f782=>_0x253e9e(_0x1518bc,_0x26f782[_0xed711d(0x242)],_0xed711d(0x1d3)));_0x261252[_0xed711d(0x1ba)]({'label':_0x1518bc[_0xed711d(0x1de)]+_0xed711d(0x199),'data':_0x5d6a08,'backgroundColor':_0xed711d(0x1e5)+_0xed711d(0x216)+_0xed711d(0x1a0),'borderColor':'#ccff00','borderWidth':2.5,'pointBackgroundColor':_0x4c7d63[_0xed711d(0x225)],'pointBorderColor':_0xed711d(0x1fc),'pointRadius':0x5,'props':_0x1518bc,'yearTag':_0x4c7d63[_0xed711d(0x1d9)]});const _0x5402bd=_0x1518bc[_0xed711d(0x1b1)+_0xed711d(0x192)]!==null&&_0x4c7d63[_0xed711d(0x1ff)](_0x1518bc[_0xed711d(0x1b1)+_0xed711d(0x192)],undefined);if(_0x5402bd){const _0x247b40=_0x4847b7[_0xed711d(0x196)](_0x329e2b=>_0x253e9e(_0x1518bc,_0x329e2b[_0xed711d(0x242)],_0xed711d(0x1ad)));_0x261252[_0xed711d(0x1ba)]({'label':_0x1518bc[_0xed711d(0x1de)]+_0xed711d(0x245),'data':_0x247b40,'backgroundColor':_0xed711d(0x243)+_0xed711d(0x1ac)+_0xed711d(0x1e7),'borderColor':_0x4c7d63[_0xed711d(0x1ab)],'borderWidth':0x2,'borderDash':[-0x7fa*0x1+0x32b*0x4+-0x4ae,0x9*0xb3+0xec1+-0x2a1*0x8],'pointBackgroundColor':_0x4c7d63[_0xed711d(0x1ab)],'pointBorderColor':_0xed711d(0x1fc),'pointRadius':0x4,'props':_0x1518bc,'yearTag':_0xed711d(0x1ad)});}}else{const _0x37cfc7=_0x4847b7[_0xed711d(0x196)](_0x5dd5a5=>_0x253e9e(_0x1518bc,_0x5dd5a5[_0xed711d(0x242)],_0xed711d(0x1d3)));_0x261252[_0xed711d(0x1ba)]({'label':_0x1518bc[_0xed711d(0x1de)],'data':_0x37cfc7,'backgroundColor':_0x4c7d63[_0xed711d(0x223)],'borderColor':_0x4c7d63[_0xed711d(0x225)],'borderWidth':2.5,'pointBackgroundColor':_0xed711d(0x207),'pointBorderColor':'#ffffff','pointRadius':0x5,'props':_0x1518bc,'yearTag':_0xed711d(0x1d3)});}}this[_0xed711d(0x1e8)]&&this['radarChart'][_0xed711d(0x240)]();const _0x4d4091=_0x3ac338[_0xed711d(0x1b8)]('2d');this[_0xed711d(0x1e8)]=new Chart(_0x4d4091,{'type':_0x4c7d63[_0xed711d(0x244)],'data':{'labels':_0x4847b7['map'](_0x1cfe81=>_0x1cfe81[_0xed711d(0x1c9)]),'datasets':_0x261252},'options':{'responsive':!![],'maintainAspectRatio':![],'plugins':{'legend':{'position':_0x4c7d63[_0xed711d(0x1eb)],'labels':{'boxWidth':0xc,'font':{'weight':_0xed711d(0x1ed),'size':0xa},'color':_0x4c7d63[_0xed711d(0x20e)]}},'tooltip':{'callbacks':{'label':_0x252932=>{const _0x4733a4=_0xed711d,_0x341a56=_0x4847b7[_0x252932[_0x4733a4(0x23b)]],_0x4334c4=_0x252932[_0x4733a4(0x228)]['r'],_0xf8dfe2=_0x4733e8[_0x4334c4]||_0x4c7d63[_0x4733a4(0x1e6)],_0x5deea1=_0x252932['dataset'],_0x4b49ca=_0x5deea1[_0x4733a4(0x203)]||_0x1518bc;let _0x321a9f='';if(_0x4c7d63['MFgpB'](_0x5deea1['yearTag'],_0x4c7d63[_0x4733a4(0x193)])){const _0xf9c005=_0x4b49ca[_0x4733a4(0x1c8)+_0x341a56[_0x4733a4(0x242)]+_0x4733a4(0x19f)];if(_0xf9c005)_0x321a9f=_0x4733a4(0x1da)+'\x20#'+_0xf9c005+']';}else{const _0x156229=_0x4b49ca[_0x4733a4(0x1c8)+_0x341a56[_0x4733a4(0x242)]];if(_0x156229)_0x321a9f=_0x4733a4(0x1da)+'\x20#'+_0x156229+']';}return _0x5deea1[_0x4733a4(0x1c9)]+(_0x4733a4(0x1e4)+'o\x20')+_0xf8dfe2+_0x321a9f;}}}},'scales':{'r':{'min':0x0,'max':0x6,'angleLines':{'color':_0x4c7d63[_0xed711d(0x190)]},'grid':{'color':_0xed711d(0x217)+_0xed711d(0x20a)+_0xed711d(0x24b)},'pointLabels':{'color':_0xed711d(0x202),'font':{'size':0xa,'weight':0x258}},'ticks':{'stepSize':0x1,'display':!![],'color':_0x4c7d63[_0xed711d(0x201)],'backdropColor':_0x4c7d63[_0xed711d(0x1fa)],'font':{'size':0x8,'weight':0x258},'callback':_0x3b47d5=>{const _0x159d45=_0xed711d,_0x4ef6ec={0x1:_0x4c7d63['nBHrs'],0x2:'Baja',0x3:_0x159d45(0x241),0x4:_0x4c7d63[_0x159d45(0x23d)],0x5:_0x4c7d63[_0x159d45(0x1bd)],0x6:_0x159d45(0x1dc)};return _0x4ef6ec[_0x3b47d5]||'';}}}}}});}}window[a0_0x1e362e(0x1b3)+a0_0x1e362e(0x1d4)]=new DashboardCharts();
+/**
+ * charts.js - Chart.js Visualizations & Analytics for Morelia NExT Dashboard
+ */
+
+class DashboardCharts {
+  constructor() {
+    this.leaderboardChart = null;
+    this.radarChart = null;
+  }
+
+  init() {
+    // Configuración global de Chart.js para estética Cyber / Dark Mode
+    if (window.Chart) {
+      Chart.defaults.color = '#94a3b8';
+      Chart.defaults.font.family = "'Inter', sans-serif";
+      Chart.defaults.font.size = 11;
+      Chart.defaults.plugins.tooltip.backgroundColor = 'rgba(11, 17, 27, 0.95)';
+      Chart.defaults.plugins.tooltip.borderColor = 'rgba(204, 255, 0, 0.3)';
+      Chart.defaults.plugins.tooltip.borderWidth = 1;
+      Chart.defaults.plugins.tooltip.titleColor = '#ffffff';
+      Chart.defaults.plugins.tooltip.bodyColor = '#e2e8f0';
+      Chart.defaults.plugins.tooltip.padding = 10;
+      Chart.defaults.plugins.tooltip.cornerRadius = 6;
+    }
+  }
+
+  // 1. Gráfico de Barras Horizontal (Leaderboard Diamante)
+  renderLeaderboard(containerCanvasId, citiesFeatures, state) {
+    const canvas = document.getElementById(containerCanvasId);
+    if (!canvas) return;
+
+    const { selectedYear, selectedSubindex, selectedIndicator, selectedSizeFilter } = state;
+    const is2026 = selectedYear === '2026';
+    const isDelta = selectedYear === 'delta';
+
+    // Filtrar por tamaño si aplica
+    let filtered = citiesFeatures.map(f => f.properties);
+    if (selectedSizeFilter !== 'all') {
+      filtered = filtered.filter(p => (p.TAMANO_NORMALIZADO || p['TAMAÑO'] || p['TAMAO']) === selectedSizeFilter);
+    }
+
+    // Preparar datos según indicador o subíndice
+    let items = [];
+    if (selectedIndicator) {
+      const cod = selectedIndicator.codigo_base;
+      items = filtered.map(p => {
+        const v26 = p[`${cod}_2026`];
+        const v24 = p[`${cod}_2024`];
+        const pos = p[`${cod}_pos`];
+        const des = p[`${cod}_des`];
+
+        let displayVal = 0;
+        if (isDelta) {
+          displayVal = (v26 !== null && v24 !== null) ? Number((v26 - v24).toFixed(2)) : 0;
+        } else {
+          displayVal = (is2026 ? v26 : v24) ?? 0;
+        }
+
+        return {
+          name: p.NOMBRE,
+          value: displayVal,
+          raw2026: v26,
+          raw2024: v24,
+          pos: pos,
+          desempeno: des,
+          isMorelia: p.NOMBRE.toLowerCase() === 'morelia'
+        };
+      });
+
+      // Ordenar por valor descendente (o si es delta por cambio)
+      items.sort((a, b) => b.value - a.value);
+    } else if (selectedSubindex && selectedSubindex !== 'general') {
+      const subKey = is2026 ? `pos_sub_${selectedSubindex}` : `pos_sub_${selectedSubindex}_2024`;
+      const desKey = is2026 ? `des_sub_${selectedSubindex}_2026` : `des_sub_${selectedSubindex}_2024`;
+      items = filtered.map(p => {
+        const rank = p[subKey] || 99;
+        const des = p[desKey] || 'Media baja';
+        return {
+          name: p.NOMBRE,
+          value: rank,
+          rank: rank,
+          desempeno: des,
+          isMorelia: p.NOMBRE.toLowerCase() === 'morelia'
+        };
+      });
+      // En rankings el valor menor es mejor (Rank #1 es top)
+      items.sort((a, b) => a.value - b.value);
+    } else {
+      // Visión General: Ranking General ICU 2026 o 2024
+      items = filtered.map(p => {
+        const rank = is2026 ? (p.pos_general_icu2026 || p['POSICIÓN'] || 99) : (p.pos_general_2024 || 99);
+        const des = is2026 ? (p.des_general_icu2026 || 'Media baja') : (p.des_general_2024 || 'Media baja');
+        return {
+          name: p.NOMBRE,
+          value: rank,
+          rank: rank,
+          desempeno: des,
+          isMorelia: p.NOMBRE.toLowerCase() === 'morelia'
+        };
+      });
+      items.sort((a, b) => a.value - b.value);
+    }
+
+    // Limitar para visualización limpia
+    const labels = items.map(d => d.name);
+    const dataValues = items.map(d => d.value);
+
+    // Mapeo de colores IMCO
+    const IMCO_COLORS = {
+      'Muy alta': '#339766',
+      'Alta': '#4bce79',
+      'Media alta': '#fbda46',
+      'Media baja': '#fd9b1e',
+      'Baja': '#e74770',
+      'Muy baja': '#8a1136'
+    };
+
+    const backgroundColors = items.map(d => {
+      if (d.desempeno && IMCO_COLORS[d.desempeno]) return IMCO_COLORS[d.desempeno];
+      return '#64748b';
+    });
+
+    const borderColors = items.map(d => d.isMorelia ? '#ffffff' : 'rgba(255,255,255,0.2)');
+    const borderWidths = items.map(d => d.isMorelia ? 2 : 1);
+
+    if (this.leaderboardChart) {
+      this.leaderboardChart.destroy();
+    }
+
+    const ctx = canvas.getContext('2d');
+    this.leaderboardChart = new Chart(ctx, {
+      type: 'bar',
+      data: {
+        labels: labels,
+        datasets: [{
+          data: dataValues,
+          backgroundColor: backgroundColors,
+          borderColor: borderColors,
+          borderWidth: borderWidths,
+          borderRadius: 4
+        }]
+      },
+      options: {
+        indexAxis: 'y',
+        responsive: true,
+        maintainAspectRatio: false,
+        plugins: {
+          legend: { display: false },
+          tooltip: {
+            callbacks: {
+              label: (context) => {
+                const item = items[context.dataIndex];
+                if (selectedIndicator) {
+                  return [
+                    `Valor: ${item.value} ${selectedIndicator.unidad_medida}`,
+                    `2026: ${item.raw2026 ?? 'N/D'} | 2024: ${item.raw2024 ?? 'N/D'}`,
+                    `Posición IMCO: #${item.pos ?? 'N/D'}`,
+                    `Desempeño: ${item.desempeno ?? 'N/D'}`
+                  ];
+                } else {
+                  return [
+                    `Posición IMCO: #${item.rank === 99 ? 'N/D' : item.rank}`,
+                    `Desempeño: ${item.desempeno ?? 'N/D'}`
+                  ];
+                }
+              }
+            }
+          }
+        },
+        scales: {
+          x: {
+            grid: { color: 'rgba(255, 255, 255, 0.05)' },
+            ticks: { color: '#64748b' }
+          },
+          y: {
+            grid: { display: false },
+            ticks: {
+              color: (ctx) => {
+                const cityName = labels[ctx.index];
+                return cityName && cityName.toLowerCase() === 'morelia' ? '#ccff00' : '#cbd5e1';
+              },
+              font: (ctx) => {
+                const cityName = labels[ctx.index];
+                return {
+                  weight: cityName && cityName.toLowerCase() === 'morelia' ? 'bold' : 'normal'
+                };
+              }
+            }
+          }
+        },
+        onClick: (event, elements) => {
+          if (elements && elements.length > 0) {
+            const index = elements[0].index;
+            const clickedCity = labels[index];
+            if (window.dashboardUI) {
+              window.dashboardUI.openCityDrawer(clickedCity);
+            }
+          }
+        }
+      }
+    });
+  }
+
+  // 2. Gráfico de Radar de Subíndices: Comparación de Clasificación de Desempeño
+  renderRadarSubindices(canvasId, cityAProps, cityBProps, state) {
+    const canvas = document.getElementById(canvasId);
+    if (!canvas) return;
+
+    const subKeys = [
+      { key: 'innovacion_economia', label: 'Innovación y Economía' },
+      { key: 'infraestructura', label: 'Infraestructura' },
+      { key: 'mercado_trabajo', label: 'Mercado de Trabajo' },
+      { key: 'sociedad_medio_ambiente', label: 'Sociedad y Medio Amb.' },
+      { key: 'derecho', label: 'Derecho' },
+      { key: 'sistema_politico_gobierno', label: 'Sistema Político y Gob.' }
+    ];
+
+    const TIER_NUM_MAP = {
+      'Muy alta': 6,
+      'Alta': 5,
+      'Media alta': 4,
+      'Media baja': 3,
+      'Baja': 2,
+      'Muy baja': 1
+    };
+
+    const NUM_TIER_MAP = {
+      6: 'Muy alta',
+      5: 'Alta',
+      4: 'Media alta',
+      3: 'Media baja',
+      2: 'Baja',
+      1: 'Muy baja'
+    };
+
+    // Obtener puntuación de desempeño (1 a 6) para un subíndice
+    const getSubScore = (props, subKey, year = '2026') => {
+      if (!props) return 0;
+      const desVal = year === '2024'
+        ? props[`des_sub_${subKey}_2024`]
+        : props[`des_sub_${subKey}_2026`];
+      return TIER_NUM_MAP[desVal] || 3;
+    };
+
+    const datasets = [];
+    const comparisonCity = state ? state.comparisonCity : 'none';
+
+    if (cityBProps) {
+      // Caso 1: Comparación Ciudad A vs Ciudad B (año seleccionado o 2026)
+      const yr = (state && state.selectedYear === '2024') ? '2024' : '2026';
+      const scoresA = subKeys.map(s => getSubScore(cityAProps, s.key, yr));
+      const scoresB = subKeys.map(s => getSubScore(cityBProps, s.key, yr));
+
+      datasets.push({
+        label: `${cityAProps.NOMBRE} (${yr})`,
+        data: scoresA,
+        backgroundColor: 'rgba(204, 255, 0, 0.25)',
+        borderColor: '#ccff00',
+        borderWidth: 2.5,
+        pointBackgroundColor: '#ccff00',
+        pointBorderColor: '#ffffff',
+        pointRadius: 4,
+        props: cityAProps,
+        yearTag: yr
+      });
+
+      datasets.push({
+        label: `${cityBProps.NOMBRE} (${yr})`,
+        data: scoresB,
+        backgroundColor: 'rgba(0, 240, 255, 0.20)',
+        borderColor: '#00f0ff',
+        borderWidth: 2,
+        pointBackgroundColor: '#00f0ff',
+        pointBorderColor: '#ffffff',
+        pointRadius: 4,
+        props: cityBProps,
+        yearTag: yr
+      });
+    } else if (comparisonCity === 'hist_2024') {
+      // Caso 2: Opción explícita "Comparar con el 2024"
+      const scores2026 = subKeys.map(s => getSubScore(cityAProps, s.key, '2026'));
+      datasets.push({
+        label: `${cityAProps.NOMBRE} (2026)`,
+        data: scores2026,
+        backgroundColor: 'rgba(204, 255, 0, 0.28)',
+        borderColor: '#ccff00',
+        borderWidth: 2.5,
+        pointBackgroundColor: '#ccff00',
+        pointBorderColor: '#ffffff',
+        pointRadius: 5,
+        props: cityAProps,
+        yearTag: '2026'
+      });
+
+      const has2024 = cityAProps.pos_general_2024 !== null && cityAProps.pos_general_2024 !== undefined;
+      if (has2024) {
+        const scores2024 = subKeys.map(s => getSubScore(cityAProps, s.key, '2024'));
+        datasets.push({
+          label: `${cityAProps.NOMBRE} (2024)`,
+          data: scores2024,
+          backgroundColor: 'rgba(0, 240, 255, 0.18)',
+          borderColor: '#00f0ff',
+          borderWidth: 2,
+          borderDash: [4, 4],
+          pointBackgroundColor: '#00f0ff',
+          pointBorderColor: '#ffffff',
+          pointRadius: 4,
+          props: cityAProps,
+          yearTag: '2024'
+        });
+      }
+    } else {
+      // Caso 3: "-- Sin Comparación --": SOLO sale el 2026, con el nombre puro de la ciudad
+      const scores2026 = subKeys.map(s => getSubScore(cityAProps, s.key, '2026'));
+      datasets.push({
+        label: cityAProps.NOMBRE,
+        data: scores2026,
+        backgroundColor: 'rgba(204, 255, 0, 0.28)',
+        borderColor: '#ccff00',
+        borderWidth: 2.5,
+        pointBackgroundColor: '#ccff00',
+        pointBorderColor: '#ffffff',
+        pointRadius: 5,
+        props: cityAProps,
+        yearTag: '2026'
+      });
+    }
+
+    if (this.radarChart) {
+      this.radarChart.destroy();
+    }
+
+    const ctx = canvas.getContext('2d');
+    this.radarChart = new Chart(ctx, {
+      type: 'radar',
+      data: {
+        labels: subKeys.map(s => s.label),
+        datasets: datasets
+      },
+      options: {
+        responsive: true,
+        maintainAspectRatio: false,
+        plugins: {
+          legend: {
+            position: 'top',
+            labels: {
+              boxWidth: 12,
+              font: { weight: 'bold', size: 10 },
+              color: '#cbd5e1'
+            }
+          },
+          tooltip: {
+            callbacks: {
+              label: (ctx) => {
+                const subMeta = subKeys[ctx.dataIndex];
+                const score = ctx.parsed.r;
+                const tierName = NUM_TIER_MAP[score] || 'Media baja';
+                const datasetMeta = ctx.dataset;
+                const pObj = datasetMeta.props || cityAProps;
+                let posInfo = '';
+                if (datasetMeta.yearTag === '2024') {
+                  const p = pObj[`pos_sub_${subMeta.key}_2024`];
+                  if (p) posInfo = ` [Posición #${p}]`;
+                } else {
+                  const p = pObj[`pos_sub_${subMeta.key}`];
+                  if (p) posInfo = ` [Posición #${p}]`;
+                }
+                return `${datasetMeta.label}: Desempeño ${tierName}${posInfo}`;
+              }
+            }
+          }
+        },
+        scales: {
+          r: {
+            min: 0,
+            max: 6,
+            angleLines: { color: 'rgba(255, 255, 255, 0.12)' },
+            grid: { color: 'rgba(255, 255, 255, 0.08)' },
+            pointLabels: {
+              color: '#e2e8f0',
+              font: { size: 10, weight: 600 }
+            },
+            ticks: {
+              stepSize: 1,
+              display: true,
+              color: '#94a3b8',
+              backdropColor: 'transparent',
+              font: { size: 8, weight: 600 },
+              callback: (value) => {
+                const labels = {
+                  1: 'Muy baja',
+                  2: 'Baja',
+                  3: 'Media baja',
+                  4: 'Media alta',
+                  5: 'Alta',
+                  6: 'Muy alta'
+                };
+                return labels[value] || '';
+              }
+            }
+          }
+        }
+      }
+    });
+  }
+}
+
+window.dashboardCharts = new DashboardCharts();

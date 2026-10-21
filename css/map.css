@@ -1,1 +1,430 @@
-.leaflet-container{background:#05080c !important;font-family:var(--font-body) !important;}.satellite-dark-filter{filter:brightness(0.68) contrast(1.25) saturate(1.15) !important;}.city-node-marker{width:44px;height:44px;display:flex;align-items:center;justify-content:center;position:relative;cursor:pointer;pointer-events:auto;}.node-outer-halo{position:absolute;border-radius:50%;border:1px solid currentColor;opacity:0.45;animation:pulse-ring 2.8s infinite cubic-bezier(0.215,0.61,0.355,1);pointer-events:none;}.node-inner-circle{border-radius:50%;background:currentColor;border:2px solid #ffffff;box-shadow:0 0 12px currentColor,0 0 24px currentColor;position:relative;z-index:2;transition:transform var(--transition-fast),box-shadow var(--transition-fast);}.city-node-marker:hover .node-inner-circle{transform:scale(1.35);box-shadow:0 0 20px currentColor,0 0 35px currentColor;}.city-node-marker.morelia-hub .node-inner-circle{border:2px solid #ffffff;box-shadow:0 0 16px currentColor,0 0 32px currentColor;}.city-node-marker.morelia-hub .node-outer-halo{border:2px solid var(--accent-lime);animation:pulse-morelia 2.2s infinite ease-out;}.morelia-corazon-badge{position:absolute;top:36px;left:50%;transform:translateX(-50%);text-align:center;line-height:1.15;font-family:var(--font-mono);font-size:0.62rem;font-weight:800;color:#000000;background:var(--accent-lime);padding:2px 7px;border-radius:3px;box-shadow:0 0 12px var(--accent-lime);letter-spacing:0.08em;white-space:nowrap;pointer-events:none;z-index:25;display:none;}.node-label-wrap{position:absolute;left:38px;top:50%;transform:translateY(-50%);display:none;align-items:center;gap:5px;background:rgba(6,10,18,0.82);backdrop-filter:blur(8px);padding:3px 8px;border-radius:4px;border:1px solid rgba(255,255,255,0.12);white-space:nowrap;pointer-events:none;box-shadow:0 4px 15px rgba(0,0,0,0.7);transition:all var(--transition-fast);}.city-node-marker:hover .node-label-wrap{border-color:var(--accent-lime);background:rgba(6,10,18,0.95);box-shadow:0 0 15px rgba(204,255,0,0.3);}.show-city-labels .node-label-wrap{display:flex !important;}.show-city-labels .morelia-corazon-badge{display:block !important;}.node-city-name{font-family:var(--font-display);font-size:0.74rem;font-weight:700;color:#ffffff;letter-spacing:0.02em;}.node-rank-pill{font-family:var(--font-mono);font-size:0.65rem;font-weight:700;padding:2px 6px;border-radius:4px;line-height:1.2;letter-spacing:0.02em;white-space:nowrap;}.node-rank-pill.node-rank-nal{background:rgba(0,240,255,0.18);border:1px solid rgba(0,240,255,0.5);color:var(--accent-cyan);box-shadow:0 0 8px rgba(0,240,255,0.2);}.node-rank-pill.node-rank-tam{background:rgba(204,255,0,0.14);border:1px solid rgba(204,255,0,0.38);color:var(--accent-lime);}.node-rank-pill.node-rank-ind{background:rgba(251,218,70,0.16);border:1px solid rgba(251,218,70,0.4);color:#fbda46;}@keyframes pulse-ring{0%{transform:scale(0.6);opacity:0.8;}50%{opacity:0.3;}100%{transform:scale(2.2);opacity:0;}}@keyframes pulse-morelia{0%{transform:scale(0.5);opacity:0.9;}100%{transform:scale(2.6);opacity:0;}}.custom-map-tooltip,.leaflet-tooltip{background:#040810 !important;background-color:#040810 !important;border:1px solid rgba(0,240,255,0.5) !important;border-radius:8px !important;box-shadow:0 14px 40px rgba(0,0,0,0.98),0 0 16px rgba(0,240,255,0.25) !important;color:#f8fafc !important;padding:8px 12px !important;font-family:var(--font-body) !important;white-space:normal !important;opacity:1 !important;pointer-events:none;}.custom-map-tooltip:before,.leaflet-tooltip-top:before{border-top-color:#040810 !important;}.custom-map-tooltip.leaflet-tooltip-bottom:before,.leaflet-tooltip-bottom:before{border-bottom-color:#040810 !important;}.custom-map-tooltip.leaflet-tooltip-left:before,.leaflet-tooltip-left:before{border-left-color:#040810 !important;}.custom-map-tooltip.leaflet-tooltip-right:before,.leaflet-tooltip-right:before{border-right-color:#040810 !important;}.leaflet-popup-content-wrapper{background:#040810 !important;border:1px solid rgba(0,240,255,0.5) !important;border-radius:10px !important;box-shadow:0 18px 50px rgba(0,0,0,0.98),0 0 20px rgba(0,240,255,0.25) !important;color:#f8fafc !important;padding:0 !important;}.leaflet-popup-content{margin:0 !important;line-height:1.4 !important;width:280px !important;}.leaflet-popup-tip{background:#040810 !important;border:1px solid rgba(0,240,255,0.5) !important;}.popup-card{padding:14px 16px;display:flex;flex-direction:column;gap:10px;}.popup-header{display:flex;align-items:flex-start;justify-content:space-between;border-bottom:1px solid var(--border-subtle);padding-bottom:8px;}.popup-city-title{font-size:1.05rem;font-weight:800;color:#ffffff;}.popup-city-group{font-size:0.7rem;color:var(--text-muted);}.popup-stat-grid{display:grid;grid-template-columns:1fr 1fr;gap:8px;}.popup-stat-box{background:rgba(0,0,0,0.35);border:1px solid var(--border-subtle);border-radius:6px;padding:6px 8px;display:flex;flex-direction:column;}.popup-stat-label{font-size:0.65rem;text-transform:uppercase;color:var(--text-muted);font-weight:600;}.popup-stat-val{font-family:var(--font-mono);font-size:0.95rem;font-weight:700;color:var(--accent-lime);}.popup-btn{background:linear-gradient(135deg,rgba(204,255,0,0.2),rgba(0,240,255,0.2));border:1px solid var(--accent-lime);color:#ffffff;padding:7px 12px;border-radius:6px;font-size:0.75rem;font-weight:600;cursor:pointer;text-align:center;transition:all var(--transition-fast);margin-top:4px;}.popup-btn:hover{background:var(--accent-lime);color:#000000;box-shadow:var(--glow-lime);}.map-legend-card{background:rgba(8,14,24,0.94);backdrop-filter:var(--backdrop-blur);border:1px solid rgba(255,255,255,0.12);border-radius:8px;padding:10px 14px;box-shadow:0 8px 30px rgba(0,0,0,0.85);display:flex;flex-direction:column;gap:6px;min-width:220px;pointer-events:auto;user-select:none;}.legend-title{font-size:0.68rem;font-weight:700;text-transform:uppercase;letter-spacing:0.08em;color:var(--text-muted);}.legend-scale-bar{display:flex;height:8px;border-radius:4px;overflow:hidden;gap:2px;}.legend-seg{flex:1;}.legend-labels{display:flex;justify-content:space-between;font-size:0.64rem;color:var(--text-secondary);font-family:var(--font-mono);}.leaflet-top.leaflet-right{top:14px;right:14px;}.leaflet-control-zoom.leaflet-bar{background:rgba(6,11,20,0.92) !important;backdrop-filter:blur(16px) !important;border:1px solid rgba(0,240,255,0.35) !important;border-radius:8px !important;box-shadow:0 8px 30px rgba(0,0,0,0.85),0 0 15px rgba(0,240,255,0.15) !important;overflow:hidden !important;margin-right:0 !important;}.leaflet-control-zoom.leaflet-bar a{background:transparent !important;color:#f8fafc !important;border:none !important;width:36px !important;height:36px !important;line-height:36px !important;font-family:var(--font-mono),monospace !important;font-size:1.25rem !important;font-weight:700 !important;display:flex !important;align-items:center !important;justify-content:center !important;transition:all var(--transition-fast) !important;text-decoration:none !important;cursor:pointer !important;}.leaflet-control-zoom.leaflet-bar a.leaflet-control-zoom-in{border-bottom:1px solid rgba(255,255,255,0.12) !important;}.leaflet-control-zoom.leaflet-bar a:hover{background:rgba(0,240,255,0.2) !important;color:var(--accent-cyan) !important;box-shadow:inset 0 0 12px rgba(0,240,255,0.35) !important;}.leaflet-control-zoom.leaflet-bar a:active{background:rgba(0,240,255,0.35) !important;color:#ffffff !important;transform:scale(0.92) !important;}.leaflet-control-zoom.leaflet-bar a.leaflet-disabled{background:transparent !important;color:rgba(255,255,255,0.2) !important;cursor:not-allowed !important;}
+/* ==========================================================================
+   MAP STYLING & CYBER-CARTOGRAPHY - MORELIA NExT
+   Inspirado directamente en las imágenes satelitales y redes poliedrales
+   ========================================================================== */
+
+/* Leaflet Container Overrides */
+.leaflet-container {
+  background: #05080c !important;
+  font-family: var(--font-body) !important;
+}
+
+/* Filtro espacial para lograr el look satelital nocturno de las referencias */
+.satellite-dark-filter {
+  filter: brightness(0.68) contrast(1.25) saturate(1.15) !important;
+}
+
+/* ==========================================
+   MARCADORES DE CIUDADES LUMINISCENTES
+   ========================================== */
+.city-node-marker {
+  width: 44px;
+  height: 44px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  cursor: pointer;
+  pointer-events: auto;
+}
+
+.node-outer-halo {
+  position: absolute;
+  border-radius: 50%;
+  border: 1px solid currentColor;
+  opacity: 0.45;
+  animation: pulse-ring 2.8s infinite cubic-bezier(0.215, 0.61, 0.355, 1);
+  pointer-events: none;
+}
+
+.node-inner-circle {
+  border-radius: 50%;
+  background: currentColor;
+  border: 2px solid #ffffff;
+  box-shadow: 0 0 12px currentColor, 0 0 24px currentColor;
+  position: relative;
+  z-index: 2;
+  transition: transform var(--transition-fast), box-shadow var(--transition-fast);
+}
+
+.city-node-marker:hover .node-inner-circle {
+  transform: scale(1.35);
+  box-shadow: 0 0 20px currentColor, 0 0 35px currentColor;
+}
+
+/* NODO ESPECIAL: MORELIA NExT (CORAZÓN CENTRAL) */
+.city-node-marker.morelia-hub .node-inner-circle {
+  border: 2px solid #ffffff;
+  box-shadow: 0 0 16px currentColor, 0 0 32px currentColor;
+}
+
+.city-node-marker.morelia-hub .node-outer-halo {
+  border: 2px solid var(--accent-lime);
+  animation: pulse-morelia 2.2s infinite ease-out;
+}
+
+/* Insignia CORAZÓN ubicada estrictamente abajo del punto de Morelia (oculta por defecto) */
+.morelia-corazon-badge {
+  position: absolute;
+  top: 36px;
+  left: 50%;
+  transform: translateX(-50%);
+  text-align: center;
+  line-height: 1.15;
+  font-family: var(--font-mono);
+  font-size: 0.62rem;
+  font-weight: 800;
+  color: #000000;
+  background: var(--accent-lime);
+  padding: 2px 7px;
+  border-radius: 3px;
+  box-shadow: 0 0 12px var(--accent-lime);
+  letter-spacing: 0.08em;
+  white-space: nowrap;
+  pointer-events: none;
+  z-index: 25;
+  display: none;
+}
+
+/* Etiquetas flotantes en el mapa (DESHABILITADAS POR DEFECTO) */
+.node-label-wrap {
+  position: absolute;
+  left: 38px;
+  top: 50%;
+  transform: translateY(-50%);
+  display: none;
+  align-items: center;
+  gap: 5px;
+  background: rgba(6, 10, 18, 0.82);
+  backdrop-filter: blur(8px);
+  padding: 3px 8px;
+  border-radius: 4px;
+  border: 1px solid rgba(255, 255, 255, 0.12);
+  white-space: nowrap;
+  pointer-events: none;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.7);
+  transition: all var(--transition-fast);
+}
+
+.city-node-marker:hover .node-label-wrap {
+  border-color: var(--accent-lime);
+  background: rgba(6, 10, 18, 0.95);
+  box-shadow: 0 0 15px rgba(204, 255, 0, 0.3);
+}
+
+/* Activar visualización de etiquetas al presionar el botón de Etiquetas */
+.show-city-labels .node-label-wrap {
+  display: flex !important;
+}
+
+.show-city-labels .morelia-corazon-badge {
+  display: block !important;
+}
+
+.node-city-name {
+  font-family: var(--font-display);
+  font-size: 0.74rem;
+  font-weight: 700;
+  color: #ffffff;
+  letter-spacing: 0.02em;
+}
+
+.node-rank-pill {
+  font-family: var(--font-mono);
+  font-size: 0.65rem;
+  font-weight: 700;
+  padding: 2px 6px;
+  border-radius: 4px;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+  white-space: nowrap;
+}
+
+.node-rank-pill.node-rank-nal {
+  background: rgba(0, 240, 255, 0.18);
+  border: 1px solid rgba(0, 240, 255, 0.5);
+  color: var(--accent-cyan);
+  box-shadow: 0 0 8px rgba(0, 240, 255, 0.2);
+}
+
+.node-rank-pill.node-rank-tam {
+  background: rgba(204, 255, 0, 0.14);
+  border: 1px solid rgba(204, 255, 0, 0.38);
+  color: var(--accent-lime);
+}
+
+.node-rank-pill.node-rank-ind {
+  background: rgba(251, 218, 70, 0.16);
+  border: 1px solid rgba(251, 218, 70, 0.4);
+  color: #fbda46;
+}
+
+/* ==========================================
+   ANIMACIONES DE PULSO
+   ========================================== */
+@keyframes pulse-ring {
+  0% {
+    transform: scale(0.6);
+    opacity: 0.8;
+  }
+
+  50% {
+    opacity: 0.3;
+  }
+
+  100% {
+    transform: scale(2.2);
+    opacity: 0;
+  }
+}
+
+@keyframes pulse-morelia {
+  0% {
+    transform: scale(0.5);
+    opacity: 0.9;
+  }
+
+  100% {
+    transform: scale(2.6);
+    opacity: 0;
+  }
+}
+
+/* ==========================================
+   LEAFLET TOOLTIPS Y POPUPS PERSONALIZADOS
+   Fondo oscuro sólido de alta legibilidad
+   ========================================== */
+.custom-map-tooltip,
+.leaflet-tooltip {
+  background: #040810 !important;
+  background-color: #040810 !important;
+  border: 1px solid rgba(0, 240, 255, 0.5) !important;
+  border-radius: 8px !important;
+  box-shadow: 0 14px 40px rgba(0, 0, 0, 0.98), 0 0 16px rgba(0, 240, 255, 0.25) !important;
+  color: #f8fafc !important;
+  padding: 8px 12px !important;
+  font-family: var(--font-body) !important;
+  white-space: normal !important;
+  opacity: 1 !important;
+  pointer-events: none;
+}
+
+.custom-map-tooltip:before,
+.leaflet-tooltip-top:before {
+  border-top-color: #040810 !important;
+}
+
+.custom-map-tooltip.leaflet-tooltip-bottom:before,
+.leaflet-tooltip-bottom:before {
+  border-bottom-color: #040810 !important;
+}
+
+.custom-map-tooltip.leaflet-tooltip-left:before,
+.leaflet-tooltip-left:before {
+  border-left-color: #040810 !important;
+}
+
+.custom-map-tooltip.leaflet-tooltip-right:before,
+.leaflet-tooltip-right:before {
+  border-right-color: #040810 !important;
+}
+
+.leaflet-popup-content-wrapper {
+  background: #040810 !important;
+  border: 1px solid rgba(0, 240, 255, 0.5) !important;
+  border-radius: 10px !important;
+  box-shadow: 0 18px 50px rgba(0, 0, 0, 0.98), 0 0 20px rgba(0, 240, 255, 0.25) !important;
+  color: #f8fafc !important;
+  padding: 0 !important;
+}
+
+.leaflet-popup-content {
+  margin: 0 !important;
+  line-height: 1.4 !important;
+  width: 280px !important;
+}
+
+.leaflet-popup-tip {
+  background: #040810 !important;
+  border: 1px solid rgba(0, 240, 255, 0.5) !important;
+}
+
+.popup-card {
+  padding: 14px 16px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.popup-header {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  border-bottom: 1px solid var(--border-subtle);
+  padding-bottom: 8px;
+}
+
+.popup-city-title {
+  font-size: 1.05rem;
+  font-weight: 800;
+  color: #ffffff;
+}
+
+.popup-city-group {
+  font-size: 0.7rem;
+  color: var(--text-muted);
+}
+
+.popup-stat-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 8px;
+}
+
+.popup-stat-box {
+  background: rgba(0, 0, 0, 0.35);
+  border: 1px solid var(--border-subtle);
+  border-radius: 6px;
+  padding: 6px 8px;
+  display: flex;
+  flex-direction: column;
+}
+
+.popup-stat-label {
+  font-size: 0.65rem;
+  text-transform: uppercase;
+  color: var(--text-muted);
+  font-weight: 600;
+}
+
+.popup-stat-val {
+  font-family: var(--font-mono);
+  font-size: 0.95rem;
+  font-weight: 700;
+  color: var(--accent-lime);
+}
+
+.popup-btn {
+  background: linear-gradient(135deg, rgba(204, 255, 0, 0.2), rgba(0, 240, 255, 0.2));
+  border: 1px solid var(--accent-lime);
+  color: #ffffff;
+  padding: 7px 12px;
+  border-radius: 6px;
+  font-size: 0.75rem;
+  font-weight: 600;
+  cursor: pointer;
+  text-align: center;
+  transition: all var(--transition-fast);
+  margin-top: 4px;
+}
+
+.popup-btn:hover {
+  background: var(--accent-lime);
+  color: #000000;
+  box-shadow: var(--glow-lime);
+}
+
+/* ==========================================
+   CONTROLES FLOTANTES EN EL MAPA
+   ========================================== */
+/* Leyenda Flotante */
+.map-legend-card {
+  background: rgba(8, 14, 24, 0.94);
+  backdrop-filter: var(--backdrop-blur);
+  border: 1px solid rgba(255, 255, 255, 0.12);
+  border-radius: 8px;
+  padding: 10px 14px;
+  box-shadow: 0 8px 30px rgba(0, 0, 0, 0.85);
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  min-width: 220px;
+  pointer-events: auto;
+  user-select: none;
+}
+
+.legend-title {
+  font-size: 0.68rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: var(--text-muted);
+}
+
+.legend-scale-bar {
+  display: flex;
+  height: 8px;
+  border-radius: 4px;
+  overflow: hidden;
+  gap: 2px;
+}
+
+.legend-seg {
+  flex: 1;
+}
+
+.legend-labels {
+  display: flex;
+  justify-content: space-between;
+  font-size: 0.64rem;
+  color: var(--text-secondary);
+  font-family: var(--font-mono);
+}
+
+/* ==========================================
+   BOTONES DE ZOOM (+ y -) LEAFLET PERSONALIZADOS
+   ========================================== */
+.leaflet-top.leaflet-right {
+  top: 14px;
+  right: 14px;
+}
+
+.leaflet-control-zoom.leaflet-bar {
+  background: rgba(6, 11, 20, 0.92) !important;
+  backdrop-filter: blur(16px) !important;
+  border: 1px solid rgba(0, 240, 255, 0.35) !important;
+  border-radius: 8px !important;
+  box-shadow: 0 8px 30px rgba(0, 0, 0, 0.85), 0 0 15px rgba(0, 240, 255, 0.15) !important;
+  overflow: hidden !important;
+  margin-right: 0 !important;
+}
+
+.leaflet-control-zoom.leaflet-bar a {
+  background: transparent !important;
+  color: #f8fafc !important;
+  border: none !important;
+  width: 36px !important;
+  height: 36px !important;
+  line-height: 36px !important;
+  font-family: var(--font-mono), monospace !important;
+  font-size: 1.25rem !important;
+  font-weight: 700 !important;
+  display: flex !important;
+  align-items: center !important;
+  justify-content: center !important;
+  transition: all var(--transition-fast) !important;
+  text-decoration: none !important;
+  cursor: pointer !important;
+}
+
+.leaflet-control-zoom.leaflet-bar a.leaflet-control-zoom-in {
+  border-bottom: 1px solid rgba(255, 255, 255, 0.12) !important;
+}
+
+.leaflet-control-zoom.leaflet-bar a:hover {
+  background: rgba(0, 240, 255, 0.2) !important;
+  color: var(--accent-cyan) !important;
+  box-shadow: inset 0 0 12px rgba(0, 240, 255, 0.35) !important;
+}
+
+.leaflet-control-zoom.leaflet-bar a:active {
+  background: rgba(0, 240, 255, 0.35) !important;
+  color: #ffffff !important;
+  transform: scale(0.92) !important;
+}
+
+.leaflet-control-zoom.leaflet-bar a.leaflet-disabled {
+  background: transparent !important;
+  color: rgba(255, 255, 255, 0.2) !important;
+  cursor: not-allowed !important;
+}
